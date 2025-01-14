@@ -1,0 +1,34 @@
+[color=#5f698a]█[/color][color=#ffffff]░░[/color][color=#5f698a]█ [color=#cb0000]█▄[/color] █[/color] [head=3]U[/head][bold]nited [head=3]N[/head]ations [head=3]M[/head]arine [head=3]C[/head]orps[/bold]     [bold]Form:  [/bold][color=#ff0000]P-401[/color]
+[color=#5f698a]▀▄▄▀ █[/color] [color=#cb0000]▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic]
+[color=#cb0000]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+                        [head=1]Incident Report[/head]
+[italic][bold][color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color][/bold][/italic]
+[color=#1b67a5][head=3]Informant's Details[/head][/color]
+[bold]Name: [/bold]
+NAMEHERE
+[bold]Rank: [/bold]
+RANKHERE
+[bold]Role: [/bold]
+JOBHERE
+
+[bold]Classification of incident:[/bold] WHATHERE
+[bold]Location: [/bold] WHERE HERE
+[bold]Incident Details: [/bold]
+DESCRIBE HERE.
+
+
+[bold]Signed,[/bold]
+[color=#1b67a5][italic]RANKHERE NAMEHERE[/italic][/color]
+[bolditalic]ROLEHERE[/bolditalic]
+[italic][bold][color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color][/bold][/italic]
+                     [italic][color=#ff0000]****MILITARY POLICE USE ONLY****[/color][/italic]
+
+[bold]Officer Assigned: [/bold][italic]NAMEHERE[/italic]
+[bold]Follow-up Recommendations:[/bold]
+[bullet/]Locate any witnesses and collect statements using P-402.
+
+
+
+
+[italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[italic][color=#ff0000]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]
