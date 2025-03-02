@@ -3,15 +3,29 @@
 [color=#ffffff]░[/color][color=#eb7a23]█[/color][color=#383838]░[/color][color=#eb7a23]█[/color]      [head=3]Correspondent Agreement[/head]
 [color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
 [color=#eb7a23]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
-I, [bolditalic][color=#eb7a23]NAMEHERE[/color][/bolditalic], give the Weston-Yamada Corporation the rights to freely edit my work as they see fit. In signing this Contract, I understand that any and all information that might go against Corporate interests or damage the image of Weston-Yamada and the UNMC will be removed at the Liaison discretion. I will not publish, communicate, or distribute any information considered confidential or illegitimate by the Weston-Yamada Corporation at any point, through any means. I understand that failure to sign this document, or violations of the stipulations within once signed, will result in legal action against me.
+[head=2]Signatory Details[/head]
 
-Furthermore, I:
-[bullet][bold]DO[color=red] ( )[/color] [/bold]
-[bullet][bold]DO NOT[color=red] ( )[/color][/bold]
-Give Weston-Yamada the right to publish, advertise, merchandise and distribute my work as they see fit, in return for 30% of all profits gained through the publishing, distribution, and merchandising of my work.
+[bolditalic]NAME: [/bolditalic][color=#25b266](INSERT NAME)[/color]
+    [italic]Affiliation (If Any):[/italic] [color=#1b67a5](AFFILIATION)[/color]
 
-[bold]Signed,[/bold] 
-[italic]FULLNAME, ROLE[/italic]
+[bolditalic]Transference of Ownership (Optional)[/bolditalic]
+     [bullet][italic]Yes: [/italic][color=red]( )[/color]
+     [bullet][italic]No: [/italic][color=red]( )[/color]
+[italic][color=grey]For further information, please consult the Legal Rights and Info.[/color][/italic]
+
+[bolditalic]Further Consultation to Retain Creative Vision[/bolditalic]
+     [bullet][italic]Yes: [/italic][color=red]( )[/color]
+     [bullet][italic]No: [/italic][color=red]( )[/color]
+
+[color=#eb7a23][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
+[head=2]Legal Rights and Info[/head]
+
+[italic]In signing this form, the signatory gives the Weston-Yamada Corporation the rights to freely edit their work. Furthermore, the signatory understands that any and all information that is considered against Corporate interests or damages the image of the Weston-Yamada Corporation will be removed in future edits and revisions. 
+
+The Correspondent understands that they have revoked the right to communicate, publish, or distribute any information considered confidential to the Weston-Yamada Corporation without permission from Weston-Yamada Representatives to communicate, publish, or distribute select pieces of information. Failure to do so is considered grounds for legal action.
+
+If the Correspondent has allowed for the Weston-Yamada Corporation to publish and distribute their work, they are entitled to [color=red][bolditalic]30%[/bolditalic][/color] of all profits gained through the publishing, distribution, and merchandising of their work. If they are denied the compensation they are owed, the terms of this agreement are considered [bolditalic]VOID.[/bolditalic][/italic]
+
 [color=#eb7a23][color=#eb7a23][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
 [color=#AA8760]NAMEHERE, Corporate Liaison | [italic]UNS Almayer[/italic][/color]
 [color=#eb7a23][bolditalic]Weston-Yamada[/color] Special Services Department[/bolditalic]
