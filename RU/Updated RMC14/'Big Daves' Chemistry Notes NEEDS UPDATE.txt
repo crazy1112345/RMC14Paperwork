@@ -1,0 +1,82 @@
+# Big Dave's Chemistry Cheat Sheet
+[color=Green][head=1]Chemistry Cheat Sheet[/head][/color]
+[bolditalic]authored by Dave 'Big Dave' Small[/bolditalic]
+[color=DarkGreen]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+                                 [head=2]- Drug Basics -[/head]
+
+[color=#cb0000][head=3]Brute Healing:[/head][/color]
+[bold]Bicaridine:[/bold] Basic brute medicine - OD 30U
+[bolditalic]Meralyne:[/bolditalic] Advanced brute medicine: - OD 15U
+
+[color=#f39f27][head=3]Burn Healing:[/head][/color]
+[bold]Kelotane:[/bold] Basic burn medicine: OD 30U
+[bolditalic]Dermaline:[/bolditalic] Advanced burn medicine: OD 15U
+
+[color=#9fed58][head=3]Toxin Healing:[/head][/color]
+[bolditalic]Dylovene:[/bolditalic] Basic but strongest toxin medicine: OD 30U
+[bold]Arithrazine:[/bold] Advanced but weaker toxin medicine: OD 7.5U
+
+[color=#1b67a5][head=3]Oxygen / Bloodloss Healing:[/head][/color]
+[bolditalic]Dexalin Plus:[/bolditalic] Potent oxygen medicine (0.2u): OD 15U
+[bolditalic]Iron:[/bolditalic] Supplement for bloodloss, increases blood level: OD 30U
+
+[color=#c96dbf][head=3]Other:[/head][/color]
+[bold]Inaprovaline:[/bold] Helps those in crit, don't mix with dylo: OD 60U
+[bolditalic]Epinephrine:[/bolditalic] Causes defib to heal 20 brute, burn and toxin: OD 10.5U
+[bold]Ethylredoxrazine:[/bold] Removes drunkness: OD 30U
+[bolditalic]Imidazoline:[/bolditalic] Treats eye damage, 1u is enough: OD 30U
+[bold]Tricordrazine:[/bold] Heals Brute, Burn and Toxin, don't mix with Dylo: OD 30U
+
+[color=DarkGreen]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+                  [head=2]-Chems to be synthesised-[/head]
+- [italic]Mix these in a reagent tank. 300u of each into a reagent tank so you should get 900u total of desired chemical; (or 600u for tricor)[/italic]
+- [italic]All are equal parts[/italic]
+
+[bold][color=#1b67a5]Dexalin+[/bold][/color]:
+Dexalin, Carbon, Iron
+
+[bold][color=#b18644]Tricordrazine[/color][/bold]: (Don't make this unless you have to, you can get tricor from the medical vendor in the main area of medbay using a canister and filling up a tank)
+Improvaline, Dylo
+
+[bold][color=#cb0000]Meralyne[/bold][/color]:
+Carbon, Water, Bicaridine
+
+[bold][color=#f39f27]Dermaline[/bold][/color]:
+Oxygen, Phosphorus, Kelotane
+
+[color=DarkGreen]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+                            [color=coral][head=2]-How to make GC-[/head][/color]
+[bold]1[/bold]. [italic]Put 200u Bic, 200u Mera, 200u Kelo, 200u Derma, 200u Tricor in a reagent tank[/italic]
+[bold]2.[/bold] [italic]Then take 20u units out of the tank, and put 20u units of Dex+ in.[/italic]
+
+[bolditalic]To speed up the process, you can make 3 tanks at the same time (or four with a canister):[/bolditalic]
+[bold]1.[/bold] [italic]Fill up the beaker with 300u of one of the chems[/italic]
+[bold]2[/bold]. [italic]Put 100u in each tank[/italic]
+[bold]3[/bold]. [italic]Repeat again for 200u in each tank[/italic]
+[bold]4.[/bold] [italic]Repeat step 1-3 for all chemicals required except Dex+[/italic]
+[bold]5[/bold]. [italic]Set a side beaker to 20u, and take out 20u from each tank[/italic]
+[bold]6.[/bold] [italic]Put 60u dex+ in the high cap and put it in each tank (you don't need to change the units if the tanks are 980u full as you can only put in 20u)[/italic]
+
+[color=DarkGreen]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+                                           [head=2]-Pills-[/head]
+[italic][bullet/] Pills can be made in the chemmaster, but you need to make sure the buffer is empty, because everything in there will go into the pills equally.
+[bullet/] There's 16 pills max in a container, so for example, if you do 20 units per pill, 20x16 = 320 needed in the buffer
+[bullet/] Make sure you put the chems in the buffer, it won't work out of a beaker it is stored in.[/italic]
+
+[bold]Common Pills:[/bold]
+[bold]FE:[/bold](Bloodloss pills) 236 Iron, 4 dex+ - 15u dose x 16 pills  
+Final dosage per pill: 14.75u iron and 0.25u dex+
+
+[bold][color=#f39f27]KD:[/color][/bold] (Burn pills) 120 Kelo, 120 Derma - 15u dose x 16 pills  
+Final dosage per pill: 7.5 Kelo and 7.5 Derma
+
+[bold][color=#cb0000]MB:[/color][/bold] (Brute pills) 120 Bic, 120 Mera - 15u dose x 16 pills 
+Final dosage per pill: 7.5 Bic and 7.5 Mera
+[color=DarkGreen]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+                       [head=2]-Batch making pills-[/head] 
+
+[bold]5 Bottles of [color=#1b67a5]Iron/Dex+[/bold][/color] - 1192 iron / 8 dex+ - Total in buffer 1200 - Dose 15u x 16 pills
+
+[bold]5 Bottles of [color=#f39f27]KD[/color][/bold] - 600 Kelo / 600 Derma - Total In buffer 1200 - Dose 15u x 16 pills
+
+[bold]5 Bottles of [color=#cb0000]MB[/color][/bold] - 600 Mera / 600 Bic - Total In buffer 1200 - Dose 15u x 16 pills

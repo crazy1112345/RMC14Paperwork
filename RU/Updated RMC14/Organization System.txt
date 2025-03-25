@@ -1,0 +1,48 @@
+A dewey decimal system esque system for naming forms and files, designed for consistency and immediate recognition of what the form is for.
+Department Prefixes:
+
+
+M = Medical
+P = Military Police
+C = Command/CIC
+R = Requisitions
+CL/WY = Corporate Liaison/Weston-Yamada (either or)
+X = Auxiliary
+S = Squad
+E = Engineering
+G = General/things that dont fit elsewhere
+
+
+Secondary Prefixes are used for further specification within a department, IE bag tags for medical, denoting intel vs JTAC for aux, and OT vs MT for engineering.
+Secondary Prefixes:
+
+
+M-BT = Medical - Bag Tag (used to put on body/stasis bags)
+X-F, X-I = Aux flight department, Aux Intel Department
+S-A, S-B, S-C, S-D = Alpha, bravo, charlie squad etc.
+E-O = Ordinance department of engi
+
+
+Any additional prefixes are fine, if they are not super self explanatory add them here.
+
+
+next up, actual numbers!
+Forms are followed by 3 (4 if you prefer, doesn't matter) digit numbers. The first number actually means something, the rest are just to separate it from other forms.
+Ideally similar forms are sequential in number (IE a weapon request form and a equipment request form would be 301 and 302)
+
+
+0 = Forms intended for squad roles, department dependent. M-0xx forms would most likely be intended towards corpsmen, for instance.
+1 = Deceased individuals, death reports, etc
+2 = treatments/procedures, unlikely to be used much outside of medical and maybe MP
+3 = Equipment/Gear requests or inventories, filling armory, etc
+4 = Any sort of reports, audits, etc, that do not explicitly fit within other categories.
+5 = Personnel, authorizing FOB deployment, promoting/demoting, warrants for MP, squad orders, etc.
+6 = General paperwork, NDA's, contracts, affidavits of liability, all the peak bureaucracy things.
+9 = Any other things that don't really fit into other categories. If there are enough similar forms in this, the normal list will be expanded to include it.
+
+
+Examples of purely theoretical forms:
+M-105 could denote a medical form recording the permanent death of a individual
+E-503 could denote a form approving a MT to deploy to the FOB
+S-A501 could denote squad orders for alpha
+MP-443 could denote a MP incident report

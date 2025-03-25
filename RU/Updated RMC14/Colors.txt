@@ -1,0 +1,43 @@
+[head=2]Papercord Color Palette[/head]
+
+Alpha:           [color=#ff0000][bold]#ff0000[/color][/bold]
+Bravo:           [color=#f39f27][bold]#f39f27[/color][/bold]
+Charlie:           [color=#c96dbf][bold]#c96dbf[/color][/bold]
+Delta:           [color=#1b67a5][bold]#1b67a5[/color][/bold]
+Echo:            [color=#49ffab][bold]#49ffab[/color][/bold]
+
+UN Blue1:        [color=#5f698a]█ #5f698a █[/color]
+
+UN Blue2:        [color=#1b67a5]█ #1b67a5 █[/color]
+
+UN Blue3:        [color=#134975]█ #134975 █[/color]
+
+UN Grey1:        [color=#AAAAAA]█ #AAAAAA █[/color]
+
+UN Grey2:	 [color=#6e6e6e]█ #6e6e6e █[/color]
+
+UN Grey3:        [color=#383838]█ #383838 █[/color]
+
+UN Red:          [color=#E41B1B]█ #E41B1B █[/color]
+
+MP Red:          [color=#cb0000]█ #cb0000 █[/color]
+
+Med Blue:        [color=#5B97BC]█ #5B97BC █[/color]
+
+Engi Yellow:     [color=#f39f27]█ #f39f27 █[/color]
+
+Req Brown:       [color=#b18644]█ #b18644 █[/color]
+
+Req Brown2:      [color=#dfc189]█ #dfc189 █[/color]
+
+Subtext Biege:   [color=#AA8760]█ #AA8760 █[/color]
+
+Intel Green:     [color=#287015]█ #287015 █[/color]
+
+Alt Intel:       [color=#75946d]█ #75946d █[/color]
+
+We-Ya Grey:      [color=#383838]█ #383838 █[/color]
+
+We-Ya Orange:    [color=#eb7a23]█ #eb7a23 █[/color]
+
+
