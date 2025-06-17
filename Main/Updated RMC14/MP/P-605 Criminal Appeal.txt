@@ -48,4 +48,5 @@ Attention, the Chief MP and Commander may designate either a member of the Milit
 [italic][color=#134975]RANK NAMEHERE[/italic]
 [color=#E41B1B][bold]ROLEHERE, UNS [italic]Almayer[/italic][/color][/bold]
 [italic][bold][color=#570202][italic]==================================================[/italic][/color]
-[italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]
+Authenticity of this document and its contents is verified by means of an appropriately affixed stamp.
+[color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy is a violation of federal law and will result in prosecution.[/color][/italic]
