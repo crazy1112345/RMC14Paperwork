@@ -1,9 +1,0 @@
-[color=#5b97bc]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
-[color=#5b97bc]►[/color]        [head=3][bold]CASUALTY EVACUATION TAG[/head][/bold]          [color=#5b97bc]◄[/color]
-[color=#5b97bc]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
-[bold]Identity of patient:[/bold] NAME HERE
-[bold]Evacuation reason:[/bold] XX-121 Embryo
-[bold]Stage of infection:[/bold] WRITEHERE
-[bold]Issuing authority:[/bold] NAMEHERE
-[italic][color=#f39f27]Patient requires immediate quarantine and surgery aboard UNS Almayer.[/italic][/color]
-[italic]Some details may be omitted in urgent situations.[/italic]

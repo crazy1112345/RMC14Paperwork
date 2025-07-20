@@ -1,0 +1,35 @@
+[color=#58B38B]█[/color][color=#ffffff]░░[/color][color=#5B97BC]█ [color=#58B38B]█▄[/color] █[/color] [head=3]U[/head][bold]nited [head=3]N[/head]ations [head=3]M[/head]arine [head=3]C[/head]orps[/bold]     [bold]Form:  [/bold][color=#ff0000]M-389[/color]
+[color=#5B97BC]▀▄▄[color=#58B38B]▀[/color] █[/color] [color=#58B38B]▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic]
+[color=#58B38B]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]           
+[head=1][color=#5B97BC]        Supplies Requisition[/color][/head]
+[italic]This form is used to document issued medical supplies allocated to units at the start of an operation.[/italic]
+[color=#58B38B]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[bold]DETAILS:[/bold]
+[bold]Name:[/bold] (Insert Name)
+[bold]Rank:[/bold] (Insert Rank)
+[bold]Role:[/bold] (Insert Role)
+[bold]Squad:[/bold] (Insert Squad)
+
+[bold]Reason for request:[/bold]
+[italic]Write here[/italic]
+[color=#58B38B]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[bold]SUPPLIES REQUESTED:[/bold]
+
+[bold][MED-001][/bold] Medical Gauze | Qty: 1
+[bold][MED-002][/bold] Ointment | Qty: 1
+
+[color=#58B38B]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+                                     [head=3]- VERIFICATION -[/head]
+[bullet] This medical supply request has been thoroughly reviewed, verified for accuracy, and approved under UNMC Medical and Logistics Protocols.
+[bullet] Any discrepancies or misuse of supplies will be subject to investigation under the Uniform Code of Military Justice (UCMJ).
+
+[bold]Requested By:[/bold]
+[color=#1b67a5][italic]RANKHERE NAMEHERE[/italic][/color]
+[bolditalic]Hospital Corpsman[/bolditalic]
+
+[bold]Reviewed By:[/bold]
+[color=#1b67a5][italic]RANKHERE NAMEHERE[/italic][/color]
+[bolditalic]ROLEHERE[/bolditalic]
+
+[color=#AAAAAA]===================================================[/color]
+[italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]
