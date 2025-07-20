@@ -3,22 +3,22 @@
 [color=#f39f27]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
             [head=2][color=#1b67a5]Shipside Modification Request[/color][/head]
 [bold]Details of Requesting Person:[/bold]
-[bold]Name: [/bold][form]
-[bold]Rank: [/bold][form]
-[bold]Position: [/bold][form]
+[bold]Name: [/bold]NAMEHERE
+[bold]Rank: [/bold]RANKHERE
+[bold]Position: [/bold]ROLEHERE
 
 [bold]Requested modification(s)[/bold]:
-[bullet] [form]
-[bullet] [form]
+[bullet]
+[bullet]
 
-[bold]Reason for request: [form][/bold]
+[bold]Reason for request:[/bold]
 [italic]Write Here[/italic]
 [color=#b18644]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 [bold]Requested by,[/bold]
-       [italic][signature], [bolditalic][form][/bolditalic][/italic]
+       [italic]RANK NAME, [bolditalic]ROLEHERE[/bolditalic][/italic]
 
 [bold]Approved by,[/bold]
-       [italic][signature], [bolditalic][form][/bolditalic][/italic]
+       [italic]RANK NAME, [bolditalic]ROLEHERE[/bolditalic][/italic]
        
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]
