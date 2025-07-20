@@ -1,0 +1,39 @@
+[color=#58B38B]█[/color][color=#ffffff]░░[/color][color=#5B97BC]█ [color=#58B38B]█▄[/color] █[/color] [head=3]U[/head][bold]nited [head=3]N[/head]ations [head=3]M[/head]arine [head=3]C[/head]orps[/bold]     [bold]Form:  [/bold][color=#ff0000]M-389[/color]
+[color=#5B97BC]▀▄▄[color=#58B38B]▀[/color] █[/color] [color=#58B38B]▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic]
+[color=#58B38B]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]           
+[head=1][color=#5B97BC]        Supplies Requisition[/color][/head]
+[italic]This form is used to document issued medical supplies allocated to units at the start of an operation.[/italic]
+[color=#58B38B]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[bold]DETAILS:[/bold]
+[bold]Name:[/bold] [form]
+[bold]Rank:[/bold] [form]
+[bold]Role:[/bold] [form]
+[bold]Squad:[/bold] [form]
+
+[bold]Reason for request:[/bold]
+[italic][form][/italic]
+[color=#58B38B]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[bold]SUPPLIES REQUESTED:[/bold] 
+
+[bold][MED-001][/bold] [form] | Qty: [form]
+[bold][MED-002][/bold] [form] | Qty: [form]
+[bold][MED-003][/bold] [form] | Qty: [form]
+[bold][MED-004][/bold] [form] | Qty: [form]
+[bold][MED-005][/bold] [form] | Qty: [form]
+[bold][MED-006][/bold] [form] | Qty: [form]
+[bold][MED-007][/bold] [form] | Qty: [form]
+[bold][MED-008][/bold] [form] | Qty: [form]
+
+[color=#58B38B]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+                                     [head=3]- VERIFICATION -[/head]
+[bullet] This medical supply request has been thoroughly reviewed, verified for accuracy, and approved under UNMC Medical and Logistics Protocols.
+[bullet] Any discrepancies or misuse of supplies will be subject to investigation under the Uniform Code of Military Justice (UCMJ).
+
+[bold]Requested By:[/bold]
+[color=#1b67a5][italic][signature][/italic][/color]
+
+[bold]Reviewed By:[/bold]
+[color=#1b67a5][italic][signature][/italic][/color]
+
+[color=#AAAAAA]===================================================[/color]
+[italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]
