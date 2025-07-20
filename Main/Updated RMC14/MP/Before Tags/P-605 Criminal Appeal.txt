@@ -1,0 +1,52 @@
+[color=#8c0000]█[/color][color=#ffffff]░░[/color][color=#383838]█ [color=#8c0000]█▄[/color] █ [/color][head=3]U[/head][bold]nited [head=3]N[/head]ations [head=3]M[/head]arine [head=3]C[/head]orps[/bold]  [bold]    Form:  [/bold][color=#ff0000]P-605[/color] 
+[color=#383838]▀▄▄[color=#8c0000]▀[/color] █[/color] [color=#8c0000]▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic]  
+[color=#8c0000]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+[color=#383838]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+                       [color=#cb0000][head=1] Criminal Appeal[/head][/color]
+                                               [color=#383838]✧✧✦✧✧[/color]
+       [bolditalic]IN COMPLIANCE WITH UNITED NATIONS MARINE LAW[/bolditalic]
+[color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[bold][color=#134975]Name:[/color][/bold] NAMEHERE
+[bold][color=#134975]Rank:[/color][/bold] RANKHERE	
+[bold][color=#134975]Unit:[/color][/bold] SQUADHERE
+[bold]Appellant Statement:[/bold] 
+STATEMENT HERE
+
+[bolditalic]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/bolditalic]
+[bold][color=#134975]Select the desired Appeal Handler[/color] [/bold]([italic]Mark with a[/italic] ✔ [italic]):
+Attention, the Chief MP and Commander may designate either a member of the Military Police or a Commissioned Officer to handle the appeal in their place, witnesses or personnel involved with the arrest may NOT handle the appeal.[/italic]
+[ ] [color=#cb0000][bold]Chief of Military Police[/color][/bold]
+[ ] [color=#287015][bold]Commander[/color][/bold]
+[ ] [color=goldenrod][bold]Provost Marshal Office [/color][/bold]
+[italic]Do note, an appeal to Provost may be done if a prisoner's appeal was denied or done instead of a standard appeal, if Provost does not respond within 10 minutes the appeal is considered denied.
+[color=#134975][bolditalic]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bolditalic]
+[color=#cb0000][bold]Accused Charges and Penalties[/color][/bold]
+
+[bullet][bold]CHARGEHERE[/bold].
+
+[bullet][bold]CHARGEHERE[/bold].
+
+[color=#cb0000][bold]Total Sentence:[/color][/bold] TIMEHERE 
+[italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+ [color=#cb0000][head=2]* * *  APPEAL HANDLER USE ONLY * * *[/head][/color]
+[color=#570202][italic]==================================================[/italic][/color]
+[italic][color=#AAAAAA]If the desired appeal handler is the Provost Marshal Office, this section may be considered completed with the delivery of a valid decision by the Provost Marshal Office.[/color][/italic]
+[italic]following the proper appeal procedure is [bold]required[/bold], failure to do so may result in a Neglect of Duty charge. Appeals are created to correct improper charges. Accepting a NJP waives the right to appeal. The appeal process must be started within 10 minutes, or 30 minutes for those permanently brigged, after a request is submitted. [/italic]
+
+[bold]Upon reviewing all the presented evidence and witness statements, I the appeal handler, find the listed charges;[/bold]
+[/italic]
+[bullet]For the charge of [bold]CHARGEHERE[/bold];  [color=#cb0000]INVALID/VALID.[/color]
+
+[bullet]For the charge of [bold]CHARGEHERE[/bold];  [color=#cb0000]INVALID/VALID.[/color]
+
+[bold]Appeal is considered; [/bold]([italic]Mark with a[/italic] ✔ [italic]):[/italic]
+[italic]In cases where the charges are changed due to the outcome, please mark Accepted.[/italic]
+[ ] [color=darkgreen][bold]Accepted[/color][/bold]
+[ ] [color=darkred][bold]Denied[/color][/bold]
+
+[bold]Signed,[/bold]
+[italic][color=#134975]RANK NAMEHERE[/italic]
+[color=#E41B1B][bold]ROLEHERE, UNS [italic]Almayer[/italic][/color][/bold]
+[italic][bold][color=#570202][italic]==================================================[/italic][/color]
+Authenticity of this document and its contents is verified by means of an appropriately affixed stamp.
+[color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy is a violation of federal law and will result in prosecution.[/color][/italic]

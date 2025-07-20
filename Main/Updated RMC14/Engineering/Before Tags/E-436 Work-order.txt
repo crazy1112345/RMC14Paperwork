@@ -1,0 +1,109 @@
+[color=#f39f27]█[/color][color=#ffffff]░░[/color][color=#a57022]█ [color=#f39f27]█▄[/color] █[/color] [head=3]U[/head][bold]nited [head=3]N[/head]ations [head=3]M[/head]arine [head=3]C[/head]orps[/bold]     [bold]Form:  [/bold][color=#ff0000]E-436[/color]
+[color=#a57022]▀▄▄[color=#f39f27]▀[/color] █[/color] [color=#f39f27]▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic]
+[color=#f39f27]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]                  [head=2][color=#1b67a5]Preventative Maintenance Work-Order[/color][/head]
+[color=Red][italic]Fill out this form as you complete your work.[/color][/italic]
+[bold][color=#b18644]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold]
+[bold]Active Auxiliary Support Officer:[/bold]
+[italic](Rank - Name)[/italic]
+[bolditalic]Date of Work-Order Assignment:[/bolditalic]
+(Enter Date)
+
+[bold][color=#f39f27]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold]
+[bold]Active Chief Engineer:[/bold]
+[italic](Rank - Name)[/italic]
+
+[bold]On Duty Maintenance Technicians: [/bold]
+
+Team One:
+
+Team Two:
+
+[bold][color=#f39f27]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold]
+[head=3]MAINTENANCE TECHNICIAN[/head]
+
+[color=#cb0000][bold]Notice:
+All APC's must be checked to ensure full functionality. Report any abnormalities in the power-grid in the Notes section, including the APC and Battery Serial-Code and Location.
+
+All Locations listed below are to be checked for damage. Upon discovery of damage to critical equipment, repairs are to be made immediately and notarized in the notes section.
+
+Non-Critical, faulty or otherwise worn equipment is to be tagged with yellow tape for replacement or later repair. Description of wear and location are to be notarized in the notes section.[/bold][/color]
+
+Mark [color=ForestGreen]✔[/color] where Applicable
+
+[bold][head=2]LOWER HULL[/head][/bold]
+
+[bold]Lower Engineering:[/bold]
+[bullet][ ] Fusion Engines
+[bullet][ ] Lower-Starboard Atmos
+[bullet][ ] Lower-Port Atmos
+
+[bold]Lower Aft Section[/bold]
+[bullet][ ] Alpha/Bravo Hypersleep Pods
+[bullet][ ] Requisitions Elevator
+[bullet][ ] SEA Office/Cryo
+[bullet][ ] Charlie/Delta Hypersleep Pods
+
+[bold]Lower Amid-Ships[/bold]
+[bullet][ ] Kitchen/Kitchen Hydro
+[bullet][ ] Disposals
+[bullet][ ] Confereance Room Hypersleep Pods
+[bullet][ ] Lower Medbay / Chemlab 
+[bullet][ ] Ordance Workshop
+[bullet][ ] Gym
+
+[bold]Lower Fore[/bold]
+[bullet][ ] Pilot Workshop
+[bullet][ ] Hangar
+[bullet][ ] Vehicle Bay
+[bullet][ ] Orbital Cannon
+
+[bold]Notes:[/bold]
+
+-
+-
+-
+-
+-
+-
+-
+
+[head=2][bold]UPPER HULL[/head][/bold]
+
+[bold]Upper Fore[/bold]
+[bullet][ ] Brig Cell Cryopods
+[bullet][ ] Brig Medical Cryopods
+[bullet][ ] MP Staff Cryopods
+[bullet][ ] Command Staff Cryopods
+[bullet][ ] Starboard Torpedo Bay
+[bullet][ ] Fore Fuel-Pump Starboard
+[bullet][ ] Fore Fuel-Pump Port
+[bullet][ ] Port Torpedo Bay
+
+[bold]Upper Amid-Ships[/bold]
+[bullet][ ] Upper Medbay
+[bullet][ ] Research/Hydroponics
+[bullet][ ] Containment
+[bullet][ ] Civilian Cryopods
+
+[bold]Upper Aft[/bold]
+[bullet][ ] Aft Fuel-Pump Starboard
+[bullet][ ] Telecomms
+[bullet][ ] Aft Fuel-Pump Port
+[bullet][ ] Laundry Room
+[bullet][ ] Engineering Dorm Cryopods
+[bullet][ ] Upper Engineering
+[bullet][ ] Lifeboats
+
+[bold]Notes:[/bold]
+
+-
+-
+-
+-
+-
+-
+-
+
+
+[color=#AAAAAA]===================================================[/color]
+[italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]
