@@ -1,30 +1,29 @@
-#P-409 Arrest Record
 [color=#8c0000]█[/color][color=#ffffff]░░[/color][color=#383838]█ [color=#8c0000]█▄[/color] █ [/color][head=3]U[/head][bold]nited [head=3]N[/head]ations [head=3]M[/head]arine [head=3]C[/head]orps[/bold]      [bold]Form:  [/bold][color=#ff0000]P-409[/color]
 [color=#383838]▀▄▄[color=#8c0000]▀[/color] █[/color] [color=#8c0000]▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic]
 [color=#8c0000]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
                        [head=1]Record of Arrest[/head]
 
-[bold]Recording Officer:[/bold] [form]
-[bold]Arresting Officer:[/bold] [form]
+[bold]Recording Officer:[/bold] RANK NAMEHERE
+[bold]Arresting Officer:[/bold] RANK NAMEHERE
 
 [bold][head=3]Offender's Details[/head][/bold]
-[bold]Name:[/bold] [form]
-[bold]Rank:[/bold] [form]
-[bold]Position:[/bold] [form]
+[bold]Name:[/bold] NAMEHERE
+[bold]Rank:[/bold] RANKEHERE
+[bold]Position:[/bold] ROLEHERE
 
 [bold]Crimes charged:[/bold]
-[bullet] [form]
-[bullet] [form]
-[bold]Total sentence: [form][/bold]
+[bullet] Write here
+[bullet] Write here 
+[bold]Total sentence:[/bold]
 
-[bold]Notable events prior to arrest:[/bold] [form]
-[bold]Notable events after arrest:[/bold] [form]
-[bold]Additional Notes:[/bold] [form]
+[bold]Notable events prior to arrest:[/bold] WRITEHERE
+[bold]Notable events after arrest:[/bold] WRITEHERE
+[bold]Additional Notes:[/bold] WRITEHERE
 
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [bold]Certified by,[/bold]
-[color=#1b67a5][italic][signature][/italic][/color]
-[bolditalic][form][/bolditalic]
+[color=#1b67a5][italic]RANKHERE NAMEHERE[/italic][/color]
+[bolditalic]ROLEHERE[/bolditalic]
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [italic]The signatory certifies all of the above is true, and contains proper context. The signatory agrees to be interviewed about the arrest if required in a future investigation.
 This document is to be kept on physical record for a minimum period of five (5) years, and digital record permanently.[/italic]

@@ -1,0 +1,36 @@
+[color=#8c0000]█[/color][color=#ffffff]░░[/color][color=#383838]█ [color=#8c0000]█▄[/color] █ [/color][head=3]U[/head][bold]nited [head=3]N[/head]ations [head=3]M[/head]arine [head=3]C[/head]orps[/bold]   [bold]Warrant №[/bold][color=#ff0000]XX[/color]
+[color=#383838]▀▄▄[color=#8c0000]▀[/color] █[/color] [color=#8c0000]▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic]  
+[color=#8c0000]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+[color=#383838]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+                           [head=1][color=#ff0000]Arrest Warrant[/color][/head]
+[bold]THE UNITED NATIONS MARINE CORP[/bold]
+[bold]To any enlisted personnel[/bold]
+
+[bold]Defendant(s):[/bold] [italic]FULLNAME[/italic]
+[bold]Description:[/bold] WRITEHERE
+[bolditalic]The defendant(s) listed above is charged with the crime(s) specified below. 
+You are ordered forthwith to arrest the above named defendant(s) and bring them before me. 
+All UNMC laws are to be followed during this arrest.[/bolditalic]
+
+[bold]Crimes charged:[/bold]
+[bullet] Write here
+[bullet] Write here 
+
+[bold]Defendant(s) is considered:[/bold]
+[  ] Non-UNMC
+[  ] Not Hostile
+[  ] Hostile
+[  ] Unarmed
+[  ] Armed
+[italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[bullet]I certify that this order is lawful and true in accordance with UNMC laws and standards. 
+[bullet]I affirm that the above is true to the best of my knowledge, and that the complaint filed on oath has legal grounds for an arrest. 
+[bullet]In the event of an unlawfully ordered or unjustified arrest, I bear responsibility for the consequences of such an order.
+[bullet]I understand that the charges of such an order may include, but not limited to: Prevarication, and/or Illegal Confinement. 
+[bullet]In the event of a breach of law, I accept any judgment passed by UNMC High Command.
+
+[bold]Signed,[/bold]
+[color=#AA8760][italic](FULLNAME)[/italic][/color]
+Chief Military Police, [italic]UNS Almayer[/italic]
+[italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]
