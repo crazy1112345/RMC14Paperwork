@@ -1,0 +1,60 @@
+[color=#383838]▄[/color][color=#ffffff]░░░[/color][color=#383838]▄[/color]                                                                           [bold]Form: [/bold][color=#ff0000]CL-398[/color]
+[color=#eb7a23]█[/color][color=#383838]▀[/color][color=#eb7a23]▄[/color][color=#383838]▀[/color][color=#eb7a23]█[/color]  [head=1]Weston-Yamada[/head]   
+[color=#ffffff]░[/color][color=#eb7a23]█[/color][color=#383838]░[/color][color=#eb7a23]█[/color]      [head=3]Pizza Order Form[/head]
+[color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+[color=#eb7a23]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[head=2]Pertinent Information[/head]
+
+[head=3][bolditalic]Priority Code: [/bolditalic][color=red]RED[/color][/head]
+
+[bolditalic]Ordering Liaison: [/bolditalic][color=#25b266](INSERT NAME HERE)[/color]
+     [italic]Delivery Address: [/italic][color=#1b67a5]UNS Almayer, ZPT-404[/color]
+
+[bolditalic]Desired Chain:[/bolditalic] Pizza Galaxy, Outpost Zeta, LV-759 Hybrisa Prospera
+[bolditalic]Phone Number: [/bolditalic](690) 825-1979
+
+[bolditalic]Pizzas Requested (Please Alter Quantity if Necessary)[/bolditalic]
+     [bullet](x1) [bold]PIZZATYPE AND SIZE[/bold]
+     [italic]Additional Toppings (if any):[/italic] HERE
+     [bullet]( ) [bold]PIZZATYPE AND SIZE[/bold]
+     [italic]Additional Toppings (if any):[/italic] HERE
+     [bullet]( ) [bold]PIZZATYPE AND SIZE[/bold]
+     [italic]Additional Toppings (if any):[/italic] HERE
+     [bullet]( ) [bold]PIZZATYPE AND SIZE[/bold]
+     [italic]Additional Toppings (if any):[/italic] HERE
+
+[bolditalic]Additional Dishes (if any):[/bolditalic] [italic]WRITEHERE[/italic]
+[bolditalic]Beverages (if any): [/bolditalic][italic]WRITEHERE[/italic]
+
+[bolditalic]Reason for Request:[/bolditalic] [italic]WRITEHERE[/italic]
+[bolditalic]Delivery Instructions:[/bolditalic] [italic]WRITEHERE[/italic]
+[color=#eb7a23][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
+[head=2]Payment Info[/head]
+
+[bolditalic]Funds Supplied By: [/bolditalic][color=#25b266](INSERT NAME, POSITION AND RANK)[/color]
+
+[bolditalic]Tip Percentage (If any): [/bolditalic] XX%
+
+[bolditalic]Method of Payment[/bolditalic]
+     [bullet][italic]Cash: [/italic]( )
+     [bullet][italic]Credit: [/italic]( )
+     [bullet][italic]Debit: [/italic]( )
+     [bullet][italic]Alternative Method (Please state): [/italic]HERE ( )
+
+[color=#eb7a23][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
+[head=2]Legal Rights and Liability Release[/head]
+
+[italic]In signing this form, the Ordering Liaison, the Payer, and any individuals who consume any products supplied by the selected food chain acknowledge that the Weston-Yamada Corporation and the selected pizza chain is released from any liabilities that occur due to consumption of food products supplied. This includes, but is not limited to:[/italic]
+     [bullet]Food Allergies
+     [bullet]Improperly Handled Products
+     [bullet]Undercooked Dishes,
+     [bullet]Incidents Caused by Delivering Personnel
+
+[italic]If you have any questions or complaints, please contact the relevant Customer Service Departments. [/italic]
+[italic][bold][color=#eb7a23]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[bold]Signed,[/bold]
+[color=#AA8760]NAMEHERE, Corporate Liaison | [italic]UNS Almayer[/italic][/color]
+[color=#eb7a23][bolditalic]Weston-Yamada[/color] Special Services Department[/bolditalic]
+[color=#383838]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+                                      [color=#a62d2d][head=3]CONFIDENTIAL[/head][/color]
+[italic][color=#872a2a]Access to this document is restricted to designated departmental personnel. Unauthorized access, sharing, or reproduction of its contents will be treated as a breach of corporate policy and may result in immediate administrative and legal action.[/color][/italic]

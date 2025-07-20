@@ -5,18 +5,18 @@
 [head=1]        ♦  ♦   [color=goldenrod]Liberty Pass[/color]   ♦  ♦[/head]
 [color=#1b67a5]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
 This pass entitles the bearer to leave on liberty from the UNS Almayer. Use of this pass for other than authorized liberty or by any other person not named hereon in is an offense.
-[bold]Name:[/bold] NAMEHERE
-[bold]Rank:[/bold] RANKHERE
-[bold]Squad:[/bold] SQUADHERE
+[bold]Name:[/bold] [form]
+[bold]Rank:[/bold] [form]
+[bold]Squad:[/bold] [form]
 
 [bold]Reason/s:[/bold] 
-[bullet] List their reasons here
-[bullet] And here
-[bullet] Finally here
+[bullet] [form]
+[bullet] [form]
+[bullet] [form]
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [bold]Authorised by,[/bold]
-[italic][color=#134975]RANK FULLNAME[/italic][/color]
-[bold]ROLEHERE[/bold] UNS Almayer
+[italic][color=#134975][signature][/italic][/color]
+ UNS Almayer
 [color=#1b67a5][italic]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/italic][/color]
 [color=#AAAAAA][bullet/]Liberty is subject to immediate cancellation at the discretion of the Command Office.[/color]
 [italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]

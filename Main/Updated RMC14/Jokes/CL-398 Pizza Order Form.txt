@@ -7,39 +7,39 @@
 
 [head=3][bolditalic]Priority Code: [/bolditalic][color=red]RED[/color][/head]
 
-[bolditalic]Ordering Liaison: [/bolditalic][color=#25b266](INSERT NAME HERE)[/color]
+[bolditalic]Ordering Liaison: [/bolditalic][color=#25b266][form][/color]
      [italic]Delivery Address: [/italic][color=#1b67a5]UNS Almayer, ZPT-404[/color]
 
 [bolditalic]Desired Chain:[/bolditalic] Pizza Galaxy, Outpost Zeta, LV-759 Hybrisa Prospera
 [bolditalic]Phone Number: [/bolditalic](690) 825-1979
 
 [bolditalic]Pizzas Requested (Please Alter Quantity if Necessary)[/bolditalic]
-     [bullet](x1) [bold]PIZZATYPE AND SIZE[/bold]
-     [italic]Additional Toppings (if any):[/italic] HERE
-     [bullet]( ) [bold]PIZZATYPE AND SIZE[/bold]
-     [italic]Additional Toppings (if any):[/italic] HERE
-     [bullet]( ) [bold]PIZZATYPE AND SIZE[/bold]
-     [italic]Additional Toppings (if any):[/italic] HERE
-     [bullet]( ) [bold]PIZZATYPE AND SIZE[/bold]
-     [italic]Additional Toppings (if any):[/italic] HERE
+     [bullet](x1) [bold][form][/bold]
+     [italic]Additional Toppings (if any):[/italic] [form]
+     [bullet]( ) [bold][form][/bold]
+     [italic]Additional Toppings (if any):[/italic] [form]
+     [bullet]( ) [bold][form][/bold]
+     [italic]Additional Toppings (if any):[/italic] [form]
+     [bullet]( ) [bold][form][/bold]
+     [italic]Additional Toppings (if any):[/italic] [form]
 
-[bolditalic]Additional Dishes (if any):[/bolditalic] [italic]WRITEHERE[/italic]
-[bolditalic]Beverages (if any): [/bolditalic][italic]WRITEHERE[/italic]
+[bolditalic]Additional Dishes (if any):[/bolditalic] [italic][form][/italic]
+[bolditalic]Beverages (if any): [/bolditalic][italic][form][/italic]
 
-[bolditalic]Reason for Request:[/bolditalic] [italic]WRITEHERE[/italic]
-[bolditalic]Delivery Instructions:[/bolditalic] [italic]WRITEHERE[/italic]
+[bolditalic]Reason for Request:[/bolditalic] [italic][form][/italic]
+[bolditalic]Delivery Instructions:[/bolditalic] [italic][form][/italic]
 [color=#eb7a23][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
 [head=2]Payment Info[/head]
 
-[bolditalic]Funds Supplied By: [/bolditalic][color=#25b266](INSERT NAME, POSITION AND RANK)[/color]
+[bolditalic]Funds Supplied By: [/bolditalic][color=#25b266][form][/color]
 
-[bolditalic]Tip Percentage (If any): [/bolditalic] XX%
+[bolditalic]Tip Percentage (If any): [/bolditalic] [form]%
 
 [bolditalic]Method of Payment[/bolditalic]
-     [bullet][italic]Cash: [/italic]( )
-     [bullet][italic]Credit: [/italic]( )
-     [bullet][italic]Debit: [/italic]( )
-     [bullet][italic]Alternative Method (Please state): [/italic]HERE ( )
+     [bullet][italic]Cash: [/italic]([form] )
+     [bullet][italic]Credit: [/italic]([form] )
+     [bullet][italic]Debit: [/italic]([form] )
+     [bullet][italic]Alternative Method (Please state): [/italic][form] 
 
 [color=#eb7a23][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
 [head=2]Legal Rights and Liability Release[/head]
@@ -53,7 +53,7 @@
 [italic]If you have any questions or complaints, please contact the relevant Customer Service Departments. [/italic]
 [italic][bold][color=#eb7a23]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [bold]Signed,[/bold]
-[color=#AA8760]NAMEHERE, Corporate Liaison | [italic]UNS Almayer[/italic][/color]
+[color=#AA8760][signature] | [italic]UNS Almayer[/italic][/color]
 [color=#eb7a23][bolditalic]Weston-Yamada[/color] Special Services Department[/bolditalic]
 [color=#383838]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
                                       [color=#a62d2d][head=3]CONFIDENTIAL[/head][/color]

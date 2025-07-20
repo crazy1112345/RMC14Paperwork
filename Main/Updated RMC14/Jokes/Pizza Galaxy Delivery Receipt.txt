@@ -17,7 +17,7 @@
 [head=3]                                   Delivery#31[/head]
 
 [bold]DELIVERY ADDRESS: UNS ALMAYER[/bold]
-[bold]DELIVERY INSTRUCTIONS: Deliver Pizza to Willa May[/bold]
+[bold]DELIVERY INSTRUCTIONS: Deliver Pizza to [form][/bold]
 
 --------------------------------- ORDER: Oven ---------------------------------
 4 Margarita                                                                            $43.96
@@ -34,6 +34,6 @@ Service fee                                                                     
                                                                                              --------------
 Total                                                                           $9,478,971.77
 
-                   Gratuity: _________________________
-          Total Charge: _________________________
-                Signature: _________________________
+                   Gratuity: [form]
+          Total Charge: [form]
+                Signature: [form]

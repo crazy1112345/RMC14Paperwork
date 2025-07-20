@@ -1,0 +1,10 @@
+[color=#cb0000]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[color=#cb0000]►[/color]        [head=3][bold]CASUALTY EVACUATION TAG[/head][/bold]          [color=#cb0000]◄[/color]
+[color=#cb0000]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[bold]Identity of deceased:[/bold] NAMEHERE
+[bold]Position of deceased:[/bold] Colonist
+           [bold]Cause of death:[/bold] XX-121
+     [bold]Issuing authority:[/bold] NAMEHERE
+[italic][color=#f39f27]All resuscitation attempts of the deceased failed.[/italic][/color]
+[italic]Deceased are to be transported to and processed aboard UNS Almayer.[/italic]
+

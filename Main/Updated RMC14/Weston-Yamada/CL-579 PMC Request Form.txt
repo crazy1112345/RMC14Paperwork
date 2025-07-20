@@ -5,30 +5,30 @@
 [color=#eb7a23]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
 [head=2]Request Details[/head]
 
-[bold]Requesting Liaison: [/bold][color=#eb7a23](INSERT NAME HERE)[/color]
+[bold]Requesting Liaison: [/bold][color=#eb7a23][form][/color]
 
 [bold]Liaison Post: [/bold][color=#134975][bolditalic]UNS Almayer[/bolditalic] | ZPT-304[/color]
 
-[bold]Reason for Request: [/bold]WRITEHERE
+[bold]Reason for Request: [/bold][form]
 
 [bold]Detachment Size: [/bold]Squad
 
-[bold]Estimated Losses: [/bold] NUMBER
+[bold]Estimated Losses: [/bold] [form]
 
 [bolditalic]Urgency [/bolditalic]
-    [bullet]Minor: [color=red]( )[/color]
-    [bullet]Medium: [color=red]( )[/color]
-    [bullet]Major: [color=red]( )[/color]
-    [bullet]PRIORITY; EMERGENCY: [color=red]( )[/color]
+    [bullet]Minor: [color=red]( [form] )[/color]
+    [bullet]Medium: [color=red]( [form] )[/color]
+    [bullet]Major: [color=red]( [form] )[/color]
+    [bullet]PRIORITY; EMERGENCY: [color=red]( [form] )[/color]
 
-[bold]Additional Resources Requested: [/bold]WRITEHERE
+[bold]Additional Resources Requested: [/bold][form]
 [color=#eb7a23][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
 [head=2]Rights and PMC Usage[/head]
 [color=#8d8f8e][italic]This form is to be filed with the PMC Dispatch Division in situations where it is deemed to be an acceptable and appropriate response to deploy a Weston-Yamada Tactical Private Military Company Response Team. In signing this form, the Requesting Liaison takes full responsibility for injury and loss of life caused to PMC Assets as a result of their commands, and must justify any losses. The Weston-Yamada Corporation withholds the right to deny any PMC Dispatch Requests for any reason.[/italic]
 
 [italic]Once approved by the Weston-Yamada PMC Dispatch Division, PMC detachments are to report to the Requesting Liaison immediately. If the Corporate Liaison is deceased on arrival, PMC Operators are to report to the Operation's Commander for further details, and may take suggestions for further action if not provided additional orders by the Weston-Yamada Corporation. PMC detachments are to prioritize the Liaisons safety, and follow any commands given by the Corporate Liaison and the Weston-Yamada Corporation, with Company orders taking priority. If no orders are given, PMC detachments should prioritize the security of Weston-Yamada Corporation personnel and assets. All other priorities considered secondary.[/italic][/color]
 [color=#eb7a23][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
-[color=#AA8760]NAMEHERE, Corporate Liaison | [italic]UNS Almayer[/italic][/color]
+[color=#AA8760][signature]| [italic]UNS Almayer[/italic][/color]
 [color=#eb7a23][bolditalic]Weston-Yamada[/color] Special Services Department[/bolditalic]
 [color=#383838]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
                                           [color=#a62d2d][head=3]CLASSIFIED[/head][/color]

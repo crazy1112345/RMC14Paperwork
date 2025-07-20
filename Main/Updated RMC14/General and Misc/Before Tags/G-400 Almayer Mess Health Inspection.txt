@@ -1,0 +1,43 @@
+[color=#bbaea9]█[/color][color=#ffffff]░░[/color][color=#5f698a]█ [color=#bbaea9]█▄[/color] █[/color] [head=3]U[/head][bold]nited [head=3]N[/head]ations [head=3]M[/head]arine [head=3]C[/head]orps[/bold]       [bold]Form:  [/bold][color=#ff0000]G-400[/color]
+[color=#5f698a]▀▄▄[color=#bbaea9]▀[/color] █[/color] [color=#bbaea9]▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic]
+[color=#6e6e6e]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[head=1]Almayer Mess Health Inspection[/head]
+[color=#5f698a][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
+[head=2]Checklist[/head]
+[italic]File "Yes"(Y), "No"(N), or "Unsure"(U) in the boxes below.[/italic]
+[color=grey]-----------------------------------------------------------------------------------------[/color]
+[head=3]Food Storage[/head]
+[bullet]Food is stored 6' above the ground: [color=red](Y/N/U) [/color]
+[bullet]Relevant foods are being Refrigerated: [color=red](Y/N/U) [/color]
+[bullet]Ingredients & Foods are stored in a cleanly environment: [color=red](Y/N/U) [/color]
+[bullet]Ready-to-eat Foods are stored separately from raw meats: [color=red](Y/N/U) [/color]
+
+[head=3]Food Preparation & Handling[/head]
+[bullet]During preparation, food is being handled on clean surfaces: [color=red](Y/N/U) [/color]
+[bullet]Mess Techs are washing their hands before and after preparing and handling food: [color=red](Y/N/U) [/color]
+[bullet]Mess Techs are cleanly and in good health while on duty: [color=red](Y/N/U) [/color]
+[bullet]Loose or long hair is secured to prevent contamination: [color=red](Y/N/U) [/color]
+[bullet]All foodstuff is supplied from approved sources: [color=red](Y/N/U) [/color]
+[bullet]Raw foods are being cooked to an internal temperature of 160°F for ground meat and eggs, 165°F for poultry, & 145°F for steaks, chops, and roasts: [color=red](Y/N/U) [/color]
+
+[head=3]Sanitation & Cleanliness[/head]
+[bullet]The Mess is clean, with no spills or messes present: [color=red](Y/N/U) [/color]
+[bullet]The Mess is well-organized and easy to maneuver: [color=red](Y/N/U) [/color]
+[bullet]Waste Disposal methods are present: [color=red](Y/N/U) [/color]
+[bullet]Clean, potable water is present: [color=red](Y/N/U) [/color]
+[bullet]Sufficient lighting is present: [color=red](Y/N/U) [/color]
+[bullet]No pests are present: [color=red](Y/N/U) [/color]
+[bullet]No materials hazardous to health are present: [color=red](Y/N/U) [/color]
+[color=#5f698a][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
+[head=2]Conclusion[/head]
+
+[bold]Inspector Comments: [/bold][color=red][italic](INSERT CONCLUSION AND COMMENTS HERE)[/italic][/color]
+
+[bold]Final Rating: [/bold][color=red]XX[/color][bold]/17[/bold]
+[italic]Insert total number of violations on the "XX".[/italic]
+
+     [bold]Ruling: [/bold][bold][color=#25b266]PASSED [/color]/ [color=red]FAILED[/color][/bold]
+
+[bold]Action Recommended: [/bold][color=red][italic](INSERT ACTION(S) TO BE ENACTED)[/italic][/color]
+
+[bold]Inspector Signature: [/bold][color=#1b67a5](INSERT NAME, RANK, POSITION)[/color]

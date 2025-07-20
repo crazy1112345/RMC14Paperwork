@@ -13,8 +13,7 @@
 [bullet]I understand that I alone am liable for any possible health issues that may occur to any person(s) I dispense General Cure to
 [/italic]
 Signed,
-[italic]RANK NAME[/italic]
-[color=#AA8760]SQUAD Hospital Corpsman[/color]
+[color=#AA8760][italic][signature][/italic][/color]
 
 [color=#AAAAAA]===================================================[/color]
 [italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]

@@ -1,0 +1,26 @@
+[color=#1b67a5]█[/color][color=#ffffff]░░[/color][color=#383838]█ [color=#1b67a5 ]█▄[/color] █[/color] [head=3]U[/head][bold]nited [head=3]N[/head]ations [head=3]M[/head]arine [head=3]C[/head]orps[/bold]      [bold]Form:  [/bold][color=#ff0000]S-404[/color]
+[color=#383838]▀▄▄[color=#1b67a5 ]▀[/color] █[/color] [color=#1b67a5 ]▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic]
+[color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+[color=#1b67a5]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+               [head=2]MEMORANDUM FOR RECORD[/head]
+[bold]To:[/bold] [bolditalic]Commander|UNS Almayer[/bolditalic]
+[bold]From:[/bold] [italic][color=#1b67a5]■RANK NAMEHERE[/italic][/color]
+[bold]Subject:[/bold] [bold]After Action Review of[/bold] [bolditalic]Operation No.■HERE[/bolditalic]
+[italic][color=#1b67a5]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color][/italic]
+[head=3]Scope of Operation [/head]
+[italic]Investigate activation of distress beacon signal, through rapid response by UNS Almayer.[/italic]
+[bold]Deployed Locale: [/bold][italic]■MAPHERE[/italic]
+[bold]Deployed Forces: [/bold][italic]Alpha, Bravo, Charlie and Delta squads.[/italic]
+[italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[bold]Objective: [/bold]■YOUR OBJECTIVE HERE
+[bold]Observations:[/bold][italic]
+[bullet]■What you WITNESSED E.G. how many xenos or were there survivors. Were there barricades etc.
+[bold]Analysis:[/bold]
+[bullet]■Strengths/weakness, Obstacles encountered like acid traps on flanks or unexpecetedly large xeno numbers after initial contact.
+[bold]Recommendations:[/bold]
+[bullet]■How you could improve HERE, or what could SL, CIC, Req or whoever have done differently. 
+
+[bold]Signed,[/bold]
+[italic][color=#1b67a5]■RANK NAMEHERE[/italic][/color]
+[bolditalic]■ROLE[/bolditalic]
+[italic][color=#1b67a5]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color][/italic][/italic]

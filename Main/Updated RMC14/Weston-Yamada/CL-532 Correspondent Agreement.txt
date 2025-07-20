@@ -5,17 +5,17 @@
 [color=#eb7a23]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
 [head=2]Signatory Details[/head]
 
-[bolditalic]NAME: [/bolditalic][color=#25b266](INSERT NAME)[/color]
-    [italic]Affiliation (If Any):[/italic] [color=#1b67a5](AFFILIATION)[/color]
+[bolditalic]NAME: [/bolditalic][color=#25b266][form][/color]
+    [italic]Affiliation (If Any):[/italic] [color=#1b67a5][form][/color]
 
 [bolditalic]Transference of Ownership (Optional)[/bolditalic]
-     [bullet][italic]Yes: [/italic][color=red]( )[/color]
-     [bullet][italic]No: [/italic][color=red]( )[/color]
+     [bullet][italic]Yes: [/italic][color=red]( [form] )[/color]
+     [bullet][italic]No: [/italic][color=red]( [form] )[/color]
 [italic][color=grey]For further information, please consult the Legal Rights and Info.[/color][/italic]
 
 [bolditalic]Further Consultation to Retain Creative Vision[/bolditalic]
-     [bullet][italic]Yes: [/italic][color=red]( )[/color]
-     [bullet][italic]No: [/italic][color=red]( )[/color]
+     [bullet][italic]Yes: [/italic][color=red]( [form] )[/color]
+     [bullet][italic]No: [/italic][color=red]( [form] )[/color]
 
 [color=#eb7a23][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
 [head=2]Legal Rights and Info[/head]
@@ -27,7 +27,7 @@ The Correspondent understands that they have revoked the right to communicate, p
 If the Correspondent has allowed for the Weston-Yamada Corporation to publish and distribute their work, they are entitled to [color=red][bolditalic]30%[/bolditalic][/color] of all profits gained through the publishing, distribution, and merchandising of their work. If they are denied the compensation they are owed, the terms of this agreement are considered [bolditalic]VOID.[/bolditalic][/italic]
 
 [color=#eb7a23][color=#eb7a23][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
-[color=#AA8760]NAMEHERE, Corporate Liaison | [italic]UNS Almayer[/italic][/color]
+[color=#AA8760][signature] | [italic]UNS Almayer[/italic][/color]
 [color=#eb7a23][bolditalic]Weston-Yamada[/color] Special Services Department[/bolditalic]
 [color=#383838]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
                                  [color=#a62d2d][head=3]INTERNAL USE ONLY[/head][/color]

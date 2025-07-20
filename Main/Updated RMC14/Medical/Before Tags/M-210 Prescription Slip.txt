@@ -1,0 +1,28 @@
+[color=#58B38B]█[/color][color=#ffffff]░░[/color][color=#5B97BC]█ [color=#58B38B]█▄[/color] █[/color] [head=3]U[/head][bold]nited [head=3]N[/head]ations [head=3]M[/head]arine [head=3]C[/head]orps[/bold]     [bold]Form:  [/bold][color=#ff0000]M-210[/color]
+[color=#5B97BC]▀▄▄[color=#58B38B]▀[/color] █[/color] [color=#58B38B]▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic]
+[color=#58B38B]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+                       [head=1][color=#5B97BC]Prescription Slip[/color][/head]
+
+[head=3][color=#1b67a5]Patient Information[/color][/head]
+[bold]Name of Patient:[/bold] HERE
+[color=gray][italic]If patient is UNMC personnel[/italic][/color]
+[bold]Rank:[/bold]
+HERE
+[bold]Position:[/bold]
+HERE
+[bold]Squad:[/bold] HERE
+[bold]Prior Medication:[/bold] (N/A)
+[bold]Symptoms/Injuries:[/bold] HERE
+
+[head=3][color=#1b67a5]Prescribed Medication[/color][/head]
+[bold]Medication:[/bold] HERE
+[bold]Dosage:[/bold] HERE [italic]Example: 15u[/italic]
+[bold]Count:[/bold] HERE [italic]Example: 18 pills[/italic]
+[bold]Frequency:[/bold] HERE
+
+
+[bold]Issuing authority[/bold]
+[bolditalic][color=#1b67a5]2nd Lieutenant NAMEHERE[/color][/bolditalic]|[italic][color=#134975]Doctor[/color][/italic]
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+Authenticity of this document and its contents is verified by means of an appropriately affixed stamp.
+[color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy is a violation of federal law and will result in prosecution.[/color][/italic]

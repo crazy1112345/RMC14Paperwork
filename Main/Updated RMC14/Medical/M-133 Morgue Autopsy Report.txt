@@ -6,44 +6,44 @@
 
 [bolditalic]This document certifies the permanent death of an individual who can not, or will not, be revived.[/bolditalic]
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
-[bold]Deceased:[/bold]
-[bold]Deceased Species:[/bold]
-[bold]Rank:[/bold]
-[bold]Role:[/bold]
+[bold]Deceased:[/bold] [form]
+[bold]Deceased Species:[/bold] [form]
+[bold]Rank:[/bold] [form]
+[bold]Role:[/bold] [form]
 [bold]Physical Appearance[/bold] - Please tick ✔
-(  ) [italic]Male[/italic]      (  ) [italic]Female[/italic]    (  ) [italic]Not Applicable/Neither[/italic]
+( [form] ) [italic]Male[/italic]      ( [form] ) [italic]Female[/italic]    ( [form] ) [italic]Not Applicable/Neither[/italic]
 --------------------------------------------------------------------
-[bold]Time of Arrival to Morgue:[/bold]
-[bold]Estimated Time of Death:[/bold]
-[bold]Deceased Temperature:[/bold]
-[bold]Deceased Blood Loss:[/bold] XX% (XXcL)
+[bold]Time of Arrival to Morgue:[/bold] [form]
+[bold]Estimated Time of Death:[/bold] [form]
+[bold]Deceased Temperature:[/bold] [form]
+[bold]Deceased Blood Loss:[/bold] [form]% (XXcL)
 
-[bold]Equipment Found During Inspection:[/bold]
-[bold]Personal Effects Found During Inspection:[/bold]
-[bold]Additional Notes:[/bold]
+[bold]Equipment Found During Inspection:[/bold] [form]
+[bold]Personal Effects Found During Inspection:[/bold] [form]
+[bold]Additional Notes:[/bold] [form]
 --------------------------------------------------------------------
-[bold]Estimated Cause of Death:[/bold]
-[bold]Degree of Wounds:[/bold]
-[bullet]XX [bold][color=#B71C1C]Brute Wounds[/color][/bold]
-[bullet]XX [bold][color=#FBC02D]Burn Wounds[/color][/bold]
-[bullet]XX [bold][color=#4CAF50]Toxin Wounds[/color][/bold]
-[bullet]XX [bold][color=#01579B]Oxygenation Wounds[/color][/bold]
+[bold]Estimated Cause of Death:[/bold] [form]
+[bold]Degree of Wounds:[/bold] [form]
+[bullet][form] [bold][color=#B71C1C]Brute Wounds[/color][/bold]
+[bullet][form] [bold][color=#FBC02D]Burn Wounds[/color][/bold]
+[bullet][form] [bold][color=#4CAF50]Toxin Wounds[/color][/bold]
+[bullet][form] [bold][color=#01579B]Oxygenation Wounds[/color][/bold]
 
 [bold]Description of Wounds:[/bold]
-[bullet] (  ) Mauling, ___ Degree
-[bullet] (  ) Lacerations, ___ Degree
-[bullet] (  ) Contusions, ___ Degree
-[bullet] (  ) Burns, ___ Degree
-[bullet] (  ) Lesions, ___ Degree
-[bullet] (  ) Bruising, ___ Degree
-[bullet] (  ) Avulsions, ___ Degree
-[bullet] (  ) Bleeding, ___ Degree
-[bullet] (  ) Other: ______________________________
+[bullet] ( [form] ) Mauling, [form] Degree
+[bullet] ( [form] ) Lacerations, [form] Degree
+[bullet] ( [form] ) Contusions, [form] Degree
+[bullet] ( [form] ) Burns, [form] Degree
+[bullet] ( [form] ) Lesions, [form] Degree
+[bullet] ( [form] ) Bruising, [form] Degree
+[bullet] ( [form] ) Avulsions, [form] Degree
+[bullet] ( [form] ) Bleeding, [form] Degree
+[bullet] ( [form] ) Other: [form]
 [italic]Check all that apply[/italic]
 --------------------------------------------------------------------
 
-[bold]Operating Individual:[/bold] [color=#1b67a5][italic]Rank Name, ROLEHERE[/italic][/color]
-[bold]Overseeing Individual(s):[/bold] [color=#1b67a5][italic]Rank Name, ROLEHERE[/italic][/color] [italic]if applicable[/italic]
+[bold]Operating Individual:[/bold] [color=#1b67a5][italic][signature][/italic][/color]
+[bold]Overseeing Individual(s):[/bold] [color=#1b67a5][italic][signature][/italic][/color] [italic]if applicable[/italic]
 [color=#AAAAAA]===================================================
 [italic][bullet]I certify that the above information is accurate and complete to the best of my knowledge. 
 [bullet]This certification is issued in accordance with UNMC regulations and will be used for official purposes, including but not limited to, notification of next of kin and processing of any related benefits. 

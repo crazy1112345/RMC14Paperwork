@@ -5,12 +5,12 @@
      [bolditalic]A correctly filed M-488 MUST accompany this document[/bolditalic]
 
 [head=3]Patient Information[/head]
-[bold]Name of Patient:[/bold]
-[bold]Prior History:[/bold] (N/A)
+[bold]Name of Patient:[/bold] [form]
+[bold]Prior History:[/bold] [form]
 [color=gray][italic]If patient is UNMC personnel[/italic][/color]
-[bold]Rank:[/bold]
-[bold]Position:[/bold]
-[bold]Squad:[/bold] (N/A)
+[bold]Rank:[/bold] [form]
+[bold]Position:[/bold] [form]
+[bold]Squad:[/bold] [form]
 
 [bolditalic]This document certifies the named patient has been declared [color=#E41B1B]unfit for duty[/color] due to insanity. Appropriate action should be taken based on the state of the patient.[/bolditalic]
 
@@ -19,7 +19,6 @@
 I acknowledge that wrongfully deeming personnel unfit for duty is a violation of Marine Law, and will be prosecuted as neglect of duty.[/color][/italic]
 
 Signed,
-[italic][color=#1b67a5]RANK NAME[/color],[/italic]
-[bolditalic]Chief Medical Officer[/bolditalic]
+[italic][color=#1b67a5][signature][/color],[/italic]
 [color=#AAAAAA]===================================================[/color]
 [italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]

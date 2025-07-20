@@ -9,19 +9,19 @@ has been authorized by the UNMC or the Weston-Yamada Corporation.[/bolditalic]
 
 [italic]The Shipside Liaison is expected to acknowledge the reason for investigation, identify the events resulting in the investigation, explain what action is being taken by UNMC and Weston-Yamada personnel, form conclusions, and highlight any further recommendations to prevent or minimize future incidents that may occur.[/italic] 
 [italic][bold][color=#383838]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
-[bullet][bold]Operation Name:[/bold]WRITEHERE
-[bullet][bold]Responding UNMC Assets:[/bold] WRITEHERE
-[bullet][bold]Reason for Investigation:[/bold] WRITEHERE
-[bullet][bold]Cause of Incident:[/bold] WRITEHERE
-[bullet][bold]Details of the Incident:[/bold] WRITEHERE	
+[bullet][bold]Operation Name:[/bold][form]
+[bullet][bold]Responding UNMC Assets:[/bold] [form]
+[bullet][bold]Reason for Investigation:[/bold] [form]
+[bullet][bold]Cause of Incident:[/bold] [form]
+[bullet][bold]Details of the Incident:[/bold] [form]	
 
-[bullet][bold]Action being taken:[/bold] WRITEHERE
+[bullet][bold]Action being taken:[/bold] [form]
 
-[bullet][bold]Conclusion:[/bold] WRITEHERE
+[bullet][bold]Conclusion:[/bold] [form]
 
-[bullet][bold]Further Action Recommended:[/bold] WRITEHERE
+[bullet][bold]Further Action Recommended:[/bold] [form]
 [color=#eb7a23][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
-[color=#AA8760]NAMEHERE, Corporate Liaison | [italic]UNS Almayer[/italic][/color]
+[color=#AA8760][signature] | [italic]UNS Almayer[/italic][/color]
 [color=#eb7a23][bolditalic]Weston-Yamada[/color] Special Services Department[/bolditalic]
 [color=#383838]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
                                       [color=#a62d2d][head=3]CONFIDENTIAL[/head][/color]

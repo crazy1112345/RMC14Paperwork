@@ -6,9 +6,9 @@
 [head=2]Section A[/head]
 [head=3]Identification[/head]
 [color=#aaaaaa]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
-[bold]UNMC ID:[/bold]    [color=#002AAF]#[/color]
+[bold]UNMC ID:[/bold]    [color=#002AAF]#[form][/color]
                    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-[bold]Marine Name:[/bold]    [color=#002AAF](FULLNAME)[/color]
+[bold]Marine Name:[/bold]    [color=#002AAF][form][/color]
                             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [head=2]Section B[/head]
 [head=3]Information[/head]
@@ -50,5 +50,4 @@
 [head=3]History[/head]
 [color=#aaaaaa]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
 [bold]Previous Workplace:[/bold]
-Words and words and words.
-
+[form]

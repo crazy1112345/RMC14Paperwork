@@ -5,18 +5,24 @@
 [italic]This form is used to document issued medical supplies allocated to units at the start of an operation.[/italic]
 [color=#58B38B]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 [bold]DETAILS:[/bold]
-[bold]Name:[/bold] (Insert Name)
-[bold]Rank:[/bold] (Insert Rank)
-[bold]Role:[/bold] (Insert Role)
-[bold]Squad:[/bold] (Insert Squad)
+[bold]Name:[/bold] [form]
+[bold]Rank:[/bold] [form]
+[bold]Role:[/bold] [form]
+[bold]Squad:[/bold] [form]
 
 [bold]Reason for request:[/bold]
-[italic]Write here[/italic]
+[italic][form][/italic]
 [color=#58B38B]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
-[bold]SUPPLIES REQUESTED:[/bold]
+[bold]SUPPLIES REQUESTED:[/bold] [form]
 
-[bold][MED-001][/bold] Medical Gauze | Qty: 1
-[bold][MED-002][/bold] Ointment | Qty: 1
+[bold][MED-001][/bold] [form] | Qty: [form]
+[bold][MED-002][/bold] [form] | Qty: [form]
+[bold][MED-003][/bold] [form] | Qty: [form]
+[bold][MED-004][/bold] [form] | Qty: [form]
+[bold][MED-005][/bold] [form] | Qty: [form]
+[bold][MED-006][/bold] [form] | Qty: [form]
+[bold][MED-007][/bold] [form] | Qty: [form]
+[bold][MED-008][/bold] [form] | Qty: [form]
 
 [color=#58B38B]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
                                      [head=3]- VERIFICATION -[/head]
@@ -24,12 +30,10 @@
 [bullet] Any discrepancies or misuse of supplies will be subject to investigation under the Uniform Code of Military Justice (UCMJ).
 
 [bold]Requested By:[/bold]
-[color=#1b67a5][italic]RANKHERE NAMEHERE[/italic][/color]
-[bolditalic]Hospital Corpsman[/bolditalic]
+[color=#1b67a5][italic][signature][/italic][/color]
 
 [bold]Reviewed By:[/bold]
-[color=#1b67a5][italic]RANKHERE NAMEHERE[/italic][/color]
-[bolditalic]ROLEHERE[/bolditalic]
+[color=#1b67a5][italic][signature][/italic][/color]
 
 [color=#AAAAAA]===================================================[/color]
 [italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]

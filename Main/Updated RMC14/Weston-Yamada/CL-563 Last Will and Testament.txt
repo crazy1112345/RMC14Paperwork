@@ -14,11 +14,11 @@ I, [italic]NAMEHERE[/italic], an enlisted member of the UNMC, hereby acknowledge
 [bullet]I understand that my next of kin will be notified of my death no more than thirty (30) days after being declared deceased or killed in action by the relevant authorities.
 
 [bold]Signed,[/bold] 
-[italic]RANK NAME, ROLE[/italic]
+[italic][signature][/italic]
 UNMC 2nd Company [italic]"Falling Falcons"[/italic]
 [italic][bold][color=#eb7a23]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [bold]Approved by,[/bold]
-[color=#AA8760]NAMEHERE, Corporate Liaison | [italic]UNS Almayer[/italic][/color]
+[color=#AA8760][signature] | [italic]UNS Almayer[/italic][/color]
 [color=#eb7a23][bolditalic]Weston-Yamada[/color] Special Services Department[/bolditalic]
 [color=#383838]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
                                       [color=#a62d2d][head=3]UNRESTRICTED[/head][/color]

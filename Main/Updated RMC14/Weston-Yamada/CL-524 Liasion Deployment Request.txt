@@ -27,10 +27,10 @@ Direct Weston-Yamada Corporation directives overwrite any directives from comman
 I understand the purpose of the Liaisons deployment, all rights and responsibilities they hold while deployed, and certify I have read and understood this document in its entirety. I understand violations of these rights will result in legal action by Weston-Yamada corporation to offending parties, if deemed necessary. 
 
 Signed,
-[italic]RANK NAME,[/italic]
+[italic][signature],[/italic]
 [bold]Commander of the UNS Almayer[/bold]
 [color=#eb7a23][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
-[color=#AA8760]NAMEHERE, Corporate Liaison | [italic]UNS Almayer[/italic][/color]
+[color=#AA8760][signature] | [italic]UNS Almayer[/italic][/color]
 [color=#eb7a23][bolditalic]Weston-Yamada[/color] Special Services Department[/bolditalic]
 [color=#383838]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
                                       [color=#a62d2d][head=3]CONFIDENTIAL[/head][/color]

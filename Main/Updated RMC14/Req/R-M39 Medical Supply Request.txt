@@ -4,20 +4,20 @@
          [head=1][color=#b18644]Medical Supply Request[/color][/head]
 
 [bold]Item(s) Requested:[/bold]
-[bullet]
-[bullet]
-[bullet]
+[bullet] [form]
+[bullet] [form]
+[bullet] [form]
 
 [bold]Reason for request:[/bold]
-[italic]Write Here[/italic]
+[italic][form][/italic]
 [color=#b18644]_________________________________________________________________[/color]
 [italic][bullet]I certify that all requested equipment is essential to  the operation. 
 [bullet]I understand that chemicals and other medical supplies are sensitive and should be handled with utmost care.[/italic]
 
 [bold]Requested by,[/bold]
-       [italic]RANK NAME, Quartermaster[/italic]
+       [italic][signature][/italic]
 
 [bold]Approved by,[/bold]
-       [italic]RANK NAME, Chief Medical Officer[/italic]
+       [italic][signature][/italic]
 [italic][bold][color=#134975]_________________________________________________________________[/color][/bold][/italic]
 [italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]

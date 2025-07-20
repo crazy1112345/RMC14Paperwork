@@ -4,11 +4,11 @@
 [color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
 [color=#eb7a23]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
 [bold]From:[/bold] NAMEHERE, on behalf of Weston-Yamada Corporation
-[bold]Infringing Party:[/bold] RANK NAMEHERE
-[bold]Cessation Deadline:[/bold][italic]WRITEHERE[/italic]
+[bold]Infringing Party:[/bold] [form]
+[bold]Cessation Deadline:[/bold][italic][form][/italic]
 
-[bold]Infringing Action(s):[/bold][italic]WRITEHERE[/italic]
-[bold]Related Documents and/or Events:[/bold] [italic]WRITEHERE[/italic]
+[bold]Infringing Action(s):[/bold][italic][form][/italic]
+[bold]Related Documents and/or Events:[/bold] [italic][form][/italic]
 [color=#eb7a23][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
 [head=3]Legal Significance[/head]
 [italic]This letter is a formal order to cease any and all activities that infringe upon Weston-Yamada Corporation's legal rights. This may include, but is not limited to,[/italic]
@@ -20,6 +20,6 @@
  
 [italic]Failure to cease and desist within the specified deadline will result in legal action against the infringing party, on behalf of the Weston-Yamada Corporation. For further information on Weston-Yamada Corporation's legal rights, please contact the Weston-Yamada Legal Department.[/italic]
 [color=#eb7a23][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
-[color=#AA8760]NAMEHERE, Corporate Liaison | [italic]UNS Almayer[/italic][/color]
+[color=#AA8760][signature] | [italic]UNS Almayer[/italic][/color]
 [color=#eb7a23][bolditalic]Weston-Yamada[/color] Special Services Department[/bolditalic]
 [color=#383838]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]

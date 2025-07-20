@@ -3,45 +3,45 @@
 [color=#ffffff]░[/color][color=#eb7a23]█[/color][color=#383838]░[/color][color=#eb7a23]█[/color]     [head=3][italic]Compensated Non-Disclosure Agreement[/italic][/head]
 [color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
 [color=#eb7a23]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
-I, [bolditalic][color=#383838]NAMEHERE[/color][/bolditalic], promise to not disclose sensitive information or take legal action against the Weston-Yamada Corporation in regards to the events of [bold][color=#eb7a23]COLONYNAME[/color][/bold]. Furthermore, I will not communicate, publish, or distribute any confidential Weston-Yamada information, unless ordered to by Weston-Yamada Corporation personnel. In signing this non-disclosure agreement, I am entitled to up to [bold]three[/bold] of the items below: 
+I, [bolditalic][color=#383838][signature][/color][/bolditalic], promise to not disclose sensitive information or take legal action against the Weston-Yamada Corporation in regards to the events of [bold][color=#eb7a23]COLONYNAME[/color][/bold]. Furthermore, I will not communicate, publish, or distribute any confidential Weston-Yamada information, unless ordered to by Weston-Yamada Corporation personnel. In signing this non-disclosure agreement, I am entitled to up to [bold]three[/bold] of the items below: 
 
 [italic]Mark selected item(s) with [bold]X[/bold][/italic]
 
-[bullet][bold]Financial Compensation: [/bold]( )
+[bullet][bold]Financial Compensation: [/bold]([form])
      [italic]Specified Amount: [/italic]$10,000
 
-[bullet][bold]Limited Insurance Coverage: [/bold]( )
+[bullet][bold]Limited Insurance Coverage: [/bold]([form])
 [italic] Select one type below.[/italic]
-     [italic]Life Insurance: [/italic]( )
-     [italic]Health Insurance: [/italic]( )
-     [italic]Property Insurance: [/italic]( )
-     [italic]Vacation Insurance: [/italic]( )
-     [italic]Life Insurance: [/italic]( )
-     [italic]Accident Insurance: [/italic]( )
+     [italic]Life Insurance: [/italic]([form])
+     [italic]Health Insurance: [/italic]([form])
+     [italic]Property Insurance: [/italic]([form])
+     [italic]Vacation Insurance: [/italic]([form])
+     [italic]Life Insurance: [/italic]([form])
+     [italic]Accident Insurance: [/italic]([form])
 [italic]Compensation is subject to standard insurance claim processing, as described in policy WY-I-238[/italic]
 
-[bullet][bold]Indefinite Pension: [/bold]( )
+[bullet][bold]Indefinite Pension: [/bold]([form])
      [italic]Income Per Month: [/italic]$1,000
 
-[bullet][bold]Tuition Aid:[/bold] ( )
+[bullet][bold]Tuition Aid:[/bold] ([form])
      [italic]Valid For: [/italic]2 Years
      [italic]Reimbursement Limit During Specified Duration: [/italic]$5,000
 
-[bullet][bold]Extensive Physical and Mental Care: [/bold]( )
+[bullet][bold]Extensive Physical and Mental Care: [/bold]([form])
  [italic]Please specify any conditions of note below.[/italic]
-  [bolditalic]Physical:[/bolditalic] WRITEHERE
+  [bolditalic]Physical:[/bolditalic] [form]
 
-  [bolditalic]Mental[/bolditalic] WRITEHERE
+  [bolditalic]Mental[/bolditalic] [form]
 
-[bullet][bold]Relocation to a We-Ya colony:[/bold] ( )
-      [italic]Desired Colony:[/italic] COLONYHERE
+[bullet][bold]Relocation to a We-Ya colony:[/bold] ([form])
+      [italic]Desired Colony:[/italic] [form]
 
 [bold]Signed,[/bold] 
-(FULL NAME)
+[signature]
 [color=#eb7a23][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
 [italic]All selected compensation is to be provided by the Weston-Yamada Corporation. If Weston-Yamada Corporation fails to meet provide compensation as described above without proper reasoning and/or discourse, this agreement is void. I acknowledge that if I violate the terms of this NDA at any point, this agreement is void, and Weston Yamada Corporation has the right to pursue legal action and revoke compensation.[/italic]
 [color=#eb7a23][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
-[color=#AA8760]NAMEHERE, Corporate Liaison | [italic]UNS Almayer[/italic][/color]
+[color=#AA8760][signature] | [italic]UNS Almayer[/italic][/color]
 [color=#eb7a23][bolditalic]Weston-Yamada[/color] Special Services Department[/bolditalic]
 [color=#383838]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
                                       [color=#a62d2d][head=3]UNRESTRICTED[/head][/color]
