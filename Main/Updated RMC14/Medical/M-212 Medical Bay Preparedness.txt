@@ -1,0 +1,83 @@
+[color=#58B38B]█[/color][color=#ffffff]░░[/color][color=#5B97BC]█ [color=#58B38B]█▄[/color] █[/color] [head=3]U[/head][bold]nited [head=3]N[/head]ations [head=3]M[/head]arine [head=3]C[/head]orps[/bold]     [bold]Form:  [/bold][color=#ff0000]M-212[/color]
+[color=#5B97BC]▀▄▄[color=#58B38B]▀[/color] █[/color] [color=#58B38B]▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic]
+[color=#58B38B]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+    [head=1][color=#5B97BC]Medical Bay Preparedness[/color][/head]
+
+[bolditalic]This form is to be used in order to estimate how well the medical bay is prepared to recieve casualties and to supply medical personnel, as well as how prepared it is for routine inspections.[/bolditalic]
+
+[head=3][color=#5B97BC]Supply capabillity:[/color][/head]
+[italic]This section is to be used to determine the abillity of medbay to not only supply any personnel coming to it directly, but also it's abillity to supply requisitions with anything needing to be sent to the AO.[/italic]
+
+[bold]Pills:[/bold]
+[bolditalic][color=#1b67a5]It is recommended to have at least five of each of these always ready, or, for FE and D+, their advanced equivalent, FN+.[/bolditalic][/color]
+[bullet/][bold]MB[/bold] - [form] bottles.
+[bullet/][bold]KD[/bold] - [form] bottles.
+[bullet/][bold]FE[/bold] - [form] bottles.
+[bullet/][bold]D+[/bold] - [form] bottles.
+[bullet/][bold]IMI[/bold] - [form] bottles.
+
+[bold]Liquids:[/bold]
+[bolditalic][color=#1b67a5]It is recommended to have at least one tank of each of these always ready, refilled as needed.[/bolditalic][/color]
+[bullet/][bold]MB[/bold] - [form] tanks.
+[bullet/][bold]KD[/bold] - [form] tanks.
+[bullet/][bold]GC[/bold] - [form] tanks.
+
+[bold]Requisitions requests:[/bold]
+[bolditalic][color=#1b67a5]It is recommended to put most of these items in labeled medical belts for ease of transportation to requisitions as well as ease of organization.[/bolditalic][/color]
+[bullet/][bold]Gauze[/bold] [form]
+[bullet/][bold]Ointment[/bold] [form]
+[bullet/][bold]Brute treatment kit[/bold] [form]
+[bullet/][bold]Burn treatment kit[/bold] [form]
+[bullet/][bold]Defibrillators[/bold] [form]
+[bullet/][bold]Roller Beds[/bold] [form]
+[bullet/][bold]Medevac Stretchers[/bold] [form]
+[bullet/][bold]Stasis bags[/bold] [form]
+[bullet/][bold]Assorted chemical canisters[/bold] [form]
+[bullet/][bold]Assorted pill bottles[/bold] [form]
+
+- Please tick ✔
+
+[head=3][color=#5B97BC]Casualty treatment:[/color][/head]
+[italic]This section is to be used to determine the abillity of medbay to properly recieve and treat any wounded personnel, whether they need a scraped knee treated, or a failing heart surgically repaired.[/italic]
+
+[bold]Reception:[/bold]
+[italic][color=#1b67a5]Make sure anyone that is in dire need of treatment is allowed to skip reception and deal with the paperwork after they're treated.[/italic][/color]
+Is the reception desk manned? [form]
+Is there a check-in and check-out sheet? [form]
+Are there roller beds ready to recieve any casualties? [form]
+
+[bold]Treatment bay:[/bold]
+Are the doors leading in clear of obstructions? [form]
+Is there easily accesible medicine near the medical beds? [form]
+Are the IV stands filled with blood or saline? [form]
+Is the treatment area clean? [form]
+
+[bold]Operating Theatres:[/bold]
+Are the doors leading in clear of obstructions? [form]
+Are the surgical trays in an easily accesible spot? [form]
+Is the bottle of bone gel in the surgical tray full? [form]
+Is the IV stand filled with blood or saline? [form]
+Is the operating theatre clean? [form]
+
+- Please tick ✔
+[head=3][color=#5B97BC]Inspection readiness:[/color][/head]
+[italic][color=#1b67a5]This section is to be used to determine if the medbay will be likely to pass any inspections, whether from an SEA or the Provost.[/italic][/color]
+
+Is the entire medical bay clear of "floor pills"? [form]
+Are all chemical containers labeled with dosage info? [form]
+Are the surgical tools & medical devices stored properly? [form]
+
+[italic][color=#1b67a5]While the above is all that is needed to legally pass the inspection as written in the current SOP, you should also strive for the below, as well as everything else that is above.[/italic][/color]
+
+Are all bodies properly stored in the morgue? [form]
+Are the medbay floors & tables clean and free of clutter? [form]
+If any of the clutter is medical in nature, is the medical gear properly stored? [form]
+Do all chemical bottles have their lid? [form]
+If there has been any modifications to the medbay, do you have the accompanying paperwork detailing and authorizing said modifications? [form]
+
+- Please tick ✔
+
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+Authenticity of this document and its contents is verified by means of an appropriately affixed stamp.
+[color=#E41B1B]Use of this document inconsistent with UCMJ regulations & UNMC policy is a violation of federal law and will result in prosecution.[/color][/italic]
+[italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]

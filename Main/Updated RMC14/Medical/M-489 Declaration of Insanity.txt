@@ -1,0 +1,24 @@
+[color=#58B38B]█[/color][color=#ffffff]░░[/color][color=#5B97BC]█ [color=#58B38B]█▄[/color] █[/color] [head=3]U[/head][bold]nited [head=3]N[/head]ations [head=3]M[/head]arine [head=3]C[/head]orps[/bold]     [bold]Form:  [/bold][color=#ff0000]M-489[/color]
+[color=#5B97BC]▀▄▄[color=#58B38B]▀[/color] █[/color] [color=#58B38B]▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic]
+[color=#58B38B]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+            [head=1][color=#5B97BC]Declaration of Insanity[/color][/head]
+     [bolditalic]A correctly filed M-488 MUST accompany this document[/bolditalic]
+
+[head=3]Patient Information[/head]
+[bold]Name of Patient:[/bold] [form]
+[bold]Prior History:[/bold] [form]
+[color=gray][italic]If patient is UNMC personnel[/italic][/color]
+[bold]Rank:[/bold] [form]
+[bold]Position:[/bold] [form]
+[bold]Squad:[/bold] [form]
+
+[bolditalic]This document certifies the named patient has been declared [color=#E41B1B]unfit for duty[/color] due to insanity. Appropriate action should be taken based on the state of the patient.[/bolditalic]
+
+[color=#58B38B]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[italic][color=Gray]I, the Chief Medical Officer of the UNS Almayer, certify the contents of this document are factual to the extent of my knowledge. 
+I acknowledge that wrongfully deeming personnel unfit for duty is a violation of Marine Law, and will be prosecuted as neglect of duty.[/color][/italic]
+
+Signed,
+[italic][color=#1b67a5][signature][/color],[/italic]
+[color=#AAAAAA]===================================================[/color]
+[italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]

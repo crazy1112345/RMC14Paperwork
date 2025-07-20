@@ -1,0 +1,34 @@
+[color=#5f698a]█[/color][color=#ffffff]░░[/color][color=#5f698a]█ [color=#f39f27]█▄[/color] █[/color] [head=3]U[/head][bold]nited [head=3]N[/head]ations [head=3]M[/head]arine [head=3]C[/head]orps[/bold]      [bold]Form:  [/bold][color=#ff0000]X-F45[/color]
+[color=#5f698a]▀▄▄▀ █[/color] [color=#f39f27]▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic]
+[color=#f39f27]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color] 
+[head=1][color=#1b67a5]Preflight Checklist[/color][/head]
+
+[bold]AUD-25 Designation:[/bold] [form]
+
+[bold]Preflight Check Items:[/bold]
+- < ✔ > External Inspection
+- < ✔ > Fuel Level Check
+- < ✔ > Hydraulic Systems Check
+- < ✔ > Electrical Systems Check
+- < ✔ > Navigation Systems Check
+- < ✔ > Communication Systems Check
+- < ✔ > Engine Start Procedure
+- < ✔ > Flight Controls Check
+- < ✔ > Weapon Systems Check
+- < ✔ > Safety Equipment Check
+
+[bold]Notes:[/bold]
+ [italic][form][/italic]
+[italic][bold][color=#f39f27]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[italic]I certify that I have completed all the preflight checks listed above, and that the aircraft is deemed airworthy in accordance with UNMC regulations and safety protocols. 
+Any discrepancies found have been reported and addressed.[/italic]
+
+[bold]Signed,[/bold]
+[head=3][color=#AA8760][italic][signature][/italic][/color][/head]
+[italic][bold][color=#f39f27]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[color=#AAAAAA][italic][bullet]This Preflight Checklist must be completed and signed before every flight operation. 
+[bullet]Failure to comply with preflight procedures may result in disciplinary action and grounding of the aircraft.
+[bullet]Any issues found during the preflight check must be reported to the maintenance crew and resolved before flight clearance is granted.
+[bullet]This document is to be kept on record for the duration of the flight and for five years thereafter for audit and review purposes.[/italic][/color]
+[color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]
+[italic][bold][color=#eb7a23]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]

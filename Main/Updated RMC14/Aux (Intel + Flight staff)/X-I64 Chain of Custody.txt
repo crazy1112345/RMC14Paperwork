@@ -1,0 +1,35 @@
+[color=#287015]█[/color][color=#ffffff]░░[/color][color=#383838]█ [color=#287015]█▄[/color] █[/color] [head=3]U[/head][bold]nited [head=3]N[/head]ations [head=3]M[/head]arine [head=3]C[/head]orps[/bold]     [bold]Form:  [/bold][color=#ff0000]X-I63[/color]
+[color=#383838]▀▄▄[color=#287015]▀[/color] █[/color] [color=#287015]▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic]
+[color=#383838]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+                       [head=1][color=#287015]Chain of Custody[/color][/head]
+
+[bold]Type of document/device:[/bold] [italic][form][/italic]
+[bold]Item Designation:[/bold] [color=#ff0000][italic][form][/italic][/color]
+[bold]Item Serial Number [color=#AAAAAA][italic](if applicable)[/italic][/color]:[/bold] [color=#ff0000][italic][form][/italic][/color]
+[bold]Received from:[/bold] [color=#75946d][italic][form][/italic][/color]
+[bold]Received by:[/bold] [color=#72856d][italic][form][/italic][/color]
+[bold]Date:[/bold] [italic][form] [/italic]
+[bold]Time:[/bold] [italic][form][/italic]
+
+[italic][bold][color=#287015]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[bold]Date of collection:[/bold] [italic][form][/italic]
+[bold]Time of collection:[/bold] [italic][form][/italic]
+[bold]Collected by:[/bold] [color=#75946d][italic][form][/italic][/color]
+[bold]Description of item:[/bold]
+    [bullet] [italic][form][/italic]
+
+[bold]Location where collected:[/bold]
+    [bullet] [italic][form][/italic]
+
+[bold]Additional Comments:[/bold]
+    [bullet] [italic][form][/italic]
+
+[italic][bold][color=#287015]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[bold]Certified by,[/bold]
+[bolditalic][signature][/bolditalic]
+
+[color=#AAAAAA]===================================================
+[bullet][italic]Failure to accurately complete this document may compromise the integrity of collected intelligence, rendering it unreliable for operational use.[/italic]
+[bullet][italic]Noncompliance with UNMC Intelligence Gathering Policy X-I406 constitutes a violation of military regulations and may result in disciplinary action or prosecution under applicable law.[/italic][/color]
+[color=#AAAAAA]===================================================[/color]
+[italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]
