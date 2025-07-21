@@ -4,7 +4,7 @@
 [color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
 [color=#eb7a23]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
 [head=2]General Info[/head]
-[italic]I, [/italic][color=#eb7a23](INSERT NAME), Corporate Liaison,[/color][italic] request permission to view any intel gathered by UNMC Personnel during the course of this operation. In doing so, I agree to the following tenants outlined below.[/italic]
+[italic]I, [/italic][color=#eb7a23][signature],[/color][italic] request permission to view any intel gathered by UNMC Personnel during the course of this operation. In doing so, I agree to the following tenants outlined below.[/italic]
 
 [head=3]Non-Interference Policy[/head]
 The requesting Liaison is not permitted, under any circumstances, to destroy, tamper with, or confiscate any documents gathered by the UNMC, unless permitted by relevant Command members. Failure to adhere to this ruling is considered grounds for future investigation.
@@ -16,10 +16,9 @@ The [color=#1b67a5][bold]CO[/bold][/color], [color=#1b67a5][bold]XO[/bold][/colo
 The Liaison has the legal right to distribute any confidential information gathered during an operation in Weston-Yamada territory to their Superiors. This right is rescinded in situations where the subject documents belong to the UN and, by extension, the UNMC. Refusal to allow a Liaison to communicate sensitive information to the Company is considered grounds for legal action. Furthermore, any information gathered by the UNMC during an operation that belongs to the Weston-Yamada Corporation is considered confidential.
 
 Signed,
-[italic]RANK NAME,[/italic]
-[bold]ROLEHERE of the UNS Almayer[/bold]
+[bold][signature] of the UNS Almayer[/bold]
 ------------------------------------------------------------------------------------------
-[color=#AA8760]NAMEHERE, Corporate Liaison | [italic]UNS Almayer[/italic][/color]
+[color=#AA8760][signature] | [italic]UNS Almayer[/italic][/color]
 [color=#eb7a23][bolditalic]Weston-Yamada[/color] Special Services Department[/bolditalic]
 [color=#AAAAAA]===================================================[/color]
 [italic][color=grey]By signing this form, the signatories acknowledge that they have reviewed and understood the contents of this document. This form is to be kept for record-keeping and documentation by the distributing party.[/italic]

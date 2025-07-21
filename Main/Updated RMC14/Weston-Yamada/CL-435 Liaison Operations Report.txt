@@ -4,14 +4,14 @@
 [color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
 [color=#eb7a23]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
 [bold]To:[/bold] Director of the Special Services Department
-[bold]Operation:[/bold] (round number)
-[bold]Subject:[/bold] (Write here)
+[bold]Operation:[/bold] [form]
+[bold]Subject:[/bold] [form]
 
 [bold]Report Number:[/bold] ABC-123-123-D
 ─────────────────────────────────────────
 [italic]Dear Director,
      write here[/italic]
 ─────────────────────────────────────────
-[color=#AA8760]NAMEHERE, Corporate Liaison | [italic]UNS Almayer[/italic][/color]
+[color=#AA8760][signature] | [italic]UNS Almayer[/italic][/color]
 [color=#eb7a23][bolditalic]Weston-Yamada[/color] Special Services Department[/bolditalic]
 

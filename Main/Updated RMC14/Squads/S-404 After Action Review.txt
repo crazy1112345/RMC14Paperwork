@@ -4,23 +4,23 @@
 [color=#1b67a5]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
                [head=2]MEMORANDUM FOR RECORD[/head]
 [bold]To:[/bold] [bolditalic]Commander|UNS Almayer[/bolditalic]
-[bold]From:[/bold] [italic][color=#1b67a5]■RANK NAMEHERE[/italic][/color]
-[bold]Subject:[/bold] [bold]After Action Review of[/bold] [bolditalic]Operation No.■HERE[/bolditalic]
+[bold]From:[/bold] [italic][color=#1b67a5]■[signature][/italic][/color]
+[bold]Subject:[/bold] [bold]After Action Review of[/bold] [bolditalic]Operation No.■[form][/bolditalic]
 [italic][color=#1b67a5]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color][/italic]
 [head=3]Scope of Operation [/head]
 [italic]Investigate activation of distress beacon signal, through rapid response by UNS Almayer.[/italic]
-[bold]Deployed Locale: [/bold][italic]■MAPHERE[/italic]
+[bold]Deployed Locale: [/bold][italic]■[form][/italic]
 [bold]Deployed Forces: [/bold][italic]Alpha, Bravo, Charlie and Delta squads.[/italic]
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
-[bold]Objective: [/bold]■YOUR OBJECTIVE HERE
+[bold]Objective: [/bold]■[form]
 [bold]Observations:[/bold][italic]
-[bullet]■What you WITNESSED E.G. how many xenos or were there survivors. Were there barricades etc.
+[bullet]■[form]
 [bold]Analysis:[/bold]
-[bullet]■Strengths/weakness, Obstacles encountered like acid traps on flanks or unexpecetedly large xeno numbers after initial contact.
+[bullet]■S[form]
 [bold]Recommendations:[/bold]
-[bullet]■How you could improve HERE, or what could SL, CIC, Req or whoever have done differently. 
+[bullet]■[form] 
 
 [bold]Signed,[/bold]
-[italic][color=#1b67a5]■RANK NAMEHERE[/italic][/color]
+[italic][color=#1b67a5]■[signature][/italic][/color]
 [bolditalic]■ROLE[/bolditalic]
 [italic][color=#1b67a5]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color][/italic][/italic]
