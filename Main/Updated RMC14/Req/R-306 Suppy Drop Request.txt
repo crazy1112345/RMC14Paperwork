@@ -5,21 +5,24 @@
 [italic]This form acts as a standing order for the request of specific supplies to be delivered through the Oribital Drop Crate system.[/italic]
 [bolditalic]Submit to Requisitions prior to operational deployment.[/bolditalic]
 [color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
-[bold]Squad:[/bold] SQUADHERE
-[bold]Requester:[/bold] NAMEHERE, ROLEHERE
+[bold]Squad:[/bold] [form]
+[bold]Requester:[/bold] [signature]
 
 [bold]Resupply Contents Requested:[/bold]
-[bullet] 500 x HEDP Grenades
-[bullet] 10 x 54c AP boxes
-[bullet] 
+[bullet] [form] x [form]
+[bullet] [form] x [form]
+[bullet] [form] x [form]
+[bullet] [form] x [form]
+[bullet] [form] x [form]
+[bullet] [form] x [form]
+
 [color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
                     [color=#ff0000][italic]***** REQUISITIONS USE ONLY *****[/italic][/color]
-[bold]Item Sent Down:[/bold] 
-[bold]Quantity:[/bold]  
+[bold]Item Sent Down:[/bold] [form]
+[bold]Quantity:[/bold]  [form]
 
 Approved By,
-[italic]NAMEHERE
-[color=#AA8760]Requisitions Technician[/italic][/color]
+[italic][color=#AA8760][signature][/italic][/color]
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [italic]Disclaimer:
 [color=#AAAAAA][bullet]I certify that the above resupply request is accurate and strictly to be used for the purposes of the operation. Any falsification or omission of information may result in disciplinary action.

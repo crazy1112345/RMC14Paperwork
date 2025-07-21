@@ -4,27 +4,29 @@
               [head=1][color=#b18644]Requisitions Request[/color][/head]
 
 [bold]Information of Requester:[/bold]
-[bold]Name: [/bold]NAMEHERE
-[bold]Rank: [/bold]RANKHERE
-[bold]Position: [/bold]ROLEHERE
+[bold]Name: [/bold][form]
+[bold]Rank: [/bold][form]
+[bold]Position: [/bold][form]
 
 [bold]Requested item(s)[/bold]:
-[bullet]
-[bullet]
+[bullet] [form]
+[bullet] [form]
+[bullet] [form]
+[bullet] [form]
+[bullet] [form]
+[bullet] [form]
 
 [bold]Reason for request:[/bold]
-[italic]Write Here[/italic]
+[italic][form][/italic]
 
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [italic][bullet]I understand that all requisitioned equipment is to be used in a responsible and necessary manner. 
 [bullet]I certify that all requested equipment is essential to  the operation. 
 [bold]Requested by,[/bold]
-[color=#1b67a5][italic]RANKHERE NAMEHERE[/italic][/color]
-[bolditalic]ROLEHERE[/bolditalic]
+[color=#1b67a5][italic][signature][/italic][/color]
 
 [bold]Approved by,[/bold]
-[color=#1b67a5][italic]RANKHERE NAMEHERE[/italic][/color]
-[bolditalic]ROLEHERE[/bolditalic]
+[color=#1b67a5][italic][signature][/italic][/color]
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]
 
