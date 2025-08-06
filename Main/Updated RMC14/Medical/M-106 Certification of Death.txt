@@ -4,23 +4,23 @@
             [head=1][color=#5B97BC]Certification of Death[/color][/head]
 [bolditalic]This document certifies the permanent death of an individual who can not, or will not, be revived.[/bolditalic]
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
-[bold]Deceased:[/bold] [italic][color=#002AAF]NAME[/color][/italic]
-[bold]Rank:[/bold] [color=#002AAF]Write here[/color]
-[bold]Unit:[/bold] [color=#002AAF]Write here[/color]
-[bold]Deceased Species:[/bold] [italic][color=#002AAF]Write here[/color][/italic]
+[bold]Deceased:[/bold] [italic][color=#002AAF][form][/color][/italic]
+[bold]Rank:[/bold] [color=#002AAF][form][/color]
+[bold]Unit:[/bold] [color=#002AAF][form][/color]
+[bold]Deceased Species:[/bold] [italic][color=#002AAF][form][/color][/italic]
 [bold]Physical Appearance[/bold] - Please tick ✔
-(  ) [italic]Male[/italic]      (  ) [italic]Female[/italic]    (  ) [italic]Not Applicable/Neither[/italic]
+( [check] ) [italic]Male[/italic]      ( [check] ) [italic]Female[/italic]    ( [check] ) [italic]Not Applicable/Neither[/italic]
 --------------------------------------------------------------------
-[bold]Cause of Death:[/bold]   [color=#ff0000] Write here[/color]
-[bold]Time of Death:[/bold]     [color=#cb0000 ] Write here[/color]
+[bold]Cause of Death:[/bold]   [color=#ff0000] [form][/color]
+[bold]Time of Death:[/bold]     [color=#cb0000] [form][/color]
 [bold]Location of Death:[/bold]    [color=#002AAF] Map Name[/color]
 [bold]Circumstances leading to death:[/bold]
-[bullet][italic][color=#002AAF]Describe Here[/color][/italic]
+[bullet][italic][color=#002AAF][form][/color][/italic]
 
 [bold]Cadaver disposal-[/bold]
-(  ) [italic]Incinerator[/italic]     (  ) [italic]Cryostasis[/italic]     (✔) [italic]Morgue[/italic]
+( [check] ) [italic]Incinerator[/italic]     ( [check] ) [italic]Cryostasis[/italic]     ( [check] ) [italic]Morgue[/italic]
 
-[bold]Issuing Authority:[/bold] [color=#1b67a5][italic]Rank Name, ROLEHERE[/italic][/color]
+[bold]Issuing Authority:[/bold] [color=#1b67a5][italic][signature][/italic][/color]
 [color=#AAAAAA]===================================================
 [italic][bullet]I certify that the above information is accurate and complete to the best of my knowledge. 
 [bullet]This certification is issued in accordance with UNMC regulations and will be used for official purposes, including but not limited to, notification of next of kin and processing of any related benefits. 

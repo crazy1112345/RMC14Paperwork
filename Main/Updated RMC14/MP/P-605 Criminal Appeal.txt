@@ -1,4 +1,3 @@
-#P-605 Criminal Appeal
 [color=#8c0000]█[/color][color=#ffffff]░░[/color][color=#383838]█ [color=#8c0000]█▄[/color] █ [/color][head=3]U[/head][bold]nited [head=3]N[/head]ations [head=3]M[/head]arine [head=3]C[/head]orps[/bold]  [bold]    Form:  [/bold][color=#ff0000]P-605[/color] 
 [color=#383838]▀▄▄[color=#8c0000]▀[/color] █[/color] [color=#8c0000]▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic]  
 [color=#8c0000]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
@@ -16,9 +15,9 @@
 [bolditalic]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/bolditalic]
 [bold][color=#134975]Select the desired Appeal Handler[/color] [/bold]([italic]Mark with a[/italic] ✔ [italic]):
 Attention, the Chief MP and Commander may designate either a member of the Military Police or a Commissioned Officer to handle the appeal in their place, witnesses or personnel involved with the arrest may NOT handle the appeal.[/italic]
-[ [form] ] [color=#cb0000][bold]Chief of Military Police[/color][/bold]
-[ [form] ] [color=#287015][bold]Commander[/color][/bold]
-[ [form] ] [color=goldenrod][bold]Provost Marshal Office [/color][/bold]
+[ [check] ] [color=#cb0000][bold]Chief of Military Police[/color][/bold]
+[ [check] ] [color=#287015][bold]Commander[/color][/bold]
+[ [check] ] [color=goldenrod][bold]Provost Marshal Office [/color][/bold]
 [italic]Do note, an appeal to Provost may be done if a prisoner's appeal was denied or done instead of a standard appeal, if Provost does not respond within 10 minutes the appeal is considered denied.
 [color=#134975][bolditalic]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bolditalic]
 [color=#cb0000][bold]Accused Charges and Penalties[/color][/bold]
@@ -35,15 +34,16 @@ Attention, the Chief MP and Commander may designate either a member of the Milit
 [italic]following the proper appeal procedure is [bold]required[/bold], failure to do so may result in a Neglect of Duty charge. Appeals are created to correct improper charges. Accepting a NJP waives the right to appeal. The appeal process must be started within 10 minutes, or 30 minutes for those permanently brigged, after a request is submitted. [/italic]
 
 [bold]Upon reviewing all the presented evidence and witness statements, I the appeal handler, find the listed charges;[/bold]
+Anything checked will be consided accepted and anything crossed out will be marked as denied.
 [/italic]
-[bullet]For the charge of [bold][form][/bold];  [color=#cb0000][form].[/color]
+[bullet]For the charge of [bold][form][/bold];  [color=#cb0000][check].[/color]
 
-[bullet]For the charge of [bold][form][/bold];  [color=#cb0000][form].[/color]
+[bullet]For the charge of [bold][form][/bold];  [color=#cb0000][check].[/color]
 
 [bold]Appeal is considered; [/bold]([italic]Mark with a[/italic] ✔ [italic]):[/italic]
 [italic]In cases where the charges are changed due to the outcome, please mark Accepted.[/italic]
-[ [form] ] [color=darkgreen][bold]Accepted[/color][/bold]
-[ [form] ] [color=darkred][bold]Denied[/color][/bold]
+[ [check] ] [color=darkgreen][bold]Accepted[/color][/bold]
+[ [check] ] [color=darkred][bold]Denied[/color][/bold]
 
 [bold]Signed,[/bold]
 [italic][color=#134975][signature][/italic]
