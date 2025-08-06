@@ -3,7 +3,7 @@
 [color=#f39f27]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color] 
 [head=1][color=#1b67a5]Preflight Checklist[/color][/head]
 
-[bold]AUD-25 Designation:[/bold] (Alamo or Normandy)
+[bold]AUD-25 Designation:[/bold] [form]
 
 [bold]Preflight Check Items:[/bold]
 - < ✔ > External Inspection
@@ -18,14 +18,13 @@
 - < ✔ > Safety Equipment Check
 
 [bold]Notes:[/bold]
- [italic]Write Here[/italic]
+ [italic][form][/italic]
 [italic][bold][color=#f39f27]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [italic]I certify that I have completed all the preflight checks listed above, and that the aircraft is deemed airworthy in accordance with UNMC regulations and safety protocols. 
 Any discrepancies found have been reported and addressed.[/italic]
 
 [bold]Signed,[/bold]
-[head=3][color=#AA8760][italic]RANK NAME[/italic][/color][/head]
-[bold]Pilot[/bold]
+[head=3][color=#AA8760][italic][signature][/italic][/color][/head]
 [italic][bold][color=#f39f27]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [color=#AAAAAA][italic][bullet]This Preflight Checklist must be completed and signed before every flight operation. 
 [bullet]Failure to comply with preflight procedures may result in disciplinary action and grounding of the aircraft.

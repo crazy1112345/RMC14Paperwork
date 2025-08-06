@@ -1,0 +1,39 @@
+[color=#ffffff]░░░░░░░░░░░░░░░░[/color][color=#de8e34]██[/color][color=#bb9e72]██[/color][color=#c8904c]████[/color][color=#df8e33]██[/color][color=#ab8e26]████[/color][color=#c3ad4c]██[/color][color=#cdbb69]████[/color]
+[color=#ffffff]░░░░░░░░░░░░░░[/color][color=#dd8e35]██[/color][color=#9f763b]██[/color][color=#329647]██████[/color][color=#9f763b]██[/color][color=#df8e33]██[/color][color=#ffffff]░░░░░░[/color][color=#ab8e27]██[/color][color=#dbd75e]██[/color]
+[color=#ffffff]░░░░░░░░░░░░[/color][color=#c0854b]██[/color][color=#9f763b]██[/color][color=#339647]██[/color][color=#50a663]██[/color][color=#6a3430]██[/color][color=#50a663]██[/color][color=#6a3430]██[/color][color=#9f763b]██[/color][color=#de8e33]██[/color][color=#ffffff]░░[/color][color=#cdbb69]██[/color][color=#dbd75e]██[/color]
+[color=#ffffff]░░░░░░░░░░░░[/color][color=#de8b2a]██[/color][color=#2f9342]██[/color][color=#682b26]██[/color][color=#4ea460]████████[/color][color=#309343]██[/color][color=#dbd75e]██[/color][color=#d2bc68]██[/color]
+[color=#ffffff]░░░░░░░░░░[/color][color=#a38204]██[/color][color=#de8b2a]██[/color][color=#2f9342]██[/color][color=#8d2528]██[/color][color=#4ea460]██[/color][color=#2f9342]██[/color][color=#8d2528]██[/color][color=#6b3834]██[/color][color=#c1ac46]██[/color][color=#dca35a]██[/color]
+[color=#ffffff]░░░░░░░░[/color][color=#c4ad32]██[/color][color=#ffffff]░░[/color][color=#c48f47]██[/color][color=#2f9342]██[/color][color=#672c26]██[/color][color=#2f9342]██[/color][color=#cdba53]████[/color][color=#c4ad48]██[/color][color=#2f9342]██[/color][color=#de8b2a]██[/color]
+[color=#ffffff]░░░░░░[/color][color=#c2ab31]██[/color][color=#ffffff]░░░░[/color][color=#a58b7a]██[/color][color=#dbcc5b]██[/color][color=#c4ad48]████[/color][color=#4ea460]████[/color][color=#682b26]██[/color][color=#2f9342]██[/color][color=#ba9c6f]██[/color]
+[color=#ffffff]░░░░░░[/color][color=#c4ad32]██[/color][color=#dbcc5b]██[/color][color=#c4ad32]██[/color][color=#caae49]██[/color][color=#b97e23]██[/color][color=#167f1e]██[/color][color=#2f9342]██[/color][color=#8d2528]██[/color][color=#2f9342]██[/color][color=#167f1e]██[/color][color=#de8b2a]██[/color]
+[color=#ffffff]░░░░░░░░░░░░░░░░[/color][color=#d08430]██[/color][color=#df8e33]██[/color][color=#cc934c]██[/color][color=#df8e33]██[/color][color=#cd954c]██[/color]
+
+[bolditalic][color=#32B468][head=1]          P I Z Z A    G A L A X Y[/head][/color][/bolditalic]
+
+                                              Pizza Galaxy
+                       Outpost Zeta, LV-759 Hybrisa Prospera
+                                           (690) 825-1979
+
+[head=3]                                   Delivery#31[/head]
+
+[bold]DELIVERY ADDRESS: UNS ALMAYER[/bold]
+[bold]DELIVERY INSTRUCTIONS: Deliver Pizza to Willa May[/bold]
+
+--------------------------------- ORDER: Oven ---------------------------------
+4 Margarita                                                                            $43.96
+TOTAL BOXES: 4
+
+----------------------------- ORDER: Non-Oven -----------------------------
+2 Dr.Gibb                                                                                  $5.98
+                                                                                             --------------
+Sub-total                                                                                $49.94
+Sales tax (8%)                                                                         $3.99
+Military discount (10%)                                                        $4.99
+Delivery fee                                                              $9,478,920.10
+Service fee                                                                               $2.73
+                                                                                             --------------
+Total                                                                           $9,478,971.77
+
+                   Gratuity: _________________________
+          Total Charge: _________________________
+                Signature: _________________________

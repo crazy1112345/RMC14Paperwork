@@ -4,17 +4,17 @@
 [color=#49ffab]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
              [head=1][color=#49ffab]Echo[/color] Transfer Request[/head]
 
-[bold]I[/bold], [italic]RANK NAME, ROLE[/italic] [bold]hereby request a transfer into Echo Squad for the duration of my deployment.[/bold]
-[bold]Current squad:[/bold] WRITE HERE
+[bold]I[/bold], [italic][signature][/italic] [bold]hereby request a transfer into Echo Squad for the duration of my deployment.[/bold]
+[bold]Current squad:[/bold] [form]
 [bold]Reason for request:[/bold]
-[bullet][italic]WRITE HERE[/italic]
+[bullet][italic][form][/italic]
 
 Signed,
-    [italic]RANK NAME,[/italic] [bold]ROLEHERE[/bold]
+    [italic][signature][/italic]
 [color=#383838]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
                         [head=2]This request has been[/head]
 
-                 [head=1][color=green]APPROVED[/color]|[color=red]DENIED[/color][/head]
+                 [head=1][color=green]APPROVED ( [form] )[/color]|[color=red]DENIED ( [form] )[/color][/head]
 [color=#383838]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
-[bold]Authorised by[/bold] [italic]RANK NAME,[/italic] [bold]ROLE[/bold]
+[bold]Authorised by[/bold] [italic][signature][/italic]
 [italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]

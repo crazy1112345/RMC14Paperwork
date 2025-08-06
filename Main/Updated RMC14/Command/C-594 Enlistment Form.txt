@@ -4,19 +4,18 @@
 [color=#1b67a5]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
                      [head=1]Enlistment Form[/head]
 
-[bold]Name of enlisting person:[/bold] [italic]WRITEHERE[/italic]
-[bold]Desired position:[/bold] [italic]WRITEHERE[/italic]
-[bold]Qualifications:[/bold] [italic]WRITEHERE[/italic]
+[bold]Name of enlisting person:[/bold] [italic][form][/italic]
+[bold]Desired position:[/bold] [italic][form][/italic]
+[bold]Qualifications:[/bold] [italic][form][/italic]
 [color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
-[italic]I, [bold]NAMEHERE[/bold] certify I wish to enlist in the United Nations Marine Corp of my own will, and agree to all stipulations within this document. I understand that enlisting in the United Nations Marine Corp entitles a great risk to life and limb, and I waive the United Nations Marine Corp of all responsibility in the event I am wounded or killed during my enlistment. I understand I am subject to Marine Law during my enlistment, and agree to follow Marine Law in its entirety.[/italic]
+[italic]I, [bold][form][/bold] certify I wish to enlist in the United Nations Marine Corp of my own will, and agree to all stipulations within this document. I understand that enlisting in the United Nations Marine Corp entitles a great risk to life and limb, and I waive the United Nations Marine Corp of all responsibility in the event I am wounded or killed during my enlistment. I understand I am subject to Marine Law during my enlistment, and agree to follow Marine Law in its entirety.[/italic]
 
 [bold]Signed,[/bold]
-NAMEHERE
+[signature]
 [color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 [italic]The signatory above is hereby enlisted in the United Nations Marine Corp under the rank of private in the position of [bold]POSITIONHERE[/bold][/italic].
 
 [bold]Authorised by,[/bold]
-RANK NAMEHERE
-[color=#1b67a5][italic]ROLEHERE of the UNS Almayer[/italic][/color]
+[color=#1b67a5][italic][signature] of the UNS Almayer[/italic][/color]
 [color=#AAAAAA]===================================================[/color]
 [italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]

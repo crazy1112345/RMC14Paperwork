@@ -6,23 +6,29 @@
 [color=#b18644]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 [head=3]DETAILS:[/head]
 
-[bold]Requested By:[/bold] (Squad Name)  
-[bold]Total Cost:[/bold] (Number)  
-[bold]Drop ID:[/bold] 001
-[bold]Delivered By:[/bold] (CiC / Emergency launch)  
+[bold]Requested By:[/bold] [form]
+[bold]Total Cost:[/bold] [form] 
+[bold]Drop ID:[/bold] [form]
+[bold]Delivered By:[/bold] [form]
 [color=#b18644]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 [head=3]CONTENTS:[/head]
 
-[TYPE-001] NAME | Qty:
-[TYPE-002] NAME | Qty: 
-[TYPE-002] NAME | Qty: 
+[TYPE-001] [form] | Qty: [form]
+[TYPE-002] [form] | Qty: [form]
+[TYPE-003] [form] | Qty: [form]
+[TYPE-004] [form] | Qty: [form]
+[TYPE-005] [form] | Qty: [form]
+[TYPE-006] [form] | Qty: [form]
+[TYPE-007] [form] | Qty: [form]
+[TYPE-008] [form] | Qty: [form]
+[TYPE-009] [form] | Qty: [form]
+
 [color=#b18644]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
                                    [head=3]- DECLARATION -[/head]
 [bullet]I confirmed that the contents of the supply drop have been documented and delivered as listed. 
 [bullet]I understand any falsification, discrepancies, unauthorized modifications or omissions will be investigated under UNMC regulations.  
 
 Confirmed By: 
-[color=#1b67a5][italic]RANKHERE NAMEHERE[/italic][/color]
-[bolditalic]ROLEHERE[/bolditalic]
+[color=#1b67a5][italic][signature][/italic][/color]
 [color=#AAAAAA]===================================================[/color]
 [italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]

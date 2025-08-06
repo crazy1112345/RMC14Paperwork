@@ -7,25 +7,25 @@
 Delivery can be requested, provided ample notice is given. 
 Officers are welcome to ask for the Officers menu.[/bolditalic]
 [bold]Starter course:[/bold] [italic]Limited to one serving per marine [/italic]
-[bullet]WRITE FIRST DISH HERE - 
-    - Allergens : Mold, Contaimination, food discoloration
-[bullet]WRITE SECOND DISH HERE - 
-    - Allergens :
+[bullet][form] - 
+    - Allergens : [form]
+[bullet][form] - 
+    - Allergens : [form]
 
 [bold]Main course:[/bold] [italic]Limited to one serving per marine [/italic]
-[bullet]WRITE FIRST DISH HERE - 
-    - Allergens : 
-[bullet]WRITE SECOND DISH HERE - 
-    - Allergens :
+[bullet][form] - 
+    - Allergens : [form]
+[bullet][form] - 
+    - Allergens : [form]
 
 [bold]Dessert course:[/bold] [italic]Limited to two portions per marine [/italic]
-[bullet] Daily fruit - 
-[bullet]WRITE SECOND DISH HERE - 
-    - Allergens :
-[bullet]WRITE THIRD DISH HERE - 
-    - Allergens :
+[bullet] Daily fruit - [form]
+[bullet][form] - 
+    - Allergens : [form]
+[bullet][form] - 
+    - Allergens : [form]
 [italic][bold][color=#f39f27]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
-[color=#AA8760][bolditalic]NAME[/color]|Mess Technician[/bolditalic]
+[color=#AA8760][bolditalic][signature][/bolditalic][/color]
 UNS Almayer
 [italic][bold][color=#f39f27]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [color=#AAAAAA]Failure to comply with the Mess Code of Conduct may result in disciplinary action and record liability for future incidents.

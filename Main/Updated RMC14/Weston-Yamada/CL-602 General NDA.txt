@@ -18,10 +18,10 @@ This [bold]Non-disclosure Agreement[/bold] is made effective as of March 30th 21
 [bold]VI. Term:[/bold] The obligations of this agreement shall survive until 03/30/2293 from the Effective date or until Weston-Yamada sends the signatory written notice releasing the signatory from this Agreement.
 
 [bold]Signed,[/bold] 
-(RANK) (FULL NAME),(ROLE)
+[signature]
 UNMC 2nd Company [italic]"Falling Falcons"[/italic]
 [italic][bold][color=#eb7a23]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [bold]Approved by,[/bold]
-[color=#AA8760]NAMEHERE, Corporate Liaison | [italic]UNS Almayer[/italic][/color]
+[color=#AA8760][signature] | [italic]UNS Almayer[/italic][/color]
 [color=#eb7a23][bolditalic]Weston-Yamada[/color] Special Services Department[/bolditalic]
 [color=#383838]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]

@@ -1,0 +1,51 @@
+[color=#58B38B]█[/color][color=#ffffff]░░[/color][color=#5B97BC]█ [color=#58B38B]█▄[/color] █[/color] [head=3]U[/head][bold]nited [head=3]N[/head]ations [head=3]M[/head]arine [head=3]C[/head]orps[/bold]     [bold]Form:  [/bold][color=#ff0000]M-133[/color]
+[color=#5B97BC]▀▄▄[color=#58B38B]▀[/color] █[/color] [color=#58B38B]▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic]
+[color=#58B38B]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+
+ [head=1][color=#5B97BC]MORGUE AUTOPSY REPORT[/color][/head]
+
+[bolditalic]This document certifies the permanent death of an individual who can not, or will not, be revived.[/bolditalic]
+[italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[bold]Deceased:[/bold]
+[bold]Deceased Species:[/bold]
+[bold]Rank:[/bold]
+[bold]Role:[/bold]
+[bold]Physical Appearance[/bold] - Please tick ✔
+(  ) [italic]Male[/italic]      (  ) [italic]Female[/italic]    (  ) [italic]Not Applicable/Neither[/italic]
+--------------------------------------------------------------------
+[bold]Time of Arrival to Morgue:[/bold]
+[bold]Estimated Time of Death:[/bold]
+[bold]Deceased Temperature:[/bold]
+[bold]Deceased Blood Loss:[/bold] XX% (XXcL)
+
+[bold]Equipment Found During Inspection:[/bold]
+[bold]Personal Effects Found During Inspection:[/bold]
+[bold]Additional Notes:[/bold]
+--------------------------------------------------------------------
+[bold]Estimated Cause of Death:[/bold]
+[bold]Degree of Wounds:[/bold]
+[bullet]XX [bold][color=#B71C1C]Brute Wounds[/color][/bold]
+[bullet]XX [bold][color=#FBC02D]Burn Wounds[/color][/bold]
+[bullet]XX [bold][color=#4CAF50]Toxin Wounds[/color][/bold]
+[bullet]XX [bold][color=#01579B]Oxygenation Wounds[/color][/bold]
+
+[bold]Description of Wounds:[/bold]
+[bullet] (  ) Mauling, ___ Degree
+[bullet] (  ) Lacerations, ___ Degree
+[bullet] (  ) Contusions, ___ Degree
+[bullet] (  ) Burns, ___ Degree
+[bullet] (  ) Lesions, ___ Degree
+[bullet] (  ) Bruising, ___ Degree
+[bullet] (  ) Avulsions, ___ Degree
+[bullet] (  ) Bleeding, ___ Degree
+[bullet] (  ) Other: ______________________________
+[italic]Check all that apply[/italic]
+--------------------------------------------------------------------
+
+[bold]Operating Individual:[/bold] [color=#1b67a5][italic]Rank Name, ROLEHERE[/italic][/color]
+[bold]Overseeing Individual(s):[/bold] [color=#1b67a5][italic]Rank Name, ROLEHERE[/italic][/color] [italic]if applicable[/italic]
+[color=#AAAAAA]===================================================
+[italic][bullet]I certify that the above information is accurate and complete to the best of my knowledge. 
+[bullet]This certification is issued in accordance with UNMC regulations and will be used for official purposes, including but not limited to, notification of next of kin and processing of any related benefits. 
+[bullet]Any falsification or omission of information may result in disciplinary action.[/italic][/color]
+[italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic] 

@@ -1,0 +1,49 @@
+[color=#383838]▄[/color][color=#ffffff]░░░[/color][color=#383838]▄[/color]                                                                          [bold]Form: [/bold][color=#ff0000]CL-609[/color] 
+[color=#eb7a23]█[/color][color=#383838]▀[/color][color=#eb7a23]▄[/color][color=#383838]▀[/color][color=#eb7a23]█[/color]  [head=1]Weston-Yamada[/head]   
+[color=#ffffff]░[/color][color=#eb7a23]█[/color][color=#383838]░[/color][color=#eb7a23]█[/color]     [head=3][italic]The Future Is Now [/italic][/head]
+[color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+[color=#eb7a23]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+                          [head=1]Feedback Form[/head]
+Please mark the appropriate boxes with a X.
+
+[head=3] Section 1: Equipment [/head]
+I found the equipment produced by the Weston-Yamada Corporation to be:
+[mono][bullet] Excellent    \[ ] 
+[bullet] Satisfactory \[ ] 
+[bullet] Poor         \[x] 
+[/mono]
+     [italic] Reasoning: [/italic][color=#1b67a5] WRITEHERE.[/color]
+
+[italic][bold][color=#eb7a23]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[head=3] Section 2: Liaison Performance [/head]
+I found the actions and services of the shipside Corporate Liaison, [bolditalic][color=#25b266](INSERT NAME HERE)[/color][/bolditalic] to be:
+[mono][bullet] Excellent    \[ ] 
+[bullet] Satisfactory \[ ] 
+[bullet] Poor         \[x] 
+[/mono]
+     [italic] Reasoning: [/italic][color=#1b67a5] WRITEHERE[/color]
+
+[italic][bold][color=#eb7a23]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[head=3] Section 3: Corporate Behavior [/head]
+I found the behavior and conduct of the Weston-Yamada Corporation and its personnel to be:
+[mono][bullet] Excellent    \[ ] 
+[bullet] Satisfactory \[ ] 
+[bullet] Poor         \[x] 
+[/mono]
+     [italic]Reasoning:[/italic][color=#1b67a5] WRITEHERE[/color]
+
+[color=#eb7a23][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
+[italic] This form is intended to give proper feedback on the performance of Weston-Yamada equipment and personnel. Any forms deemed to be irrelevant, false, or lacking professionalism will be ignored. In signing this form, I accept that my feedback may be utilized in order to improve Weston-Yamada goods and services. I am not liable to be sued or discriminated against depending on my answers to this questionnaire. This form is not admissible in a court of law under any circumstance.[/italic]
+
+[bold]Signed,[/bold] 
+(RANK) (FULL NAME),(ROLE)
+UNMC 2nd Company [italic]"Falling Falcons"[/italic]
+
+[italic][bold][color=#eb7a23]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[bold]Certified by,[/bold]
+[color=#AA8760]NAMEHERE, Corporate Liaison | [italic]UNS Almayer[/italic][/color]
+[color=#eb7a23][bolditalic]Weston-Yamada[/color] Special Services Department[/bolditalic]
+[color=#383838]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+                                      [color=#a62d2d][head=3]UNRESTRICTED[/head][/color]
+[italic][color=#872a2a]This document contains publicly accessible Weston-Yamada corporate materials. While unrestricted, unauthorized modifications, misuse, or misrepresentation of this data may result in corrective corporate action.[/color][/italic]
+

@@ -5,15 +5,14 @@
    [head=1]Command Correspondence[/head]
 
 [bold]To:[/bold] [bolditalic][color=#1b67a5]UNMC Regional Command[/color] | [color=#cb0000]GSO Chinook-91[/color] [/bolditalic]
-[bold]From:[/bold] RANK NAMEHERE | [color=#cb0000]UNS [italic]Almayer[/italic][/color]
-[bold]Subject:[/bold] [italic]WRITE HERE[/italic]
+[bold]From:[/bold] [form] | [color=#cb0000]UNS [italic]Almayer[/italic][/color]
+[bold]Subject:[/bold] [italic][form][/italic]
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [italic]Regional Command,
-WRITE HERE[/italic]
+[form][/italic]
 
 [bold]Sincerely,[/bold]
-RANK NAMEHERE
-[color=#1b67a5][italic]ROLE HERE[/italic][/color]
+[color=#1b67a5][italic][signature][/italic][/color]
 [color=#AAAAAA]===================================================[/color]
 [italic][color=#E41B1B][bold]This correspondence may be forwarded to UNMC High Command at any time.[/bold]
 Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]

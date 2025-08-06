@@ -6,27 +6,25 @@ UNMC Almayer Generic
 [color=#6e6e6e][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
 [head=3]Information[/head]
 
-[bullet][bold]Name: [/bold]NAME
+[bullet][bold]Name: [/bold][form]
 
-[bullet][bold]Rank:[/bold] RANK
+[bullet][bold]Rank:[/bold] [form]
 
-[bullet][bold]Squad:[/bold] SQUAD
+[bullet][bold]Squad:[/bold] [form]
 
-[bullet][bold]Religious Affiliation:[/bold] RELIGION 
-     [bullet]Denomination, if applicable: N/A
+[bullet][bold]Religious Affiliation:[/bold] [form]
+     [bullet]Denomination, if applicable: [form]
 
-[bullet][bold]Qualifications:[/bold] WRITE HERE
+[bullet][bold]Qualifications:[/bold] [form]
 
-[bullet][bold]Reason for Application[/bold]: WRITE HERE
+[bullet][bold]Reason for Application[/bold]: [form]
 
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [bold]Signed,[/bold]
-[italic]RANK NAME[/italic]
-[bold]ROLE[/bold]
+[bolditalic][signature][/bolditalic]
 
 [bold]Approved by,[/bold]
-[italic]RANK NAME[/italic]
-[bold]ROLE[/bold]
+[bolditalic][signature][/bolditalic]
 [color=#6e6e6e][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
 [italic][color=#AAAAAA]This form is a formal request to be ordained as a Chaplain to the UNMC. Personnel with the rank of Chaplain are expected to perform their duties relevant to their rank, but may be expected to perform additional obligations, such as spiritual, emotional, and mental guidance to UNMC personnel, last rites, sermons, and officiating in relevant ceremonies. They do not hold any additional command authority beyond what their rank entails. Ordained Chaplains are required to serve all UNMC Personnel, no matter their faith or lack thereof. The Chaplain is not to attempt to convert any UNMC Personnel; evidence suggesting proselytization will result in this form being void, and the offending Chaplain will have their ordination revoked. For further information, please contact the United Nations Armed Chaplain Corp (UNACC).[/color][/italic]
 [color=#AAAAAA]===================================================[/color]

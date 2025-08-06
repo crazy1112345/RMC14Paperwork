@@ -9,14 +9,14 @@
 UNS [italic]██████[/italic] [color=#cb0000]SCC-███[/color]
 [color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 [bolditalic]The contents of this correspondence are [color=#cb0000]URGENT[/color][/bolditalic].
-I, [italic][color=#1b67a5]RANK NAME[/color][/italic], Commander of the UNS Almayer, formally request authorization for the deployment of nuclear based ordinance on [bold]MAPHERE[/bold] for the following reason(s):
-[bullet][italic]WRITE HERE[/italic]
+I, [italic][color=#1b67a5][signature][/color][/italic], Commander of the UNS Almayer, formally request authorization for the deployment of nuclear based ordinance on [bold]MAPHERE[/bold] for the following reason(s):
+[bullet][italic][form][/italic]
 [color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 [italic]I certify nuclear action is required to prevent an immense threat to the UN or her citizens.
 I understand that in the event of a Broken Arrow or any other incident involving the misuse or loss of nuclear based ordnance, I will face extreme disciplinary action.[/italic] 
 
 Signed,
-[italic][color=#1b67a5]RANK NAME[/color],[/italic]
+[italic][color=#1b67a5][signature][/color],[/italic]
 [bolditalic]Commander of the UNS Almayer[/bolditalic]
 [color=#AAAAAA]==================================================[/color]
 [italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]

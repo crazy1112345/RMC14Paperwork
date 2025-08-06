@@ -5,22 +5,21 @@
 
 [bold][color=#287015]Intel Fireteam(s):[/bold][/color]
     [bold]Team 1:[/bold]
-        [bullet] [color=#72856d][italic]RANK NAME, ROLE[/italic][/color]
-        [bullet] [color=#72856d][italic]RANK NAME, ROLE[/italic][/color]
+        [bullet] [color=#72856d][italic][form][/italic][/color]
+        [bullet] [color=#72856d][italic][form][/italic][/color]
                                       ---
     [bold]Team 2:[/bold]
-        [bullet] [color=#72856d][italic]RANK NAME, ROLE[/italic][/color]
-        [bullet] [color=#72856d][italic]RANK NAME, ROLE[/italic][/color]
+        [bullet] [color=#72856d][italic][form][/italic][/color]
+        [bullet] [color=#72856d][italic][form][/italic][/color]
                                       ---
     [bold]Team 3:[/bold]
-        [bullet] [color=#72856d][italic]RANK NAME, ROLE[/italic][/color]
-        [bullet] [color=#72856d][italic]RANK NAME, ROLE[/italic][/color]
+        [bullet] [color=#72856d][italic][form][/italic][/color]
+        [bullet] [color=#72856d][italic][form][/italic][/color]
                                       ---
-[bold]Total:[/bold] [italic]#[/italic]
+[bold]Total:[/bold] [italic]#[form][/italic]
 
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [bold]Certified by,[/bold]
-[italic]RANK NAME[/italic]
-[bold]ROLE[/bold]
+[bolditalic][signature][/bolditalic]
 [color=#AAAAAA]===================================================[/color]
 [italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]

@@ -4,33 +4,33 @@
 
 [head=1][color=#1b67a5]Dropship Flight Report Form[/color][/head][color=black]
 
-[bold]AUD-25 Designation:[/bold] (Alamo or Normandy)
+[bold]AUD-25 Designation:[/bold] [form]
 
-[bold]Flight No. :[/bold] #
+[bold]Flight No. :[/bold] # [form]
 
 [bold]Departure from Almayer:[/bold] 
-Marines Onboard: #
-Special Personnel Onboard: # ROLE
+Marines Onboard: # [form]
+Special Personnel Onboard: # [form]
 
 Detailed Cargo Onboard: 
-[italic][bullet]WRITE HERE
-[bullet]WRITE HERE*
+[italic][bullet][form]
+[bullet][form]*
 [/italic]
 [bold]Departure to Almayer:[/bold]
-Marines Onboard: #
-Special Personnel Onboard: # ROLE
+Marines Onboard: # [form]
+Special Personnel Onboard: # [form]
 
 Detailed Cargo Onboard: 
-[italic][bullet]WRITE HERE
-[bullet]WRITE HERE*
+[italic][bullet][form]
+[bullet][form]*
 [/italic]
 [bold]Misc. Information:[/bold]
-Total Fire Missions: #
-[bullet]Anti-Tank Rounds Fired: #
-[bullet]Multi-Purpose Rounds Fired: #
+Total Fire Missions: # [form]
+[bullet]Anti-Tank Rounds Fired: # [form]
+[bullet]Multi-Purpose Rounds Fired: # [form]
 
 Additional Flight Information:
-[italic]WRITE HERE[/italic]
+[italic][form][/italic]
 
 [italic]Cargo marked with an asterisk (*) were retrieved with utilization of Close Air Support Evacuation Systems[/italic]
 
@@ -41,8 +41,7 @@ Additional Flight Information:
 [bullet]I understand any falsification, discrepancies, unauthorized modifications, or omissions will be investigated under UNMC regulations.
 
 [bold]Signed,[/bold]
-[head=3][color=#AA8760][italic]RANK + NAME[/italic][/color][/head]
-[bold]ROLEHERE[/bold]
+[head=3][color=#AA8760][italic][signature][/italic][/color][/head]
 [italic][bold][color=#f39f27]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [color=#E41B1B][italic]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]
 

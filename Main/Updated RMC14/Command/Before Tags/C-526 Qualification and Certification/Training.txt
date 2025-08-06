@@ -1,0 +1,28 @@
+UNMC Command 
+[color=#1b67a5]█[/color][color=#ffffff]░░[/color][color=#383838]█ [color=#1b67a5]█▄[/color] █[/color] [head=3]U[/head][bold]nited [head=3]N[/head]ations [head=3]M[/head]arine [head=3]C[/head]orps[/bold]      [bold]Form:  [/bold][color=#ff0000]C-526[/color]
+[color=#383838]▀▄▄[color=#1b67a5]▀[/color] █[/color] [color=#1b67a5]▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic]
+[color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+[color=#1b67a5]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[color=#383838][head=1]Personnel Qualification and Certification[/head][/color]
+[italic]This form is provided to facilitate the proper qualification of UNMC personnel approved for promotion/change of position.[/italic]
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+In accordance with UNMC policy, [bolditalic]RANKHERE NAMEHERE[/bolditalic], currently in position [bolditalic]ROLEHERE[/bolditalic], is hereby assigned, under direction of [bolditalic]Senior Enlisted Advisor | Head of Department[/bolditalic],  to undergo the following [italic]training/certification[/italic] ([italic]Mark with a[/italic] ✔ [italic]as applicable[/italic]):[/color]
+[bold]Combat [/bold]
+[bullet]Training: [ ]
+[bullet]Certification: [ ]
+[bold]Department (DEPTHERE)[/bold]
+[bullet]Training: [ ]
+[bullet]Certification: [ ]
+[bold]Position (ROLEHERE)[/bold]
+[bullet]Training: [ ]
+[bullet]Certification: [ ]
+
+I, [italic]RANKHERE NAMEHERE[/italic] of UNS [italic]Almayer[/italic] agree to undergo assigned training.
+[bold]Signed,[/bold]
+[color=#134975][italic]RANK NAMEHERE[/italic][/color]
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+I,  [italic]RANKHERE NAMEHERE[/italic], [bolditalic]Senior Enlisted Advisor | Head of Department[/bolditalic], certify that [italic]RANKHERE NAMEHERE[/italic] has successfully undergone assigned training/certification.
+[bold]Signed,[/bold]
+[color=#134975][italic]RANK NAMEHERE[/italic][/color]
+[color=#AAAAAA]===================================================[/color]
+[italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]

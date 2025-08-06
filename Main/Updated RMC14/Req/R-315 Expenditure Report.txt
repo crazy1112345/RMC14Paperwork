@@ -10,39 +10,39 @@
 [color=#b18644]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 [bold]SECTION ONE: DETAILS[/bold]
 
-[bold]Operation Name:[/bold] [italic](Operation Name Here)[/italic]
-[bold]Total Budget Spent: [color=red]$AMOUNT[/color][/bold]
-[bold]Remaining Budget: [color=green]$AMOUNT [/color][/bold]
-[bold]Total Supply Drops Dispatched: 000 [/bold]
+[bold]Operation Name:[/bold] [italic][form][/italic]
+[bold]Total Budget Spent: [color=red]$[form][/color][/bold]
+[bold]Remaining Budget: [color=green]$[form] [/color][/bold]
+[bold]Total Supply Drops Dispatched: [form] [/bold]
 
 [color=#b18644]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 [bold]SECTION TWO: ALLOCATION[/bold]
 
 [bold]Squad Requisition Expenditures:[/bold]
-[bold][color=#ff0000]Alpha:[/bold][/color][color=red] $AMOUNT [/color]
-[bold][color=#f39f27]Bravo:[/bold][/color][color=red] $AMOUNT [/color]
-[bold][color=#c96dbf]Charlie:[/bold][/color][color=red] $AMOUNT [/color]
-[bold][color=#1b67a5]Delta:[/bold][/color][color=red] $AMOUNT [/color]
-[bold][color=#49ffab]Echo:[/bold][/color][color=red] $AMOUNT [/color]
+[bold][color=#ff0000]Alpha:[/bold][/color][color=red] $[form] [/color]
+[bold][color=#f39f27]Bravo:[/bold][/color][color=red] $[form] [/color]
+[bold][color=#c96dbf]Charlie:[/bold][/color][color=red] $[form] [/color]
+[bold][color=#1b67a5]Delta:[/bold][/color][color=red] $[form] [/color]
+[bold][color=#49ffab]Echo:[/bold][/color][color=red] $[form] [/color]
 
 [color=#b18644]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 [bold]SECTION THREE: DEPLOYMENT[/bold]
 
 [bold]Squad Supply Drops Dispatched:[/bold]
-[bold][color=#ff0000]Alpha:[/bold][/color] 000
-[bold][color=#f39f27]Bravo:[/bold][/color] 000
-[bold][color=#c96dbf]Charlie:[/bold][/color] 000
-[bold][color=#1b67a5]Delta:[/bold][/color] 000
-[bold][color=#49ffab]Echo:[/bold][/color] 000
+[bold][color=#ff0000]Alpha:[/bold][/color] [form]
+[bold][color=#f39f27]Bravo:[/bold][/color] [form]
+[bold][color=#c96dbf]Charlie:[/bold][/color] [form]
+[bold][color=#1b67a5]Delta:[/bold][/color] [form]
+[bold][color=#49ffab]Echo:[/bold][/color] [form]
 
 [color=#b18644]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 [bold]SECTION FOUR: REMARKS[/bold]
 
 [bold]Reporting Officer's Remarks:[/bold]
-[italic](Brief assessment of logistical efficiency, supply adequacy, or notable shortages/delays.)[/italic]
+[italic][form][/italic]
 
 [bold]Command Review Remarks:[/bold]
-[italic](Assessment of expenditure justification, mission-critical needs, and future budgetary considerations.)[/italic]
+[italic][form][/italic]
 
 [color=#b18644]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
                                     [head=3]- CERTIFICATION -[/head]
@@ -51,12 +51,10 @@
 [bullet] Any discrepancies, irregularities, or fund/resource misuse will be subject to formal UCMJ investigation.
 
 [bold]Prepared By:[/bold]
-[color=#1b67a5][italic]RANKHERE NAMEHERE[/italic][/color]
-[bolditalic]ROLEHERE[/bolditalic]
+[color=#1b67a5][italic][signature][/italic][/color]
 
 [bold]Reviewed By:[/bold]
-[color=#1b67a5][italic]RANKHERE NAMEHERE[/italic][/color]
-[bolditalic]ROLEHERE[/bolditalic]
+[color=#1b67a5][italic][signature][/italic][/color]
 
 [color=#AAAAAA]===================================================[/color]
 [italic][color=#E41B1B]Unauthorized tampering, falsification, or mismanagement of requisitioned resources is a direct violation of UCMJ regulations and UNMC policy MIL-891. Offenders will face immediate disciplinary action and possible legal prosecution.[/color][/italic]

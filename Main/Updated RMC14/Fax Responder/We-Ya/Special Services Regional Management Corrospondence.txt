@@ -12,11 +12,11 @@
 [head=3]From:[/head] [bolditalic]Special Services Regional Office |[color=#cb0000] OCP-583[/color][/bolditalic]
 [bold]Auth Code:[/bold] [bolditalic]1[color=#6FD15C] Charlie[/color]-[color=#1B67A5]Mike[/color][/bolditalic]
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
-[bold]Corporate Liason[/bold] [bolditalic]NAMEHERE[/bolditalic],
+[bold]Corporate Liason[/bold] [bolditalic][form][/bolditalic],
 [italic]WRITE A REPLY HERE. WATCH YOUR WORDING![/italic]
 	
 
-[color=#1b67a5][bold]NAMEHERE | [bolditalic]Communications Executive[/bolditalic][/bold][/color] 
+[color=#1b67a5][bold][signature] | [bolditalic]Communications Executive[/bolditalic][/bold][/color] 
 [bold]Office of the Regional Manager|Special Services Division[bold]
 [color=#eb7a23][bolditalic]Weston-Yamada Orbital Communications Platform 583[/color]
 [color=#383838]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]

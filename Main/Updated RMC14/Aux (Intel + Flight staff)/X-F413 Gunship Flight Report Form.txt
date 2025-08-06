@@ -4,23 +4,23 @@
 
 [head=1][color=#1b67a5]Gunship Flight Report Form[/color][/head]
 
-[bold]AUD-25 Designation:[/bold] (Alamo or Normandy)
+[bold]AUD-25 Designation:[/bold] [form]
 
-[bold]Flight No. :[/bold] #
+[bold]Flight No. :[/bold] # [form]
 
-Total Fire Missions: #
-[bullet]Anti-Tank Rounds Fired: #
-[bullet]Multi-Purpose Rounds Fired: #
-[bullet]Total Rounds Fired: #
+Total Fire Missions: # [form]
+[bullet]Anti-Tank Rounds Fired: # [form]
+[bullet]Multi-Purpose Rounds Fired: # [form]
+[bullet]Total Rounds Fired: # [form]
 
-Total Causality Evacuations: #
-[bullet]Space Sleep Disorder Patients: #
-[bullet]Stasis Bag Patients: #
-[bullet]Bodies: #
-[bullet]Other: #
+Total Causality Evacuations: # [form]
+[bullet]Space Sleep Disorder Patients: # [form]
+[bullet]Stasis Bag Patients: # [form]
+[bullet]Bodies: # [form]
+[bullet]Other: # [form]
 
 Additional Flight Information:
-[italic]WRITE HERE[/italic]
+[italic][form][/italic]
 
 [italic][bold][color=#f39f27]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
                                   [head=3]- DECLARATION -[/head]
@@ -29,8 +29,7 @@ Additional Flight Information:
 [bullet]I understand any falsification, discrepancies, unauthorized modifications, or omissions will be investigated under UNMC regulations.  
 
 [bold]Signed,[/bold]
-[head=3][color=#AA8760][italic]RANK + NAME[/italic][/color][/head]
-[bold]ROLEHERE[/bold]
+[head=3][color=#AA8760][italic][signature][/italic][/color][/head]
 [italic][bold][color=#f39f27]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [color=#E41B1B][italic]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]
 
