@@ -20,7 +20,13 @@
 [bold]SUPPLIES REQUESTED:[/bold]
 
 [bold][MISC-001][/bold] [form]
+[bullet][form]
+[bullet][form]
+[bullet][form]
 [bold][GEAR-002][/bold] [form]
+[bullet][form]
+[bullet][form]
+[bullet][form]
 
 [color=#f39f27]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
                                      [head=3]- VERIFICATION -[/head]
@@ -30,11 +36,9 @@
 
 [bold]Requested By:[/bold]
 [color=#1b67a5][italic][signature][/italic][/color]
-[bolditalic][form][/bolditalic]
 
 [bold]Reviewed By:[/bold]
 [color=#1b67a5][italic][signature][/italic][/color]
-[bolditalic][form][/bolditalic]
 
 [color=#AAAAAA]===================================================[/color]
 [italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]

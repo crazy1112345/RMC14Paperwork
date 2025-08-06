@@ -33,29 +33,29 @@ Mark [color=ForestGreen]✔[/color] where Applicable
 [bold][head=2]LOWER HULL[/head][/bold]
 
 [bold]Lower Engineering:[/bold]
-[bullet][ [form] ] Fusion Engines
-[bullet][ [form] ] Lower-Starboard Atmos
-[bullet][ [form] ] Lower-Port Atmos
+[bullet][ [check] ] Fusion Engines
+[bullet][ [check] ] Lower-Starboard Atmos
+[bullet][ [check] ] Lower-Port Atmos
 
 [bold]Lower Aft Section[/bold]
-[bullet][ [form] ] Alpha/Bravo Hypersleep Pods
-[bullet][ [form] ] Requisitions Elevator
-[bullet][ [form] ] SEA Office/Cryo
-[bullet][ [form] ] Charlie/Delta Hypersleep Pods
+[bullet][ [check] ] Alpha/Bravo Hypersleep Pods
+[bullet][ [check] ] Requisitions Elevator
+[bullet][ [check] ] SEA Office/Cryo
+[bullet][ [check] ] Charlie/Delta Hypersleep Pods
 
 [bold]Lower Amid-Ships[/bold]
-[bullet][ [form] ] Kitchen/Kitchen Hydro
-[bullet][ [form] ] Disposals
-[bullet][ [form] ] Confereance Room Hypersleep Pods
-[bullet][ [form] ] Lower Medbay / Chemlab 
-[bullet][ [form] ] Ordance Workshop
-[bullet][ [form] ] Gym
+[bullet][ [check] ] Kitchen/Kitchen Hydro
+[bullet][ [check] ] Disposals
+[bullet][ [check] ] Confereance Room Hypersleep Pods
+[bullet][ [check] ] Lower Medbay / Chemlab 
+[bullet][ [check] ] Ordance Workshop
+[bullet][ [check] ] Gym
 
 [bold]Lower Fore[/bold]
-[bullet][ [form] ] Pilot Workshop
-[bullet][ [form] ] Hangar
-[bullet][ [form] ] Vehicle Bay
-[bullet][ [form] ] Orbital Cannon
+[bullet][ [check] ] Pilot Workshop
+[bullet][ [check] ] Hangar
+[bullet][ [check] ] Vehicle Bay
+[bullet][ [check] ] Orbital Cannon
 
 [bold]Notes:[/bold]
 
@@ -64,29 +64,29 @@ Mark [color=ForestGreen]✔[/color] where Applicable
 [head=2][bold]UPPER HULL[/head][/bold]
 
 [bold]Upper Fore[/bold]
-[bullet][ [form] ] Brig Cell Cryopods
-[bullet][ [form] ] Brig Medical Cryopods
-[bullet][ [form] ] MP Staff Cryopods
-[bullet][ [form] ] Command Staff Cryopods
-[bullet][ [form] ] Starboard Torpedo Bay
-[bullet][ [form] ] Fore Fuel-Pump Starboard
-[bullet][ [form] ] Fore Fuel-Pump Port
-[bullet][ [form] ] Port Torpedo Bay
+[bullet][ [check] ] Brig Cell Cryopods
+[bullet][ [check] ] Brig Medical Cryopods
+[bullet][ [check] ] MP Staff Cryopods
+[bullet][ [check] ] Command Staff Cryopods
+[bullet][ [check] ] Starboard Torpedo Bay
+[bullet][ [check] ] Fore Fuel-Pump Starboard
+[bullet][ [check] ] Fore Fuel-Pump Port
+[bullet][ [check] ] Port Torpedo Bay
 
 [bold]Upper Amid-Ships[/bold]
-[bullet][ [form] ] Upper Medbay
-[bullet][ [form] ] Research/Hydroponics
-[bullet][ [form] ] Containment
-[bullet][ [form] ] Civilian Cryopods
+[bullet][ [check] ] Upper Medbay
+[bullet][ [check] ] Research/Hydroponics
+[bullet][ [check] ] Containment
+[bullet][ [check] ] Civilian Cryopods
 
 [bold]Upper Aft[/bold]
-[bullet][ [form] ] Aft Fuel-Pump Starboard
-[bullet][ [form] ] Telecomms
-[bullet][ [form] ] Aft Fuel-Pump Port
-[bullet][ [form] ] Laundry Room
-[bullet][ [form] ] Engineering Dorm Cryopods
-[bullet][ [form] ] Upper Engineering
-[bullet][ [form] ] Lifeboats
+[bullet][ [check] ] Aft Fuel-Pump Starboard
+[bullet][ [check] ] Telecomms
+[bullet][ [check] ] Aft Fuel-Pump Port
+[bullet][ [check] ] Laundry Room
+[bullet][ [check] ] Engineering Dorm Cryopods
+[bullet][ [check] ] Upper Engineering
+[bullet][ [check] ] Lifeboats
 
 [bold]Notes:[/bold]
 [form]
