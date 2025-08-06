@@ -1,4 +1,3 @@
-#P-401 Incident Report
 [color=#8c0000]█[/color][color=#ffffff]░░[/color][color=#383838]█ [color=#8c0000]█▄[/color] █ [/color][head=3]U[/head][bold]nited [head=3]N[/head]ations [head=3]M[/head]arine [head=3]C[/head]orps[/bold]     [bold]Form:  [/bold][color=#ff0000]P-401[/color]
 [color=#383838]▀▄▄[color=#8c0000]▀[/color] █[/color] [color=#8c0000]▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic]
 [color=#8c0000]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
@@ -12,12 +11,11 @@
 [bold]Classification of incident:[/bold] [form]
 [bold]Location: [/bold] [form] HERE
 [bold]Incident Details: [/bold]
-[form].
+[form]
 
 
 [bold]Signed,[/bold]
 [color=#1b67a5][italic][signature][/italic][/color]
-[bolditalic][form][/bolditalic]
 [italic][bold][color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color][/bold][/italic]
                      [italic][color=#ff0000]****MILITARY POLICE USE ONLY****[/color][/italic]
 [bold]Officer Assigned: [/bold][italic][form][/italic]

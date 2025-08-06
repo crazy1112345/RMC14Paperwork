@@ -22,7 +22,7 @@
 
 
 [bold]Issuing authority[/bold]
-[bolditalic][color=#1b67a5]2nd [signature][/color][/bolditalic][/italic]
+[bolditalic][color=#1b67a5][signature][/color][/bolditalic][/italic]
 [color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 Authenticity of this document and its contents is verified by means of an appropriately affixed stamp.
 [color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy is a violation of federal law and will result in prosecution.[/color][/italic]

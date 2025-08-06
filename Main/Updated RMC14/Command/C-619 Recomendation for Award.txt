@@ -12,11 +12,11 @@
 [bullet]■[form]
 [color=#1b67a5]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 [bold]Award/s for which recommended:[/bold]
-< [form] > [color=Plum]Bronze Heart Medal[/color]
-< [form] > [color=LightSalmon]Medal of Distinguished Conduct[/color]
-< [form] > [color=LightSteelBlue]Medal of Valor[/color]
-< [form] > [color=Goldenrod]Medal of Exceptional Heroism[/color]
-[bold]Posthumous:[/bold] YES <  [form]  >    NO <  [form]  >  
+< [check] > [color=Plum]Bronze Heart Medal[/color]
+< [check] > [color=LightSalmon]Medal of Distinguished Conduct[/color]
+< [check] > [color=LightSteelBlue]Medal of Valor[/color]
+< [check] > [color=Goldenrod]Medal of Exceptional Heroism[/color]
+[bold]Posthumous:[/bold] YES <  [check]  >    NO <  [check]  >  
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [bold]Signed,[/bold]
 [color=#1b67a5][italic]■[signature][/italic][/color]

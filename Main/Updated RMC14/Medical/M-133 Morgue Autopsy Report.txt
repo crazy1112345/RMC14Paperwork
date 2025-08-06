@@ -11,7 +11,7 @@
 [bold]Rank:[/bold] [form]
 [bold]Role:[/bold] [form]
 [bold]Physical Appearance[/bold] - Please tick ✔
-( [form] ) [italic]Male[/italic]      ( [form] ) [italic]Female[/italic]    ( [form] ) [italic]Not Applicable/Neither[/italic]
+( [check] ) [italic]Male[/italic]      ( [check] ) [italic]Female[/italic]    ( [check] ) [italic]Not Applicable/Neither[/italic]
 --------------------------------------------------------------------
 [bold]Time of Arrival to Morgue:[/bold] [form]
 [bold]Estimated Time of Death:[/bold] [form]
@@ -30,15 +30,15 @@
 [bullet][form] [bold][color=#01579B]Oxygenation Wounds[/color][/bold]
 
 [bold]Description of Wounds:[/bold]
-[bullet] ( [form] ) Mauling, [form] Degree
-[bullet] ( [form] ) Lacerations, [form] Degree
-[bullet] ( [form] ) Contusions, [form] Degree
-[bullet] ( [form] ) Burns, [form] Degree
-[bullet] ( [form] ) Lesions, [form] Degree
-[bullet] ( [form] ) Bruising, [form] Degree
-[bullet] ( [form] ) Avulsions, [form] Degree
-[bullet] ( [form] ) Bleeding, [form] Degree
-[bullet] ( [form] ) Other: [form]
+[bullet] ( [check] ) Mauling, [form] Degree
+[bullet] ( [check] ) Lacerations, [form] Degree
+[bullet] ( [check] ) Contusions, [form] Degree
+[bullet] ( [check] ) Burns, [form] Degree
+[bullet] ( [check] ) Lesions, [form] Degree
+[bullet] ( [check] ) Bruising, [form] Degree
+[bullet] ( [check] ) Avulsions, [form] Degree
+[bullet] ( [check] ) Bleeding, [form] Degree
+[bullet] ( [check] ) Other: [form]
 [italic]Check all that apply[/italic]
 --------------------------------------------------------------------
 

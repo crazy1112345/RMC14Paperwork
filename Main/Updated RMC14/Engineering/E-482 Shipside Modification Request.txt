@@ -11,14 +11,14 @@
 [bullet] [form]
 [bullet] [form]
 
-[bold]Reason for request: [form][/bold]
-[italic]Write Here[/italic]
+[bold]Reason for request:[/bold]
+[form]
 [color=#b18644]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 [bold]Requested by,[/bold]
-       [italic][signature], [bolditalic][form][/bolditalic][/italic]
+       [italic][signature][/italic]
 
 [bold]Approved by,[/bold]
-       [italic][signature], [bolditalic][form][/bolditalic][/italic]
+       [italic][signature][/italic]
        
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]

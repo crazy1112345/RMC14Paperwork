@@ -9,16 +9,16 @@
 [bold]Unit:[/bold] [color=#002AAF][form][/color]
 [bold]Deceased Species:[/bold] [italic][color=#002AAF][form][/color][/italic]
 [bold]Physical Appearance[/bold] - Please tick ✔
-( [form] ) [italic]Male[/italic]      ( [form] ) [italic]Female[/italic]    ( [form] ) [italic]Not Applicable/Neither[/italic]
+( [check] ) [italic]Male[/italic]      ( [check] ) [italic]Female[/italic]    ( [check] ) [italic]Not Applicable/Neither[/italic]
 --------------------------------------------------------------------
 [bold]Cause of Death:[/bold]   [color=#ff0000] [form][/color]
-[bold]Time of Death:[/bold]     [color=#cb0000 ] [form][/color]
+[bold]Time of Death:[/bold]     [color=#cb0000] [form][/color]
 [bold]Location of Death:[/bold]    [color=#002AAF] Map Name[/color]
 [bold]Circumstances leading to death:[/bold]
-[bullet][italic][color=#002AAF]D[form][/color][/italic]
+[bullet][italic][color=#002AAF][form][/color][/italic]
 
 [bold]Cadaver disposal-[/bold]
-( [form] ) [italic]Incinerator[/italic]     ( [form] ) [italic]Cryostasis[/italic]     ( [form] ) [italic]Morgue[/italic]
+( [check] ) [italic]Incinerator[/italic]     ( [check] ) [italic]Cryostasis[/italic]     ( [check] ) [italic]Morgue[/italic]
 
 [bold]Issuing Authority:[/bold] [color=#1b67a5][italic][signature][/italic][/color]
 [color=#AAAAAA]===================================================
