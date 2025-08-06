@@ -24,7 +24,7 @@
 [form] / [form]
 [form] / [form]
 [form] / [form]
-[italic][color=#AAAAAA]Available equipment: GAU-2, LAU-444, LWU-6B
+[italic][color=#AAAAAA]Available equipment: GAU-21, LAU-444, LWU-6B
 Munitions: PGU-100 Multi-Purpose, PGU-100 30mm Anti-tank, AGM-99, AIM-224B, GBU-67, BTU-17/LW.[/italic][/color]
 [bold]Utility Ports:[/bold] [form], [form], [form], [form], [form].
 [italic][color=#AAAAAA]Available equipment: Cooling system, Fuel enhancer, HPU-1, RMU-19, RMU-4M.[/italic][/color]
@@ -35,7 +35,7 @@ Munitions: PGU-100 Multi-Purpose, PGU-100 30mm Anti-tank, AGM-99, AIM-224B, GBU-
 [form] / [form]
 [form] / [form]
 [form] / [form]
-[italic][color=#AAAAAA]Available equipment: GAU-2, LAU-444, LWU-6B
+[italic][color=#AAAAAA]Available equipment: GAU-21, LAU-444, LWU-6B
 Munitions: PGU-100 Multi-Purpose, PGU-100 30mm Anti-tank, AGM-99, AIM-224B, GBU-67, BTU-17/LW.[/italic][/color]
 [bold]Utility Ports:[/bold] [form], [form], [form], [form], [form].
 [italic][color=#AAAAAA]Available equipment: Cooling system, Fuel enhancer, HPU-1, RMU-19, RMU-4M.[/italic][/color]
