@@ -6,19 +6,19 @@
 [color=#666666][bolditalic]This document attest of the reception and subsequent discharge of a patient afflicted with sudden sleep disorder.[/bolditalic][/color]
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 
-[bold]Subject name : [/bold][color=#5b5b5b][italic][form][/italic][/color]
+[bold]Patient name : [/bold][color=#5b5b5b][italic][form][/italic][/color]
 [bold]Function : [/bold][color=#5b5b5b][italic][form][/italic][/color]
 [bold]Date :[/bold] [color=#5b5b5b][italic][form][/italic][/color]  
 [bold]Time of arrival at Medbay : [/bold][color=#5b5b5b][italic][form][/italic][/color]
-[bold]Subject was :[/bold]
+[bold]Patient was :[/bold]
 ( [check] ) [italic]Completely catatonic[/italic]     ( [check] ) [italic]Absent[/italic]
 
 [color=#AAAAAA]──────────────────────────────────────────[/color]
 
 [bold]Time of discharge : [/bold][color=#5b5b5b][italic][form][/italic][/color]
 [bold]Nature of the discharge :[/bold]
-( [check] ) [color=#333333]Subject sent back to cryosleep to avoid further damage to the psyche.[/color]
-( [check] ) [color=#333333]Subject discharged after recovering from SSD.[/color]
+( [check] ) [color=#333333]Patient sent back to cryosleep to avoid further damage to the psyche.[/color]
+( [check] ) [color=#333333]Patient discharged after recovering from SSD.[/color]
 
 
 By authority of : [/bold][color=#5b5b5b][italic][signature][/italic][/color]
