@@ -17,7 +17,9 @@ By signing this form, you:
 [bullet]( [check] ) Are in possession of at least [bold]1 JTAC radio key[/bold].
 [bullet]( [check] ) Are in possession of a [bold]Radiotelephone backpack[/bold] [italic](optionnal if an assistant has one)[/italic]
 [bullet]( [check] ) Are in taking of all the necessary equipment to appoint a rifleman as backup operator [bold]or[/bold]
-[bullet]( [check] ) Are claiming the mortar with a backup operator named below. 
+[bullet]( [check] ) Are claiming the mortar with a backup operator named below.
+
+[italic]Requisition can provide any crossed out element if those are still in stock.[/italic]
 [color=#AAAAAA]──────────────────────────────────────────[/color]
 [head=3]Informations[/head]
 [bullet][bold]Primary operator:[/bold] [color=#1b67a5][italic][signature][/italic][/color]
