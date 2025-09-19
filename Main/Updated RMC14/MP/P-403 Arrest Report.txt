@@ -15,9 +15,17 @@
 [bold]Role:[/bold] [form]
 [bold]Squad:[/bold] [form]
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[color=#134975]If the arrest is ordered by an officer, please check the box and specify: [/color]
+[bold]Officer Ordered Arrest:[/bold] [ [check] ]
+[bold]Rank:[/bold] [form]
+[bold]Role:[/bold] [form]
+[bold]Squad:[/bold] [form]
+[italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [color=DarkRed][bold]List of Charges and Penalties[/color][/bold]
 [bullet][bold][form][/bold]; for a duration of [form].
 [bullet][bold][form][/bold]; for a duration of [form].
+
+[bold]Sentencing Officer: [/bold][color=#134975][italic][form][/italic][/color]
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [bold]Signed,[/bold]
 [color=#134975][italic][signature][/italic][/color]
