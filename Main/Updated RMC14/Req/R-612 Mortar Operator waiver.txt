@@ -1,0 +1,40 @@
+[color=#b18644]█[/color][color=#ffffff]░░[/color][color=#abb089]█ [color=#b18644]█▄[/color] █[/color] [head=3]U[/head][bold]nited [head=3]N[/head]ations [head=3]M[/head]arine [head=3]C[/head]orps[/bold]      [bold]Form:  [/bold][color=#ff0000]R-612[/color]
+[color=#abb089]▀▄▄[color=#b18644]▀[/color] █[/color] [color=#b18644]▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic]
+[color=#b18644]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+         [head=1][color=#dfc189]Mortar Operator Waiver[/color][/head]
+
+[italic]This form represents the acknowledgements of the designated mortar operator for the current operation.[/italic]
+[color=#b18644]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]General[/head]
+By signing this form, you:
+[bullet]Certify that you are knowledgeable in its use and understand the UNMC coordinate system.
+[bullet]Understand that the mortar can be fired no closer than 15m and no further than 65m and that it must be deployed with a direct view of the sky.
+[bullet]Will take all necessary actions to prevent any instances of friendly fire, including those due to the mortar's natural inaccuracy.
+[bullet] Recognise that the portable mortar is a limited and sensitive piece of equipment and protect it from enemy capture or destruction.
+[color=#AAAAAA]──────────────────────────────────────────[/color]
+[head=3]Equipment[/head]
+By signing this form, you:
+[bullet]( [check] ) Are in possession of at least [bold]1 JTAC radio key[/bold].
+[bullet]( [check] ) Are in possession of a [bold]Radiotelephone backpack[/bold] [italic](optionnal if an assistant has one)[/italic]
+[bullet]( [check] ) Are taking of all the necessary equipment to appoint a rifleman as backup operator [bold]or[/bold]
+[bullet]( [check] ) Are claiming the mortar with a backup operator named below.
+
+[italic]You must ask requisition for any missing element before or while handing back the present form.[/italic]
+[color=#AAAAAA]──────────────────────────────────────────[/color]
+[head=3]Informations[/head]
+[bullet][bold]Primary operator:[/bold] [color=#1b67a5][italic][signature][/italic][/color]
+[bullet][bold]Squad:[/bold] [color=#1b67a5][italic][form][/italic][/color]
+
+[italic]if applicable[/italic]
+[bullet][bold]Secondary operator:[/bold] [color=#1b67a5][italic][form][/italic][/color]
+[bullet][bold]Squad:[/bold] [color=#1b67a5][italic][form][/italic][/color]
+
+[color=#b18644]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+                                   [head=3]- DECLARATION -[/head]
+[bullet]I confirmed that I have read this document in full and understood its content. 
+[bullet]I understand any falsification, discrepancies, unauthorised modifications, or omissions will be investigated under UNMC regulations. 
+
+Confirmed By: 
+[color=#1b67a5][italic][signature][/italic][/color]
+[color=#AAAAAA]===================================================[/color]
+[italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]
