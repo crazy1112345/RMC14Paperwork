@@ -1,0 +1,31 @@
+[color=#58B38B]█[/color][color=#ffffff]░░[/color][color=#5B97BC]█ [color=#58B38B]█▄[/color] █[/color] [head=3]U[/head][bold]nited [head=3]N[/head]ations [head=3]M[/head]arine [head=3]C[/head]orps[/bold]     [bold]Form:  [/bold][color=#ff0000]M-208[/color]
+[color=#5B97BC]▀▄▄[color=#58B38B]▀[/color] █[/color] [color=#58B38B]▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic]
+[color=#58B38B]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[head=1][color=#5B97BC]    Medical Research Report[/color][/head]
+[italic]This form is used to document performed medical research approved by Form M-207.[/italic]
+[color=#58B38B]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[color=#1b67a5][head=3]Research Details[/head][/color]
+[bold]Name of project: [/bold]NAME HERE
+[bold]Goal: [/bold]DESCRIBE THE GOAL OF RESEARCH
+[bold]Plan: [/bold]DESCRIBE THE PLANNED ACTIONS
+[color=#58B38B]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[color=#1b67a5][head=3]Actions Taken[/head][/color]
+LIST ACTIONS TAKE IN THE COURSE OF RESEARCH
+[color=#58B38B]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[color=#1b67a5][head=3]Findings[/head][/color]
+LIST THE RESULTS OF RESEARCH
+
+[italic][color=Gray]I, the Researcher assigned to this project, certify the contents of this document are factual to the extent of my knowledge.
+[/color][/italic]
+Signed,
+[italic][color=#1b67a5]RANK NAME[/color][/italic]
+
+[italic][color=Gray]I, the Chief Medical Officer of the UNS Alamyer, have reviewed this document and determined this project to be concluded.[/color][/italic]
+
+Signed,
+[italic][color=#1b67a5]RANK NAME[/color],[/italic]
+[bolditalic]Chief Medical Officer[/bolditalic]
+
+[color=#383838]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+                                      [color=#a62d2d][head=3]CONFIDENTIAL[/head][/color]
+[italic][color=#872a2a]Access to this document is restricted to designated departmental personnel. Unauthorized access, sharing, or reproduction of its contents will be treated as a breach of corporate policy and may result in immediate administrative and legal action.[/color][/italic]
