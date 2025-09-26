@@ -1,0 +1,41 @@
+[color=#FFFFFF]░░░░░░░░[/color][color=#d16d1f]█[/color][color=#eb7a23]▌[color=#FFFFFF]░░░░[/color]▄███▌[color=#25b266]▌▄[/color][color=#1c8a4e]█▀[/color]▄██████████[/color]
+[color=#FFFFFF]░░░░░░░░[/color][color=#d16d1f]█[/color][color=#eb7a23]▌[color=#FFFFFF]░░[/color]▄██[color=#d16d1f]██[/color]█▌[color=#1c8a4e]█▀[/color]▄██[color=#d16d1f]█▀[/color][/color]
+[color=#FFFFFF]░░░░░░░░[/color][color=#d16d1f]█[/color][color=#eb7a23]▌▄██[color=#d16d1f]█▀[/color][color=#1c8a4e]▄[/color][color=#d16d1f]▐[/color]█▌▄██[color=#d16d1f]█▀[/color][color=#EEEE]▄[/color]▐████████[/color]
+[color=#FFFFFF]░░░░░░░░[/color][color=#d16d1f]█[/color][color=#eb7a23]██[color=#d16d1f]█▀[/color][color=#25b266]▄█[/color][color=#1c8a4e]█[/color][color=#d16d1f]▐[/color]███[color=#d16d1f]█▀[/color][color=#EEEEEE]▄█[/color][color=#DDDDDD]█[/color][/color]
+[color=#FFFFFF]░░░░░░░░[/color][color=#d16d1f]██▀[/color][color=#25b266]▄█[/color][color=#1c8a4e]█▀[/color][color=#FFFFFF]░[/color][color=#d16d1f]▐██▀[/color][color=#EEEEEE]▄█[/color][color=#DDDDDD]█▀▐[/color][color=#eb7a23]▐████████[/color]
+                                [bolditalic]"WORLDS BETTER BUILT"[/bolditalic]
+[color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+[color=#eb7a23]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+                   [color=#25b266][head=1]Colonies of Neroid[/head][/color]
+                                  [italic]by Osborne Hawkins[/italic]
+
+[head=2]Introduction[/head]
+[italic]The idea of interstellar colonies on distant exoplanets has been the focus of scientists, writers, and visionaries since we first gazed at the heavens, and wondered what might be out there. This dream has been realized in the 22nd century, and despite the tempering of the once idealistic vision through hardship and struggle, the arm of civilization has reached out, establishing itself on the frontier. At the forefront of this advance, The [color=#1b67a5][bold]UN[/bold][/color], [color=#0d5aca][bold]TSE[/bold][/color],  [color=#b50f0f][bold]SPP[/bold][/color], and the [color=#25b266][bold]Weston-Yamada Corporation[/bold][/color] have established numerous colonies in the Neroid sector, hoping to claim dominance over this important tract of interstellar space. This dossier, consisting of multiple pages, is intended to serve as a reference and guide for a few of the Weston-Yamada owned and operated colonies located in this sector, giving the reader a glimpse into the dangerous, lucrative, and beautiful Neroid Sector.[/italic]
+[color=#eb7a23][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
+[head=2]Colonies of Note[/head]
+
+[head=3][color=#25b266]LV-624, "Lazarus Landing"[/color][/head]
+[bold]Affiliation: [/bold][color=#1b67a5]Weston-Yamada Corporation[/color]
+[bold]Purpose: [/bold]Xenoarchaeological Site
+[bold]Climate: [/bold]Highly tropical, with warm weather, frequent rain, and lush flora.
+[bold]Pertinent Info: [/bold]Lazarus landing was established by [color=#25b266][bold]Weston-Yamada Corporation[/bold][/color] after discoveries were made regarding ancient alien temples of unknown origin. This colony is primarily operated by the [color=#185a90][bold]R&D Division[/bold][/color], due to the xenological structures. Whisky Outpost, a UNMC Military Outpost, is also situated on LV-624, although interactions between the two groups are uncommon.
+
+[head=3][color=#25b266]LV-1413 (Routerra I), "Solaris Ridge"[/color][/head]
+[bold]Affiliation: [/bold][color=#1b67a5]Weston-Yamada Corporation[/color]
+[bold]Purpose: [/bold]Biological Storage Depot
+[bold]Climate: [/bold]Warm, very dusty, generally desolate.
+[bold]Pertinent Info: [/bold]Solaris Ridge was initially an independent colony that attempted to utilize lichens for Terraforming. However, after the project failed to show fruit, the colony was sold to [color=#25b266][bold]Weston-Yamada Corporation[/bold][/color] for use as a biological storage site. Solaris Ridge is generally seen as a dead end for colonists, despite its value to the company. It currently holds a population of ~120 colonists.
+
+[head=3][color=#25b266]LV-670 (Raijin), "Oxley's Butte/Trijent Dam"[/color][/head]
+[bold]Affiliation: [/bold][color=#1b67a5]Trijent Corporation[/color]
+[bold]Purpose: [/bold]Lithium-6 Mining and Exportation
+[bold]Climate: [/bold]The equator of Raijin is inhospitable, due to the heat. However, the northern and southern hemispheres have more temperate biomes, with the colony being located near the equatorial boundary. 
+[bold]Pertinent Info: [/bold]Oxley's Butte was established due to the discovery of rich lithium-6 located in underground brine pools. In order to properly operate the colony, Trijent, a subsidiary of the [color=#25b266][bold]Weston-Yamada Corporation[/bold][/color], subcontracted the construction and operation of its 15,000/Mwh Dam to the [color=#A020F0][bold]Cebrini Group[/bold][/color]. Nowadays, the population consists primarily of Trijent and Cebrini employees, as well as independent contractors, producing thousands of tons of lithium annually
+
+[head=3][color=#25b266]LV-976 (Thermae I), "Sorokyne Strata"[/color][/head]
+[bold]Affiliation: [/bold][color=#1b67a5]Weston-Yamada Corporation[/color]
+[bold]Purpose: [/bold]Research & Mining Outpost
+[bold]Climate: [/bold]Very cold and icy, despite terraforming efforts
+[bold]Pertinent Info: [/bold]Located in contested neutral space between [color=#1b67a5][bold]UN[/bold][/color] and [color=#b50f0f][bold]SPP[/bold][/color] territory, Sorokyne serves both as a research and mining colony. Its position means that a population of ~110 consists primarily of [color=#25b266][bold]Weston-Yamada Employees[/bold][/color], [color=#1b67a5][bold]UN Contractors[/bold][/color], and [color=#b50f0f][bold]SPP Contractors[/bold][/color]. Recently, Sorokyne has begun to terraform the gargantuan web of thermal tunnels that span the planet's crust. 
+[color=#eb7a23][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
+[head=2]Page 1[/head]

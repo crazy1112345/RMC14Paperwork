@@ -1,0 +1,33 @@
+[color=#bbaea9]█[/color][color=#ffffff]░░[/color][color=#0784ba]█ [color=#bbaea9]█▄[/color] █[/color] [head=3]U[/head][bold]nited [head=3]N[/head]ations [head=3]M[/head]arine [head=3]C[/head]orps[/bold]       [bold]Form:  [/bold][color=#ff0000]K-401[/color]
+[color=#0784ba]▀▄▄[color=#bbaea9]▀[/color] █[/color] [color=#bbaea9]▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic]
+[color=#6e6e6e]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+    [head=1][color=#0784ba]Almayer Kitchen Checklist[/color][/head]
+[color=#5f698a][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
+
+[bold]Kitchen Check Items:[/bold]
+[bullet]External Inspection - [[color=green]Pass[/color]/[color=red]Fail[/color]]
+    - Pests, Mold, Contamination, food discoloration
+[bullet]Fresh goods - [[color=green]Pass[/color]/[color=red]Fail[/color]]
+    - Storage temperature control, humidity level
+[bullet]Equipment Inspection - [[color=green]Pass[/color]/[color=red]Fail[/color]]
+    - Gloves, Protective Gear, Utensils
+[bullet]Hygiene - [[color=green]Pass[/color]/[color=red]Fail[/color]]
+    - Proper hand washing, no loose hair, basic cleanliness
+
+[bold]Notes:[/bold]
+ [italic]WRITEHERE[/italic]
+[italic][bold][color=#0784ba]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[italic]I certify that I have completed all the kitchen checks listed above, and that the kitchen work station is deemed fit to uphold food safety in accordance with UNMC health regulations and sanitary protocols. 
+Any discrepancies found have been reported and addressed.[/italic]
+
+[bold]Signed,[/bold]
+[head=3][color=#AA8760][italic]RANKNAME[/italic][/color][/head], [bold]Chef[/bold]
+
+[italic][bold][color=#0784ba]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[color=#AAAAAA][italic][bullet]This Kitchen Checklist must be completed and signed before next health inspection. 
+[bullet]Failure to comply with sanitation procedures may result in disciplinary action and record liability for future incidents.
+[bullet]Any issues found during the kitchen check must be reported to the maintenance crew and resolved before ship inspection.
+[bullet]In the case of signs of ship components failing there will be a temporary close on the usage of kitchen until situation improves.
+[bullet]This document is to be kept on record for the utilization of kitchen and for 3 months thereafter for audit and review purposes.[/italic][/color]
+[color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in license suspension.[/color][/italic]
+[italic][bold][color=#0784ba]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]

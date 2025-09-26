@@ -1,0 +1,40 @@
+[head=2]Page 2[/head]
+[color=#eb7a23][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
+[head=3][color=#25b266]LV-686 (Dykuma I), "Kutjevo Refinery"[/color][/head]
+[bold]Affiliation: [/bold][color=#1b67a5]Weston-Yamada Corporation[/color]
+[bold]Purpose: [/bold]Botanical Research, Materials Processing, Water Bottling
+[bold]Climate: [/bold]Warm, dusty.
+[bold]Pertinent Info: [/bold]Originally thought to be a prime candidate for terraforming, independent colonists discovered a vibrant ecosystem that relied on a network of potable aquifers. Eventually, [color=#25b266][bold]Weston-Yamada[/bold][/color] would acquire the colony, and the population would greatly expand to ~2700 due to its position.
+
+[head=3][color=#25b266]LV-522, "Chance's Claim"[/color][/head]
+[bold]Affiliation: [/bold][color=#1b67a5]Weston-Yamada Corporation[/color]
+[bold]Purpose: [/bold]Terraforming, Mining, & Research
+[bold]Climate: [/bold]Rocky, low light levels, high wind speeds.
+[bold]Pertinent Info: [/bold]Chance's Claim was established in order to terraform LV-522, a planet generally deemed inhospitable due to its climate and atmosphere. Currently, due to its Weston-Yamada Atmospheric Processors, Chance's Claim has a breathable atmosphere, and further advances in the Planet's terraforming are expected to continue.
+
+[head=3][color=#25b266]Fiorina 161, "Fiorina Science Annex"[/color][/head]
+[bold]Affiliation: [/bold][color=#1b67a5]Weston-Yamada Corporation[/color]
+[bold]Purpose: [/bold]Orbital Maximum Security Prison Complex, Research Station 
+[bold]Climate: [/bold]N/A; Colony is a Station in orbit
+[bold]Pertinent Info: [/bold]Initially, [color=#25b266][bold]Weston-Yamada[/bold][/color] had claimed the planet that the Science Annex orbits due to rich platinum mines. However, as this source ran dry, they constructed the Fiorina Science Annex, an orbital prison and research site. Currently, the colony is joint-operated by the [color=#1b67a5][bold]UN[/bold][/color] and Weston-Yamada.
+
+[head=3][color=#25b266]LV-52 (Ifrit), "Shiva's Snowball"[/color][/head]
+[bold]Affiliation: [/bold][color=#1b67a5]Weston-Yamada Corporation[/color]
+[bold]Purpose: [/bold]Xenoarchaeological Site
+[bold]Climate: [/bold]Extremely low temperatures, frequent snowstorms.
+[bold]Pertinent Info: [/bold]Shiva’s Snowball was established by a joint venture between [color=#25b266][bold]Weston-Yamada[/bold][/color] and the Argentinian National Space Activities Commission. Like many other colonies in the Neroid Sector, Shiva’s Snowball is dedicated to scientific research, with a focus on Xenoarchaeology. Temperatures often reach below -50°C, making life at Shiva’s difficult, yet rewarding.
+
+[head=3][color=#25b266]LV-908 (Tiamat III), "New Veradero"[/color][/head]
+[bold]Affiliation: [/bold][color=#1b67a5]United Nations[/color]
+[bold]Purpose: [/bold]Research and Mining Outpost
+[bold]Climate: [/bold]Warm, tropical. Extremely oceanic, minimal significant landmasses.
+[bold]Pertinent Info: [/bold]Established by the [color=#1b67a5][bold]UN[/bold][/color], Veradero is famed for its bright waters, pleasant temperatures, and usage as an R&R facility for military personnel. Despite that, it also serves as a mining and research colony; rumors indicate there may even be a strange alien vessel downed near the colony.
+
+[head=3][color=#25b266]LV-759, "Hybrisa Prospera"[/color][/head]
+[bold]Affiliation: [/bold][color=#1b67a5]Weston-Yamada[/color]
+[bold]Purpose: [/bold]Mining, Housing, and Logistics Hub
+[bold]Climate: [/bold]Rocky, temperate climate, moderate windspeeds.
+[bold]Pertinent Info: [/bold]If you were to visit Hybrisa, it would not be remiss to mistake it for the capital of an inner-rim colony. Hosting a population of tens of thousands, as well as outlying outposts, Hybrisa was initially established as a mining colony under the [color=#0d5aca][bold]TSE[/bold][/color], before being purchased by [color=#25b266][bold]Weston-Yamada[/bold][/color], due to its rich mineral deposits. However, its location allowed it to serve as a trade hub, becoming an extremely profitable and lively centre of activity in Neroid. Projections estimate that it will become the most populated world in the outer-rim in less than a century.
+[color=#eb7a23][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
+[head=2]Conclusion[/head]
+[italic]As we continue to reach further into the stars, we will continue to see new colonies arise, born out of a collective spirit of cooperation, bravery, and hope. In this, we are united by a common goal; to spread, learn, and work together to forge a bright future for all. I hope that someday soon, we’ll see many more colonies rise to prominence in Neroid.[/italic]
