@@ -1,0 +1,35 @@
+[color=#b18644]█[/color][color=#ffffff]░░[/color][color=#abb089]█ [color=#b18644]█▄[/color] █[/color] [head=3]U[/head][bold]nited [head=3]N[/head]ations [head=3]M[/head]arine [head=3]C[/head]orps[/bold]      [bold]Form:  [/bold][color=#ff0000]R-302[/color]
+[color=#abb089]▀▄▄[color=#b18644]▀[/color] █[/color] [color=#b18644]▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic]
+[color=#b18644]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+   [head=1][color=#dfc189]STANDARD SUPPLY POLICY[/color][/head]
+This are the default contents to be pack into each supply drop for delivery during an operation.
+[italic]Special requests are to be packed in with the standard allocations for each squad.[/italic]
+[color=#b18644]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]CONTENTS:[/head]
+
+[TYPE-001] Qty: 1 | M4SPR Magazine Box 
+[TYPE-002] Qty: 1 | M54C Magazine Box
+[TYPE-003] Qty: 1 | M63 Magazine Box
+[TYPE-004] Qty: 1 | Buckshot Shells Box
+[TYPE-005] Qty: 1 | Slug Shells Box
+[TYPE-006] Qty: 1 | Flechette Shells Box
+[TYPE-007] Qty: 1 | 10x24mm AP "Spam Can"
+[TYPE-008] Qty: 1 | M63 AP Magazine Box
+[TYPE-009] Qty: 1 | .458 SOCOM Box (Small)
+[TYPE-010] Qty: 1 | Breaching Shells Box (Small)
+[TYPE-011] Qty: 1 | HEDP Grenade Packet
+[TYPE-012] Qty: 1 | Fire Extinguisher
+[TYPE-013] Qty: 1 | M94 Flare Box
+[TYPE-014] Qty: 1 | Medical Supplies (Variable)
+[TYPE-015] Qty: [form] | [form]
+[TYPE-016] Qty: [form] | [form]
+
+[color=#b18644]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+                                   [head=3]- DECLARATION -[/head]
+[bullet]I confirmed that the contents of the supply drop have been verified and delivered as listed. 
+[bullet]I understand any falsification, discrepancies, unauthorized modifications or omissions will be investigated under UNMC regulations.  
+
+Confirmed By: 
+[color=#1b67a5][italic][signature][/italic][/color]
+[color=#AAAAAA]===================================================[/color]
+[italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy is a violation of federal law and will result in prosecution.[/color][/italic]
