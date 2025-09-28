@@ -7,20 +7,20 @@ This are the default contents to be pack into each supply drop for delivery duri
 [color=#b18644]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 [head=3]CONTENTS:[/head]
 
-[TYPE-001] Qty: 1 | M4SPR Magazine Box 
-[TYPE-002] Qty: 1 | M54C Magazine Box
-[TYPE-003] Qty: 1 | M63 Magazine Box
-[TYPE-004] Qty: 1 | Buckshot Shells Box
-[TYPE-005] Qty: 1 | Slug Shells Box
-[TYPE-006] Qty: 1 | Flechette Shells Box
-[TYPE-007] Qty: 1 | 10x24mm AP "Spam Can"
-[TYPE-008] Qty: 1 | M63 AP Magazine Box
-[TYPE-009] Qty: 1 | .458 SOCOM Box (Small)
-[TYPE-010] Qty: 1 | Breaching Shells Box (Small)
-[TYPE-011] Qty: 1 | HEDP Grenade Packet
-[TYPE-012] Qty: 1 | Fire Extinguisher
-[TYPE-013] Qty: 1 | M94 Flare Box
-[TYPE-014] Qty: 1 | Medical Supplies (Variable)
+[TYPE-001] Qty: [form] | M4SPR Magazine Box 
+[TYPE-002] Qty: [form] | M54C Magazine Box
+[TYPE-003] Qty: [form] | M63 Magazine Box
+[TYPE-004] Qty: [form] | Buckshot Shells Box
+[TYPE-005] Qty: [form] | Slug Shells Box
+[TYPE-006] Qty: [form] | Flechette Shells Box
+[TYPE-007] Qty: [form] | 10x24mm AP "Spam Can"
+[TYPE-008] Qty: [form] | M63 AP Magazine Box
+[TYPE-009] Qty: [form] | .458 SOCOM Box (Small)
+[TYPE-010] Qty: [form] | Breaching Shells Box (Small)
+[TYPE-011] Qty: [form] | HEDP Grenade Packet
+[TYPE-012] Qty: [form] | Fire Extinguisher
+[TYPE-013] Qty: [form] | M94 Flare Box
+[TYPE-014] Qty: [form] | Medical Supplies (Variable)
 [TYPE-015] Qty: [form] | [form]
 [TYPE-016] Qty: [form] | [form]
 
