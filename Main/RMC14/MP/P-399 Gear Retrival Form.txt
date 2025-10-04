@@ -3,7 +3,7 @@
 [color=#8c0000]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
 
 [head=2]Gear Retrieval Form[/head]
-italic]In order to retrieve any of the items listed below you will need to present this to a member of the Military Police. They will only be returned to you so you may head back down to the colony or in other emergency situations.[/italic]
+[italic]In order to retrieve any of the items listed below you will need to present this to a member of the Military Police. They will only be returned to you so you may head back down to the colony or in other emergency situations.[/italic]
 [color=#AAAAAA]===================================================[/color]
 Owner of Equipment: [form]
 Processer: [form]
