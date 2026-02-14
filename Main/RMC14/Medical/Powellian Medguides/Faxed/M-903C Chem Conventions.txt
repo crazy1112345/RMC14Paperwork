@@ -1,8 +1,8 @@
 #Powellian Medguides - Chems Conventions
 UNMC Medical 
-[color=#58B38B]█[/color][color=#ffffff00]░░[/color][color=#5B97BC]█ [color=#58B38B]█▄[/color] █[/color] [head=3]U[/head][bold]nited [head=3]N[/head]ations [head=3]M[/head]arine [head=3]C[/head]orps[/bold]     [bold]Form:  [/bold][color=#ff0000]M-903C[/color]
+[color=#58B38B]█[/color][color=#ffffff00]░░[/color][color=#5B97BC]█ [color=#58B38B]█▄[/color] █[/color] [head=3]U[/head][bold]nited [head=3]N[/head]ations [head=3]M[/head]arine [head=3]C[/head]orps[/bold]    [bold]Form:  [/bold][color=#ff0000]M-903C[/color]
 [color=#5B97BC]▀▄▄[color=#58B38B]▀[/color] █[/color] [color=#58B38B]▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic]
-[color=#58B38B]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[color=#58B38B]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
 
 The Guide regarding the Mechanics of Medical
 [italic]By the "Oblivious", For the Oblivious.[/italic]
@@ -74,4 +74,4 @@ The Guide regarding the Mechanics of Medical
 [head=2]Nutrimining[/head]
   As mentioned in the Workflow guide, Nutrimining is the filling of tanks with nutriment ground from Foodstuff, & 3~5ku of Nutri should suffice for an ops. Usually, people would set-up a "Nutrimine", a setup of Nutriment vendors & a Reagent tank in proximity of a reagent grinder with some storage, in doing so. a Nutrimine is usually made adjacent to the Lower chemstation per demand. Vendors are to be sourced from locations shipside, the foremost usually being the Public conference and then Briefing. This implies that one must haul the food vendors, which is time-consuming. Hence, as showcased to me by a certain Vulpkanin Nurse, it is not impossible to move the grinders themselves to the vendors, functionally moving the nutrimine itself, be more than 2 jani-buckets be available. If otherwise, one will have to make many trips in the application of this unconventional method.
 
-[color=#58B38B]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[color=#58B38B]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]

@@ -1,7 +1,7 @@
 UNMC Medical 
-[color=#58B38B]█[/color][color=#ffffff00]░░[/color][color=#5B97BC]█ [color=#58B38B]█▄[/color] █[/color] [head=3]U[/head][bold]nited [head=3]N[/head]ations [head=3]M[/head]arine [head=3]C[/head]orps[/bold]     [bold]Form:  [/bold][color=#ff0000]M-903D[/color]
+[color=#58B38B]█[/color][color=#ffffff00]░░[/color][color=#5B97BC]█ [color=#58B38B]█▄[/color] █[/color] [head=3]U[/head][bold]nited [head=3]N[/head]ations [head=3]M[/head]arine [head=3]C[/head]orps[/bold]    [bold]Form:  [/bold][color=#ff0000]M-903D[/color]
 [color=#5B97BC]▀▄▄[color=#58B38B]▀[/color] █[/color] [color=#58B38B]▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic]
-[color=#58B38B]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[color=#58B38B]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
 
 The Guide regarding the Mechanics of Medical
 [italic]By the "Oblivious", For the Oblivious.[/italic]
@@ -20,6 +20,8 @@ The Guide regarding the Mechanics of Medical
 
 [head=2]Table of Contents[/head]
   Details of Reqprep
+    - Dealing with Shortages
+    - Managing storages & Stocks
   Medbay Orderlies
   Research Access management
   Rollerbed Management
@@ -53,4 +55,4 @@ The Guide regarding the Mechanics of Medical
 [head=2]Rollerbed & Rig Management[/head]
   In bringing up medevacs, medical will most often take the boat's rollerbed, which they must request later on for depletion. Hence, it is good practice to return a rollerbed when grabbing a medevac to prevent such inconveniences. Rigs and storage are used in reqprep and they usually aren't returned to medical unless absolutely necessary. Hence, in addition to being vigilant in checking req's stocks, it is preferable if one is also attentive to the empty rigs at req; especially lifesaver bags with them being rather limited in quantity.
 
-[color=#58B38B]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[color=#58B38B]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]

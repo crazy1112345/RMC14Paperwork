@@ -1,7 +1,7 @@
 UNMC Medical 
-[color=#58B38B]█[/color][color=#ffffff00]░░[/color][color=#5B97BC]█ [color=#58B38B]█▄[/color] █[/color] [head=3]U[/head][bold]nited [head=3]N[/head]ations [head=3]M[/head]arine [head=3]C[/head]orps[/bold]     [bold]Form:  [/bold][color=#ff0000]M-903B[/color]
+[color=#58B38B]█[/color][color=#ffffff00]░░[/color][color=#5B97BC]█ [color=#58B38B]█▄[/color] █[/color] [head=3]U[/head][bold]nited [head=3]N[/head]ations [head=3]M[/head]arine [head=3]C[/head]orps[/bold]    [bold]Form:  [/bold][color=#ff0000]M-903B[/color]
 [color=#5B97BC]▀▄▄[color=#58B38B]▀[/color] █[/color] [color=#58B38B]▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic]
-[color=#58B38B]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[color=#58B38B]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
 
 The Guide regarding the Mechanics of Medical
 [italic]By the "Oblivious", For the Oblivious.[/italic]
@@ -68,4 +68,4 @@ The Guide regarding the Mechanics of Medical
   If the corpse is of a Humanoid, one must store the corpse in the Morgue. The ID is expected to be removed and put on the morgue for identification. Equipments of interest may also be removed and stockpiled to be sent to Req. Be the morgue "full", one is to stack the corpses as a morgue-unit can hold 30 bodies. One does NOT incinerate corpses unless ordered by the CMO.
   Xenonid corpses are stored in the Containment cells at Research. If one does not possess access for research, one may leave the corpse at Research's front door. 
 
-[color=#58B38B]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[color=#58B38B]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
