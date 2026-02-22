@@ -8,7 +8,7 @@ Per the incidents in GC Provisions, this medbay proclaims:
 
       in which [italic]all marines are to request & receive GC at Research.[/italic]
 [color=#AAAAAA]===================================================[/color]
-A Quota of [color=red][form][/color] Flasks ("Sippies") of GC is imposed to the checkmarked marines : 
+A Quota of [color=red][form][/color] Flasks of GC is imposed to the checkmarked marines : 
 
    [check] Rifleman
    [check] Hospital Corpsman
