@@ -1,0 +1,144 @@
+#Powellian Medguides - Basic Guide
+UNMC Medical 
+[color=#58B38B]█[/color][color=#ffffff00]░░[/color][color=#5B97BC]█ [color=#58B38B]█▄[/color] █[/color] [head=3]U[/head][bold]nited [head=3]N[/head]ations [head=3]M[/head]arine [head=3]C[/head]orps[/bold]    [bold]Form:  [/bold][color=#ff0000]M-903A[/color]
+[color=#5B97BC]▀▄▄[color=#58B38B]▀[/color] █[/color] [color=#58B38B]▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic]
+[color=#58B38B]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+
+The Guide regarding the Mechanics of Medical
+[italic]By the "Oblivious", For the Oblivious.[/italic]
+
+                                   [head=1]Basic Guide[/head]
+
+                                                 2ndLt. Elric "Oblivious" Powell et al.
+                                                       2e; Second Edition "Arithrazine"
+────────────────────────────────────────
+
+
+
+
+
+
+
+
+                                       [bold]In remembrance of :[/bold]
+     Del Smirnov & Hisses-At-Inconvenience, the tutors of mine
+                                                       [italic]and[/italic] 
+                           all the medi-folk that was & will be.
+
+
+
+
+
+
+
+
+
+────────────────────────────────────────
+
+[head=2]Dependencies & Relations of this guide[/head]
+  This guide explains the tools in medical treatment available to the 2nd company.
+  Internally, this guide is intended to be the foremost to be read alongside the Workflow guide.
+  Externally, this guide has major overlaps to : 
+   - Zach R's Chem #1 (Purple Ed.).
+      - The contents of this guide is a subset.
+   - Jemison #1.
+      - In the explanation of Chems.
+  and would precede : 
+   - Art of the Heal
+      - A corpsman guide on the Marine intranet's Discourse section
+   - Big Dave's Chemistry notes
+
+────────────────────────────────────────
+
+[head=2]Table of Contents[/head]
+The damage system
+ - Damages
+ - Wounds
+ - Blood level
+Restoring damage
+ - Topicals
+ - Chems
+ - Methods of chem injection
+ - Restoration of blood level
+Resuscitation
+ - Defibs & Epi
+ - Rotting & CPR
+Triage
+
+────────────────────────────────────────
+
+[head=2]The Damage System[/head]
+  In the application of the health analyser; one can see, on its display, the four damages: Brutes, Burns, Poison, & Oxygen. If the sum of the damages exceed 150, one will be Crit; they are unconscious but Chemicals will be metabolized. If over 200, however, a marine is dead; They are unconscious AND will not metabolize chemicals - although it will still deplete. Dragging a crit marine without a rollerbed may incur damage.
+  Sources of Brute & Burn damages may incur Wounds. Wounds are denoted by the existence of brackets around the numbers that denote said damages. Be a wound present, one will not heal the damage over time. 
+  Instances of brute wounds may also incur bleeding, which is identified by the presence of "[color=red](Bleeding)[/color]" text after the blood level gauge. Might blood level be below 90%, one may experience: Oxygen damage, Drowsiness, & Slurred speech.
+
+────────────────────────────────────────
+
+[head=2]Restoring Damage[/head]
+[bold]Topicals[/bold]
+  Topicals are how one might treat wounds. They may only be used in the presence of wound in the type of damage it heals. For the type of damage and its type, the topicals are: 
+
+                                      [bold]The Topicals[/bold]
+       [italic]FOR:[/italic]               Brutes                      Burns
+       [italic]TYPE:[/italic] 
+      Strings      Surgical Line          Synth Graft
+
+      Kits             Trauma Kit               Burn Kit
+  
+      Basics           Gauze                    Ointment
+
+For the medically trained; Strings are infinite but slow, Kits are finite but instantaneous. Otherwise, Kits are finite and slow and one cannot use strings. Basics are numerous but finite & slow in all cases.  Topicals will also heal some damage alongside wounds. Because kits and basics seal wounds at once, Strings will usually incur the most healing after all wounds are treated. All topicals can be found in the We-Ya Med plus vendor.
+
+[bold]Chems[/bold]
+  Chems are how one might treat damages. However, be the dose be over the Overdose (OD) at a given time, it will prove poisonous to the patient. One might most typically use the following "Basic" chems, "Basic" in its source being the We-Ya plus vendor: 
+
+Bic - For Brutes
+Kelo - For Burns
+Dylo - For Poison
+Dex - For Oxygen
+
+The aforementioned Basic chems have 30u OD. There, however, are advanced chems that mostly are synthesized:
+
+Mera - For Brutes, OD15u
+Derma - For Burns, OD15u
+Dex+ - For Oxygen, OD15u
+Tric - General healing, OD30u
+Imi - Eyesight restoration, OD30u
+Ethyl - Alcoholism Inhibitor, OD30u
+
+The first two will most often be stocked at the lower chemstation. They also are of 1.5x more heals per dose compared to its basic counterpart, while Dex+ will purge all oxygen damage at the moment of metabolization. Tric, however, is only half as effective for each damage category. Because there is no limit as to how many chemicals of military grade one can metabolize, medifolk often mix Cocktails of chems to expedite healing. Common mixes are : 
+
+MB - For Brutes, OD30u.
+MBT - For Brutes, OD45u
+KD - For Burns, OD30u
+KDT - For Burns, OD45u
+FN+ - For Blood & Oxygen, OD60u
+GC - General healing (Brute/Burn Prio), OD75u
+
+Although GC would usually be produced in Medbay, all Corpsmen are expected to be able to and do mix their own cocktails, unless in the form of Pills. 
+
+[bold]Methods of Chem injection[/bold]
+  Drinking from a container is a widely available option, necessitating only a drinkable container. At doses of 5u per action, individual actions are fast but will take a while for a sizeable dose. 
+  On the contrary, feeding a pill itself would be slow but would deliver a dose at a single action; though eating a pill by oneself is instantaneous. A standardized pill (MB,KD, & FN+ guaranteed to be standard) are bound to be of 15u summed dose.
+
+  Both of the aforementioned methods require some time for the dose to enter the bloodstream, but not the following ones:
+  A syringe has an adjustable dose and can draw, removing a portion of the chems already in the bloodstream. However, it must draw from a container and takes a while; although shorter for the unconscious. 
+  An autoinjector has a fixed dose and cannot draw. It also has many categories, foremost being the Pouch and Vendor injectors. The former are refilled from the pressurized canister in a reagent Pouch whilest the latter from its Vendor. If medically trained, all injectors are used instantaneously but otherwise, only E and C class of the pouch injectors can be used and the latter with significant delay.
+  A hypospray has an adjustable dose and is instantaneous, albeit it draws from its vial with small capacities and can be used only by the medically trained. Pills can be melted in a hypospray with some reagent already present, alleviating the first problem somewhat. 
+  All tools except the pouch injectors can be found on the We-Ya Med plus vendor in some form, and the Lower chemstation produces the standardized pills. Pouch autoinjectors and their pouches are to be printed in the Medi-lathe in the Lathe room.
+
+[bold]Restoration of Blood level[/bold]
+  There are two methods in this regard: Bloodpacks & Chems. Bloodpacks must be attached and then remain within proximity to the patient in addition to being held lest it detatch itself. IVs are used to hold the bloodbag for you. Some chems, such as Iron & Nutriment also restores blood to an extent.
+
+────────────────────────────────────────
+
+[head=2]Resuscitation[/head]
+  If a marine is dead but below the death threshold of cumulative damage, they are to be Fibbed to be resuscitated. Sometimes, however, topicals does not suffice in lowering the damages below said threshold. In such cases, one must Fib with Epinephrine present in the patient's bloodstream. Epi, of 10.5u OD, heals only when a deceased is fibbed with it present and does so in a great pulse of general healing, making it the only method of reducing damage of the deceased after the wounds are all cleared up.
+  If a marine is not resuscitated in time, they will rot. This is irreversible and one is dead permanently. Rot can be delayed with CPR which anyone can do. One ought CPR every 7 seconds, or about when one feels like one has lost the certain feeling of having done CPR.
+
+────────────────────────────────────────
+
+[head=2]Triage[/head]
+  Triage refers to the prioritization of certain patients. Circumstances will dictate one's priorities. An instance of Casualty en-masse may necessitate the prioritization of the downed HMs foremost, yet mortal danger in the same circumstance might prompt one to resuscitate the CTs or SGOs in haste. Overall, the rule of thumb would be to choose as to maximize the healing speed while not endangering oneself.
+
+[color=#58B38B]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
