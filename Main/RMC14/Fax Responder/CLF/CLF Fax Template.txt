@@ -15,7 +15,7 @@
 
                                        [head=1]Message[/head]
 [color=#666]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
-[bolditalic]From: [/bolditalic][color=red][sign][/color]
+[bolditalic]From: [/bolditalic][color=red][signature][/color]
 [bolditalic]To: [/bolditalic][color=red][form][/color]
 [bolditalic]Subject: [/bolditalic][color=red][form][/color]
 [color=#666]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color][color=#000]
@@ -23,7 +23,7 @@
 [form]
 
 [/italic]
-[bold][color=#9d3737][sign][/color]
+[bold][color=#9d3737][signature][/color]
 █████████████, ██████████, Zypheron Sector[/bold]
 [color=#2E68AF]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 [color=#acadad][bullet][italic]Authenticity of this paper is confirmed by utilization of the CLF Stamp.[/italic]
