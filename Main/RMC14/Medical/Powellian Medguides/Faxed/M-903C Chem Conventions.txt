@@ -1,0 +1,77 @@
+#Powellian Medguides - Chems Conventions
+UNMC Medical 
+[color=#58B38B]█[/color][color=#ffffff00]░░[/color][color=#5B97BC]█ [color=#58B38B]█▄[/color] █[/color] [head=3]U[/head][bold]nited [head=3]N[/head]ations [head=3]M[/head]arine [head=3]C[/head]orps[/bold]    [bold]Form:  [/bold][color=#ff0000]M-903C[/color]
+[color=#5B97BC]▀▄▄[color=#58B38B]▀[/color] █[/color] [color=#58B38B]▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic]
+[color=#58B38B]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+
+The Guide regarding the Mechanics of Medical
+[italic]By the "Oblivious", For the Oblivious.[/italic]
+
+                    [head=1]Chems Conventions[/head]
+
+                                                 2ndLt. Elric "Oblivious" Powell et al.
+                                                       2e; Second Edition "Arithrazine"
+────────────────────────────────────────
+
+[head=2]Dependencies & Relations of this guide[/head]
+  This guide explains the various chem side-jobs of a Medbay.
+  Internally, this guide is intended to be read after the Workflow guide.
+  Externally, this guide has major overlaps to : 
+   - Zach's Chemguides (Purple Ed.)
+      - In the showcase of Chem Labels 
+      - In the showcase of Energy management
+   - Jemison #1
+      - in the showcase of Nutrimining.
+  and would precede any dedicated chem-guide.
+
+────────────────────────────────────────
+
+[head=2]Table of Contents[/head]
+  Chem Conventions
+  Pill & Chems Nomenclature
+  Resource Management
+  Nutrimining
+
+────────────────────────────────────────
+
+[head=2]Chems Conventions[/head]
+  Any chems that are put out must be Labeled. The label must include the Name of the chem in Pill & Chem nomenclature or in its colloquial name & the OD of the chem in Units or doses equivalent. One is to consider the "Dose" as to the use of the method of delivery, such as pills, exceeding which the patient will be ODed. 
+  A standardized pill is in 15u dose of summed constituent chems. For instance, a MB pill may contain 7.5u of Mera and Bic each and it will be a standard MB pill as is 15u dose in total. Slight deviations are acceptable albeit not appreciated as it messes with the vial contents of many Hyposprays.
+  Typically, Lower chem produces the pures & Pills while Upper chem handles GC.
+
+────────────────────────────────────────
+
+[head=2]Pill & Chem Nomenclature[/head]
+  The name of a chem is simply its full name shortened, such as "Bic" for Bicaridine or "Derma" for Dermaline. The name of a cocktail, a mixture of multiple chems, is some combination of the "major bits" of the names of its constituent chems, such as MB being M[italic]era[/italic]B[italic]ic[/italic] or FN+ F[italic]e[/italic]N[italic]utridex[/italic]+. The usual "major bit"s for the chemicals are as follows:
+
+  Arith - A
+  Bic - B
+  Derma/Dylo - D
+  Ethyl - E
+  Iron(Fe) - F
+  Imi - I
+  Kelo - K
+  Mera - M
+  Nutri - N
+  Tric - T
+  Dexplus - +
+
+  Most often, the non-alphabetic "major bits" are appended later such as FN+. The sequence of alphabetics aren't specified in the labelling but usually just follows what was being used.
+  As an example of Chem Nomenclature, it would be possible [italic]though not recommended![/italic] to name GC as MBKDT+ as it constitutes of Mera, BIc, Kelo, Derma, Tric, and dexPlus,
+
+────────────────────────────────────────
+
+[head=2]Resource Management[/head]
+  In both the Pills and GC mines, one must manage their injector's Energy well to continue production. For one, as is possible to fill the bottles of basic chems from the Chem plus vendor, one is NOT to synthesize them. Additionally, since Lower chem usually is far more energy-intensive, the Iron for the production of FN+ is frequently sourced from Upper chem by filling a tank upstairs and bringing it down. The pures are also occasionally produced upstairs be the circumstances in lower chem seemingly irrecoverable. One is advised not to take iron to the point of upper chem's reserve being below 50. 
+  Energy usage can be regulated in the lower chemstation by staggering the production of pills. One would, if to keep some reserve of energy immediently, produce the less energy-intensive ones first and then those more so. This will likely not reduce the overall demand of energy. By ascending order, the per-unit demand of energy is ranked as the following:
+
+  FN+ < GC < MB < KD < FN+ (No Iron tank) < Pures.
+
+  Pill canisters are also depleted over time. The sources of pill canisters are, in lower chem : The Chem-plus vendor, the Locker, & the 8 boxes on the table ops-start. The upper chemstation has 3 boxes at the Lathe room, 1 at the Minor chemstation, & a Chem-plus vendor at the Major chemstation. Might they be all out, one could print additional pill bottles at the Medi-lathe at the Lathe room. However, it is recommended that one would rather empty the basic pills, available from the Med-plus vendors, and use the emptied pill bottles.
+
+────────────────────────────────────────
+
+[head=2]Nutrimining[/head]
+  As mentioned in the Workflow guide, Nutrimining is the filling of tanks with nutriment ground from Foodstuff, & 3~5ku of Nutri should suffice for an ops. Usually, people would set-up a "Nutrimine", a setup of Nutriment vendors & a Reagent tank in proximity of a reagent grinder with some storage, in doing so. a Nutrimine is usually made adjacent to the Lower chemstation per demand. Vendors are to be sourced from locations shipside, the foremost usually being the Public conference and then Briefing. This implies that one must haul the food vendors, which is time-consuming. Hence, as showcased to me by a certain Vulpkanin Nurse, it is not impossible to move the grinders themselves to the vendors, functionally moving the nutrimine itself, be more than 2 jani-buckets be available. If otherwise, one will have to make many trips in the application of this unconventional method.
+
+[color=#58B38B]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]

@@ -1,0 +1,58 @@
+UNMC Medical 
+[color=#58B38B]█[/color][color=#ffffff00]░░[/color][color=#5B97BC]█ [color=#58B38B]█▄[/color] █[/color] [head=3]U[/head][bold]nited [head=3]N[/head]ations [head=3]M[/head]arine [head=3]C[/head]orps[/bold]    [bold]Form:  [/bold][color=#ff0000]M-903D[/color]
+[color=#5B97BC]▀▄▄[color=#58B38B]▀[/color] █[/color] [color=#58B38B]▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic]
+[color=#58B38B]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+
+The Guide regarding the Mechanics of Medical
+[italic]By the "Oblivious", For the Oblivious.[/italic]
+
+                            [head=1]Auxiliary Guide[/head]
+
+                                                 2ndLt. Elric "Oblivious" Powell et al.
+                                                       2e; Second Edition "Arithrazine"
+────────────────────────────────────────
+
+[head=2]Dependencies & Relations of this guide[/head]
+  This guide explains the various non-chem side-jobs of a Medbay.
+  Internally, this guide is intended to be read after the Workflow guide.
+
+────────────────────────────────────────
+
+[head=2]Table of Contents[/head]
+  Details of Reqprep
+    - Dealing with Shortages
+    - Managing storages & Stocks
+  Medbay Orderlies
+  Research Access management
+  Rollerbed Management
+
+────────────────────────────────────────
+
+[head=2]Details of Reqprep[/head]
+  [head=3]Dealing with Shortages[/head]
+  In doing two or more sessions of Reqprep, one would usually run out of Defibs and Epi vendor-injectors. In such cases; the more obscure Med-Pluses, the source of epi & Defibs, must be sought for. Currently, Upper chem Minor, Field-med, & the Brig has one each. By default, the former two must be accompanied by the CMO and the last by a MP to access; Upper chem minor exempt if one has Research access. Worth noting is that the cause to delivering vendor-injectors of Epi is to bring Epi. Be it lacking, it suffices to bring other methods of chem injection filled with Epi, such as beakers or pills of Epi. If a number of reagent pouches were produced for GC, I do recommend filling the leftover M-XL injectors with epi as replacement for the Vendor-injectors as is functionally equivalent for medi-folk.
+  The Workflow guide mentioned reqprep is bound to be delivered prior to first drop. However, albeit less so these days with the increase of default stocks of epi & fibs, Sourcing sufficient epi & Defibs for a full rig of each may take too long. For said and similar cases, one could deliver multiple types of goods in one rig or other storage and deliver. For instance, I do enjoy putting 7 epi & fib each in a rig and calling that a Halfrig of epi-fibs. As long as the quantity of each is over 4, Req ought have no problem in putting meds in first drop of all squads. The same principle can also be applied to pills, with 7 of MB, KD, & FN+ each in a lifesaver bag or in similar configurations. 
+
+  [head=3]Managing storages & Stocks[/head] 
+  Req will usually split the preps into bags of medical supplies: Med-packs, as loading each individual item takes valuable crate space. The usual configuration is 1 of every non-GC Item, and many LOs will add additional med-packs instead of loading more of said items for convenience in tracking stocks. One may exploit this tendency to track easier: If one were to send equal amounts of every req-prepped meds, they will all deplete at once. This removes the need to track every individual item on medbay-side as well. Be the equivalence already distorted, one might track the least item and consider req has that amount of med-packs.
+  Requisitions will require more funds and they will take our crates. However, much to the hassle of medbay, crates usually aren't compensated. Thus, in doing req-prep, one might choose to give the crate themselves in exchange for req's crate as they have no value. This mostly eliminates said cases, although some DCCs may also not return med's crate after having used it to transport rollerbeds.
+
+────────────────────────────────────────
+
+[head=2]Medbay Orderlies[/head]
+  In the production of GC and for the Nutrimine, one must fetch reagent tanks. They are found in the Maintenance tunnels & Pumps, with Western pumps having 2 each and the Eastern ones 1. For some tank locations close to Medbay, there are 1 each in the room across the maintenance airlocks and 2 south of HB1, 1 at the hallway & another in the room next to the one with the autolathe. The maints right south of CL's office has a tank and the maints room right above the hallway at the T junction leading to CIC has another.
+  As GC Is stored at lobby while produced at Research, one must "Cycle" the empty tanks upwards and the full ones down for the GC miner's convenience. This also applies to empty crates, with Research needing it for the export of GC req-prep and Pouch-injector sets. 
+
+────────────────────────────────────────
+
+[head=2]Research Access Management[/head]
+  By default, no medifolk aside from the CMO may access research. However, for the disposal of xeno bodies, reqprep, & making of highcomb, one would preferably have one. 
+  One may get research access under the permission of the CMO or, be the CMO absent or obliged, XO. They are to take one's ID to an access configurating terminal and give access if they wish. Might one attempt for the XO, it is advised to make a direct phone call to CIC unless brief is in session as XO's radio is allegedly terribly cluttered.
+  As is a major inconvenience and time sink to give access individually, it is good practice to consolidate IDs and deliver at once.
+
+────────────────────────────────────────
+
+[head=2]Rollerbed & Rig Management[/head]
+  In bringing up medevacs, medical will most often take the boat's rollerbed, which they must request later on for depletion. Hence, it is good practice to return a rollerbed when grabbing a medevac to prevent such inconveniences. Rigs and storage are used in reqprep and they usually aren't returned to medical unless absolutely necessary. Hence, in addition to being vigilant in checking req's stocks, it is preferable if one is also attentive to the empty rigs at req; especially lifesaver bags with them being rather limited in quantity.
+
+[color=#58B38B]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
