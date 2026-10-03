@@ -4,10 +4,10 @@
              [head=1][color=#6e6e6e]Deployment Request[/color][/head]
 
 [italic]This form serves as a request to deploy to the forward operating base and or secure area(s) to carry out assigned duties.[/italic]
-[bold]Requesting personnel: [/bold] [italic][bold]Total Number:[/bold][form][/italic]
+[bold]Requesting personnel: [/bold][form] [bolditalic]Total Number:[/bolditalic][italic][form][/italic]
 [bold]Reason(s):[/bold]
 [bullet][form]
-[italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[bolditalic][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bolditalic]
 [italic][bullet]I understand upon and during deployment, all laws and stipulations within the SOP and Marine Law are still in effect, and shall not be broken. 
 [bullet]I understand that failure to stay within the boundary designated as the forward operating base or secure areas will result in charges brought against me.
 [bullet]I understand this deployment can be canceled at the discretion of Command staff.

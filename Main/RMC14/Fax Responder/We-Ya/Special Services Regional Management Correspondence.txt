@@ -11,13 +11,13 @@
 [bold]To:[/bold] [bold]Corporate Liaison's Office[/bold]|[color=#1b67a5][bold]UNS[/bold] [bolditalic]Almayer[/bolditalic][/color]
 [head=3]From:[/head] [bolditalic]Special Services Regional Office |[color=#cb0000] OCP-583[/color][/bolditalic]
 [bold]Auth Code:[/bold] [bolditalic]1[color=#6FD15C] Charlie[/color]-[color=#1B67A5]Mike[/color][/bolditalic]
-[italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[bolditalic][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bolditalic]
 [bold]Corporate Liaison[/bold] [bolditalic][form][/bolditalic],
 [italic][form][/italic]
 	
 
-[color=#1b67a5][bold][signature] | [bolditalic]Communications Executive[/bolditalic][/bold][/color] 
-[bold]Office of the Regional Manager|Special Services Division[bold]
+[color=#1b67a5][signature] | [bolditalic]Communications Executive[/bolditalic][/color] 
+[bold]Office of the Regional Manager|Special Services Division[/bold]
 [color=#eb7a23][bolditalic]Weston-Yamada Orbital Communications Platform 583[/color]
 [color=#383838]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 

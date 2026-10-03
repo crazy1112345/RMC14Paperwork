@@ -14,5 +14,5 @@
 [bold]Sincerely,[/bold]
 [color=#1b67a5][italic][signature][/italic][/color]
 [color=#AAAAAA]===================================================[/color]
-[italic][color=#E41B1B][bold]This correspondence may be forwarded to UNMC High Command at any time.[/bold]
+[color=#E41B1B][bolditalic]This correspondence may be forwarded to UNMC High Command at any time.[/bolditalic][italic]
 Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]

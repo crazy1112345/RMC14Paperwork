@@ -89,7 +89,7 @@ Beef chili, beans, onions, cheese
 • Milk
 • Soft drinks (availability varies)
 
-[italic][bold][color=#eb7a23]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[bolditalic][color=#eb7a23]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bolditalic]
 
 [italic]House Notes:[/italic]
 • Portions subject to supply

@@ -4,7 +4,7 @@
 [color=#1b67a5]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
     [head=1]Squad Casualty Report[/head]
 
-[italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[bolditalic][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bolditalic]
 [bold][color=Red]Alpha: [form][/color][/bold]
 [bold][color=DarkOrange]Bravo: [form][/color][/bold]
 [bold][color=Purple]Charlie: [form][/color][/bold]
@@ -14,7 +14,7 @@
 [bold][color=darkgreen]Intelligence: [form][/color][/bold]
 
 [bold]Total Number: [form][/bold]
-[italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[bolditalic][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bolditalic]
 [bold]Squad Leader(s): [form][/bold] 
 [bold]Riflemen: [form][/bold] 
 [bold]Combat Technician(s): [form][/bold]
@@ -24,7 +24,7 @@
 [bold]Specialist(s): [form][/bold]
 
 [bold]Total Number:[/bold]
-[italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[bolditalic][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bolditalic]
 [bold]Certified by,[/bold]
 [bolditalic][signature][/bolditalic]
 [color=#AAAAAA]===================================================[/color]

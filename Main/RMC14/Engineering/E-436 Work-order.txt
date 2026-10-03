@@ -61,7 +61,7 @@ Mark [color=ForestGreen]✔[/color] where Applicable
 
 [form]
 
-[head=2][bold]UPPER HULL[/head][/bold]
+[head=2][bold]UPPER HULL[/bold][/head]
 
 [bold]Upper Fore[/bold]
 [bullet][ [check] ] Brig Cell Cryopods

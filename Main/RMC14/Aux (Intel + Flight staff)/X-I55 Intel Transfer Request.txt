@@ -10,12 +10,12 @@ I, [bolditalic][signature], [form][/bolditalic] hereby request to be attached to
 
 Signed,
     [bolditalic][signature][/bolditalic]
-[italic][bold][color=#AAAAAA]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[bolditalic][color=#AAAAAA]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bolditalic]
 [color=#72856d][italic]Signing of this document by no means guarantees attachment to a intelligence officer or transfer to the intelligence squad. This request may be denied by the receiving command member for any reason.[/italic][/color]
 [color=#383838]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
                         [head=2]This request has been[/head]
 
-                 [head=1][color=green]APPROVED ([form]) [/color]|[color=red]DENIED ([form])[/color][/head]
+                 [head=1][color=green]APPROVED ([check]) [/color]|[color=red]DENIED ([check])[/color][/head]
 [color=#383838]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 [bold]Authorised by[/bold][bold][signature][/bold]
 [color=#AAAAAA]===================================================[/color]

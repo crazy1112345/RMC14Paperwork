@@ -6,19 +6,19 @@
 [bold][color=#287015]Intelligence Officer(s):[/bold][/color]
     [bold]Name:[/bold] [color=#72856d][italic][form][/italic][/color]
     [bold]Responsibility:[/bold] [color=#72856d][italic](Intel Gathering OR Intelligence Overwatch)[/italic][/color]
-    [bold]Fireteam [color=#AAAAAA][italic](if applicable)[/italic][/color]:[/bold] [color=#72856d][italic][form][/italic][/color]
+    [bold]Fireteam[/bold] [color=#AAAAAA][italic](if applicable)[/italic][/color][bold]:[/bold] [color=#72856d][italic][form][/italic][/color]
         [bold]Members of Fireteam:[/bold]
             [bullet] [color=#72856d][italic][form][/italic][/color]
                                       ---
     [bold]Name:[/bold] [color=#72856d][italic][form][/italic][/color]
     [bold]Responsibility:[/bold] [color=#72856d][italic](Intel Gathering OR Intelligence Overwatch)[/italic][/color]
-    [bold]Fireteam [color=#AAAAAA][italic](if applicable)[/italic][/color]:[/bold] [color=#72856d][italic][form][/italic][/color]
+    [bold]Fireteam [color=#AAAAAA][/bold][bolditalic](if applicable)[/bolditalic][/color][bold]:[/bold] [color=#72856d][italic][form][/italic][/color]
         [bold]Members of Fireteam:[/bold]
             [bullet] [color=#72856d][italic][form][/italic][/color]
                                       ---
     [bold]Name:[/bold] [color=#72856d][italic][form][/italic][/color]
     [bold]Responsibility:[/bold] [color=#72856d][italic](Intel Gathering OR Intelligence Overwatch)[/italic][/color]
-    [bold]Fireteam [color=#AAAAAA][italic](if applicable)[/italic][/color]:[/bold] [color=#72856d][italic][form][/italic][/color]
+    [bold]Fireteam [color=#AAAAAA][/bold][bolditalic](if applicable)[/bolditalic][/color][bold]:[/bold] [color=#72856d][italic][form][/italic][/color]
         [bold]Members of Fireteam:[/bold]
             [bullet] [color=#72856d][italic][form][/italic][/color]
                                       ---
@@ -32,7 +32,7 @@
 
 [bold]Aditional Notes:[/bold]
  [italic][form][/italic]
-[italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[bolditalic][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bolditalic]
 [bold]Certified by,[/bold]
 [bolditalic][signature][/bolditalic]
 [color=#AAAAAA]===================================================[/color]

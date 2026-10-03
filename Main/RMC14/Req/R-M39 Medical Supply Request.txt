@@ -25,5 +25,5 @@
 
 [bold]Approved by,[/bold]
        [italic][signature][/italic]
-[italic][bold][color=#134975]_________________________________________________________________[/color][/bold][/italic]
+[bolditalic][color=#134975]_________________________________________________________________[/color][/bolditalic]
 [italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]

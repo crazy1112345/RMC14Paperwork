@@ -7,11 +7,11 @@
 [bold]To:[/bold] [italic][form][/italic]
 [bold]From:[/bold] [bolditalic][color=#1b67a5]UNMC Regional Command[/color] | [color=#cb0000]GSO Chinook-91[/color] [/bolditalic]
 [color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
-Type, reprimand, condemn and or commend here. Make sure your wording is clear![bold]
+Type, reprimand, condemn and or commend here. Make sure your wording is clear!
 
-Signed,
-[color=#dfc189][italic][signature][/italic][/color] 
-[/bold][italic]Communications Officer[/italic]
+[bold]Signed,[/bold]
+[color=#dfc189][bolditalic][signature][/bolditalic][/color] 
+[italic]Communications Officer[/italic]
 [bolditalic]United Nations Marine Corp Regional Command[/bolditalic]
 [color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 [color=#AAAAAA][italic][bullet]This document in no way permits any person(s) to breach Marine Law in any way, unless explicitly stated within the transmission. 

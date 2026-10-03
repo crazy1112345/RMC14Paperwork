@@ -5,7 +5,7 @@
 [color=#5f698a][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
 [head=2]Checklist[/head]
 [italic]File "Yes"(Y), "No"(N), or "Unsure"(U) in the boxes below.[/italic]
-[color=grey]-----------------------------------------------------------------------------------------[/color]
+[color=Gray]-----------------------------------------------------------------------------------------[/color]
 [head=3]Food Storage[/head]
 [bullet]Food is stored 6' above the ground: [color=red][check] [/color]
 [bullet]Relevant foods are being Refrigerated: [color=red][check] [/color]

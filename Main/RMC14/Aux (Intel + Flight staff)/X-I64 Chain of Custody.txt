@@ -5,13 +5,13 @@
 
 [bold]Type of document/device:[/bold] [italic][form][/italic]
 [bold]Item Designation:[/bold] [color=#ff0000][italic][form][/italic][/color]
-[bold]Item Serial Number [color=#AAAAAA][italic](if applicable)[/italic][/color]:[/bold] [color=#ff0000][italic][form][/italic][/color]
+[bold]Item Serial Number [/bold][color=#AAAAAA][bolditalic](if applicable)[/bolditalic][/color][bold]:[/bold] [color=#ff0000][italic][form][/italic][/color]
 [bold]Received from:[/bold] [color=#75946d][italic][form][/italic][/color]
 [bold]Received by:[/bold] [color=#72856d][italic][form][/italic][/color]
 [bold]Date:[/bold] [italic][form] [/italic]
 [bold]Time:[/bold] [italic][form][/italic]
 
-[italic][bold][color=#287015]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[bolditalic][color=#287015]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bolditalic]
 [bold]Date of collection:[/bold] [italic][form][/italic]
 [bold]Time of collection:[/bold] [italic][form][/italic]
 [bold]Collected by:[/bold] [color=#75946d][italic][form][/italic][/color]
@@ -24,7 +24,7 @@
 [bold]Additional Comments:[/bold]
     [bullet] [italic][form][/italic]
 
-[italic][bold][color=#287015]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[bolditalic][color=#287015]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bolditalic]
 [bold]Certified by,[/bold]
 [bolditalic][signature][/bolditalic]
 

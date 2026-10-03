@@ -11,7 +11,7 @@
 [bolditalic]Transference of Ownership (Optional)[/bolditalic]
      [bullet][italic]Yes: [/italic][color=red]( [form] )[/color]
      [bullet][italic]No: [/italic][color=red]( [form] )[/color]
-[italic][color=grey]For further information, please consult the Legal Rights and Info.[/color][/italic]
+[italic][color=gray]For further information, please consult the Legal Rights and Info.[/color][/italic]
 
 [bolditalic]Further Consultation to Retain Creative Vision[/bolditalic]
      [bullet][italic]Yes: [/italic][color=red]( [form] )[/color]

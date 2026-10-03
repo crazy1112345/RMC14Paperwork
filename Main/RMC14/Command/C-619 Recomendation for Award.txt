@@ -17,12 +17,12 @@
 < [check] > [color=LightSteelBlue]Medal of Valor[/color]
 < [check] > [color=Goldenrod]Medal of Exceptional Heroism[/color]
 [bold]Posthumous:[/bold] YES <  [check]  >    NO <  [check]  >  
-[italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[bolditalic][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bolditalic]
 [bold]Signed,[/bold]
 [color=#1b67a5][italic]■[signature][/italic][/color]
 
 [bold]Approved by,[/bold]
 [color=#1b67a5][italic]■[signature][/italic][/color]
-[bold]Commanding Officer|UNS [bolditalic]Almayer[/bolditalic][/color]
+[bolditalic]Commanding Officer|UNS [bolditalic]Almayer[/bolditalic]
 [color=#AAAAAA]===================================================[/color] 
 [italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]
