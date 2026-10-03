@@ -2,7 +2,7 @@
 [color=#383838]▀▄▄[color=#8c0000]▀[/color] █[/color] [color=#8c0000]▀█[/color] [color=#AAAAAA][italic]UNS Almayer; 2nd Company "Falling Falcons"[/color][/italic]
 [color=#8c0000]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
                         [head=1]Incident Report[/head]
-[italic][bold][color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color][/bold][/italic]
+[bolditalic][color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color][/bolditalic]
 [color=#1b67a5][head=3]Informant's Details[/head][/color]
 [bold]Name: [/bold][form]
 [bold]Rank: [/bold][form]
@@ -16,13 +16,13 @@
 
 [bold]Signed,[/bold]
 [color=#1b67a5][italic][signature][/italic][/color]
-[italic][bold][color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color][/bold][/italic]
+[bolditalic][color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color][/bolditalic]
                      [italic][color=#ff0000]****MILITARY POLICE USE ONLY****[/color][/italic]
 [bold]Officer Assigned: [/bold][italic][form][/italic]
 [bold]Follow-up Recommendations:[/bold]
 [bullet]Locate any witnesses and collect statements using P-402.
 [bullet][form]
 
-[italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[bolditalic][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bolditalic]
 [italic][color=#AAAAAA]This document is to be kept on physical record for a minimum period of five (5) years, and digital record permanently.[/color][/italic]
 [italic][color=#ff0000]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]

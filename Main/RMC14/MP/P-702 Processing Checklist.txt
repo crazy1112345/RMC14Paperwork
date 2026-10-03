@@ -24,8 +24,8 @@
 
 7. Offer them medical care, and answer any questions they have before dismissing them. [check]
 
-[italic][bold][color=red]By signing below I, as Processing Personnel, Confirm that all of the above steps have been completed to the best of my ability in accordance with S.O.P.[/italic][/bold][color=black]
-[Signature]
+[bolditalic][color=red]By signing below I, as Processing Personnel, Confirm that all of the above steps have been completed to the best of my ability in accordance with S.O.P.[/bolditalic][color=black]
+[signature]
 
 [bold]Names of processed individuals:[/bold]
 [bullet] [form]
@@ -42,14 +42,14 @@
 [bullet] [form]
 
 [bold]Notes:[/bold] [form]
-[italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[bolditalic][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bolditalic]
 Processed by,
 [color=#1b67a5][italic][signature][/italic][/color]
 
 Approved by, 
 [color=#1b67a5][italic][signature][/italic][/color]
 
-[italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[bolditalic][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bolditalic]
 [head=2]Colonist Survivor Rights and Policies[/head]
 
 [bullet] Survivors may keep all tools and materials, unless used to commit a crime.

@@ -31,7 +31,7 @@ Mark [color=#00bd09][bold]Good[/bold][/color], [color=#1b67a5][bold]Fair[/bold][
 
 
 [bold]Additional Checks:[/bold]
-[italic]Mark [bold]X[/bold] [form] applicable.[/italic]
+[italic]Mark[/italic] [bold]X[/bold] [italic][form] applicable.[/italic]
 
 - < [check] > Cabin Cleaned
 - < [check] > Port Attachments Removed
@@ -40,13 +40,13 @@ Mark [color=#00bd09][bold]Good[/bold][/color], [color=#1b67a5][bold]Fair[/bold][
 
 [bold]Additional Information:[/bold]
  [italic][form][/italic]
-[italic][bold][color=#f39f27]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[bolditalic][color=#f39f27]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bolditalic]
 [italic]I certify that I have completed all the postflight checks listed above, and that the aircraft is prepared for storage in accordance with UNMC regulations and safety protocols. 
 Any discrepancies found have been reported and addressed.[/italic]
 
 [bold]Signed,[/bold]
 [color=#1b67a5][italic][signature][/italic][/color]
-[italic][bold][color=#f39f27]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[bolditalic][color=#f39f27]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bolditalic]
 [color=#AAAAAA][italic][bullet]This Postflight Checklist must be completed and signed following every flight operation. 
 [bullet]Failure to comply with postflight procedures may result in disciplinary action and grounding of the aircraft.
 [bullet]Any issues found during the postflight check must be reported to the maintenance crew and resolved before storage clearance is granted.

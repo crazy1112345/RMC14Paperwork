@@ -8,7 +8,7 @@ to its operating capacity or status, and an investigation
 has been authorized by the UNMC or the Weston-Yamada Corporation.[/bolditalic] 
 
 [italic]The Shipside Liaison is expected to acknowledge the reason for investigation, identify the events resulting in the investigation, explain what action is being taken by UNMC and Weston-Yamada personnel, form conclusions, and highlight any further recommendations to prevent or minimize future incidents that may occur.[/italic] 
-[italic][bold][color=#383838]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[bolditalic][color=#383838]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bolditalic]
 [bullet][bold]Operation Name:[/bold][form]
 [bullet][bold]Responding UNMC Assets:[/bold] [form]
 [bullet][bold]Reason for Investigation:[/bold] [form]

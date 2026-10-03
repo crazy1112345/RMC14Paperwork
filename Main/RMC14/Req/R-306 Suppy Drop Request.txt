@@ -23,7 +23,7 @@
 
 Approved By,
 [italic][color=#AA8760][signature][/italic][/color]
-[italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[bolditalic][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bolditalic]
 [italic]Disclaimer:
 [color=#AAAAAA][bullet]I certify that the above resupply request is accurate and strictly to be used for the purposes of the operation. Any falsification or omission of information may result in disciplinary action.
 [bullet]I understand that this document serves as merely a request and does not guarantee the complete contents of the request.

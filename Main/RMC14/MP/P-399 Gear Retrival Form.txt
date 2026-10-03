@@ -31,5 +31,5 @@ Processer: [form]
 
 [color=#AAAAAA]===================================================[/color]
 [italic]I certify that the above information is accurate and complete to the best of my knowledge. 
-I understand that any falsification or omission of information may result in charges brought against me.[/italic][/color]
+I understand that any falsification or omission of information may result in charges brought against me.[/italic]
 [italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic] 

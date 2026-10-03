@@ -22,7 +22,7 @@ All UNMC laws are to be followed during this arrest.[/bolditalic]
 [ [check] ] Hostile
 [ [check] ] Unarmed
 [ [check] ] Armed
-[italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[bolditalic][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bolditalic]
 [bullet]I certify that this order is lawful and true in accordance with UNMC laws and standards. 
 [bullet]I affirm that the above is true to the best of my knowledge, and that the complaint filed on oath has legal grounds for an arrest. 
 [bullet]In the event of an unlawfully ordered or unjustified arrest, I bear responsibility for the consequences of such an order.
@@ -32,5 +32,5 @@ All UNMC laws are to be followed during this arrest.[/bolditalic]
 [bold]Signed,[/bold]
 [color=#AA8760][italic][signature][/italic][/color]
 Chief Military Police, [italic]UNS Almayer[/italic]
-[italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[bolditalic][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bolditalic]
 [italic][color=#E41B1B]Use of this document inconsistent with UCMJ regulations and UNMC policy MIL-891 is a violation of federal law and will result in prosecution.[/color][/italic]
