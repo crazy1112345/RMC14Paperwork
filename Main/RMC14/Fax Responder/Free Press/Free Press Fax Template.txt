@@ -12,7 +12,7 @@
                 [head=1]Free Press Correspondence[/head]
 [color=#2E68AF]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
 [bolditalic]From: [/bolditalic][color=red][signature][/color]
-[bolditalic]To: [/bolditalic][color=red][form], UNS Almayer[/color]
+[bolditalic]To: [/bolditalic][color=red][form], [ship][/color]
 [bolditalic]Subject: [/bolditalic][color=red][form][/color]
 [color=#2E68AF]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color][color=#000]
 [italic]Hello [form],
